@@ -4,4 +4,4 @@ The Synod player: a TypeScript canvas library that plays `scene.json`, used by t
 
 See implementation/00-architecture.md and 04-formats.md in dsl.
 
-Implements the Synod language specification v0.1.0: https://github.com/synodlang/dsl
+Implements the Synod language specification v0.2.0: https://github.com/synodlang/dsl
