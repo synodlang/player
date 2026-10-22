@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Synod player</title>
+    <link rel="stylesheet" href="demo.css" />
+  </head>
+  <body>
+    <header class="bar">
+      <strong class="brand">Synod player</strong>
+      <select id="scene-select" aria-label="Scene"></select>
+      <label class="file">Open scene.json <input id="file" type="file" accept=".json,application/json" /></label>
+      <label class="file">trace.jsonl <input id="trace-file" type="file" accept=".jsonl,.txt,.json" /></label>
+      <span id="status" class="status" role="status"></span>
+    </header>
+    <main class="layout">
+      <section class="stage-wrap">
+        <div id="stage" class="stage"><canvas id="canvas"></canvas></div>
+        <div class="controls">
+          <button id="play" type="button" title="Play / pause (Space)">Play</button>
+          <button id="prev" type="button" title="Previous fact (Left)">&#8592; Fact</button>
+          <button id="next" type="button" title="Next fact (Right)">Fact &#8594;</button>
+          <div class="scrub">
+            <input id="scrub" type="range" min="0" max="0" step="1" value="0" aria-label="Time" />
+            <div id="ticks" class="ticks"></div>
+          </div>
+          <span id="readout" class="readout">0 / 0 ms</span>
+          <span id="fact" class="readout fact"></span>
+          <select id="rate" aria-label="Speed">
+            <option value="0.25">0.25x</option>
+            <option value="0.5">0.5x</option>
+            <option value="1" selected>1x</option>
+            <option value="2">2x</option>
+            <option value="4">4x</option>
+          </select>
+          <label><input id="loop" type="checkbox" /> Loop</label>
+          <label><input id="predict" type="checkbox" /> Predict (stop at pause)</label>
+        </div>
+      </section>
+      <aside class="side">
+        <h2>Markers</h2>
+        <ul id="markers" class="list"></ul>
+        <h2>Warnings</h2>
+        <ul id="warnings" class="list"></ul>
+      </aside>
+    </main>
+    <pre id="bench" class="bench" hidden></pre>
+    <script type="module" src="demo.js"></script>
+  </body>
+</html>

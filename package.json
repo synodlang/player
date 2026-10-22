@@ -23,7 +23,9 @@
     "test": "node --test \"test/**/*.test.ts\"",
     "sync-scenes": "node scripts/sync-scenes.ts",
     "bench": "node --expose-gc test/bench/bench.ts",
-    "golden:update": "node scripts/update-goldens.ts"
+    "golden:update": "node scripts/update-goldens.ts",
+    "build": "node scripts/build.ts",
+    "demo": "node scripts/build.ts && node scripts/serve.ts"
   },
   "devDependencies": {
     "@biomejs/biome": "2.6.2",

@@ -35,8 +35,10 @@ declare module "node:fs" {
   export function writeFileSync(path: string, data: string | Uint8Array): void;
   export function readdirSync(path: string): string[];
   export function mkdirSync(path: string, opts?: { recursive?: boolean }): void;
-  export function rmSync(path: string, opts?: { force?: boolean }): void;
+  export function rmSync(path: string, opts?: { force?: boolean; recursive?: boolean }): void;
   export function existsSync(path: string): boolean;
+  export function cpSync(src: string, dest: string, opts?: { recursive?: boolean }): void;
+  export function statSync(path: string): { isFile(): boolean; isDirectory(): boolean };
 }
 
 declare module "node:path" {
@@ -44,6 +46,35 @@ declare module "node:path" {
   export function resolve(...p: string[]): string;
   export function basename(p: string, ext?: string): string;
   export function dirname(p: string): string;
+  export function extname(p: string): string;
+}
+
+declare module "node:zlib" {
+  export function gzipSync(data: string | Uint8Array, opts?: { level?: number }): Uint8Array;
+}
+
+declare module "node:child_process" {
+  export function execFileSync(
+    file: string,
+    args: string[],
+    opts?: { stdio?: "inherit" | "pipe"; cwd?: string },
+  ): Uint8Array;
+}
+
+declare module "node:http" {
+  interface Req {
+    url?: string;
+    method?: string;
+  }
+  interface Res {
+    writeHead(status: number, headers?: Record<string, string | number>): void;
+    end(body?: string | Uint8Array): void;
+  }
+  interface Server {
+    listen(port: number, host: string, cb?: () => void): void;
+    on(event: "error", cb: (e: Error) => void): void;
+  }
+  export function createServer(handler: (req: Req, res: Res) => void): Server;
 }
 
 declare module "node:*";
