@@ -1,0 +1,3185 @@
+# view 1600x1000 dpr 1
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+restore
+== at=156.667
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+restore
+== at=313.333
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore
+== at=352.5
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore
+== at=470
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore
+== at=626.667
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore
+== at=705
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore
+== at=783.333
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore
+== at=900
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore
+== at=940
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+fillStyle = #151a2e
+fillText "n5" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 895.05 215.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 991.44 269.02
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1065.04 640.54
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 579.21 703.11
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 512.33 585.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 989.47 732.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1074.60 379.19
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+restore
+== at=1057.5
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+globalAlpha = 0.80
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+globalAlpha = 0.92
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+globalAlpha = 0.98
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+fillStyle = #151a2e
+fillText "n5" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 895.05 215.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 991.44 269.02
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1065.04 640.54
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 579.21 703.11
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 512.33 585.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 989.47 732.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1074.60 379.19
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+globalAlpha = 0.20
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+globalAlpha = 0.08
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+globalAlpha = 0.02
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+restore
+== at=1096.667
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+globalAlpha = 0.58
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+globalAlpha = 0.76
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+globalAlpha = 0.89
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+globalAlpha = 0.97
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+fillStyle = #151a2e
+fillText "n5" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 895.05 215.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 991.44 269.02
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1065.04 640.54
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 579.21 703.11
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 512.33 585.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 989.47 732.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1074.60 379.19
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+globalAlpha = 0.42
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+globalAlpha = 0.24
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+globalAlpha = 0.11
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+globalAlpha = 0.03
+setTransform 1.00 0.00 0.00 1.00 870.92 216.96
+fillText "cart:7" 0.00 0.00
+restore
+== at=1253.333
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+globalAlpha = 0.02
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillStyle = #ede9e1
+fillText "user:2" 0.00 0.00
+globalAlpha = 0.08
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+globalAlpha = 0.19
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:7" 0.00 0.00
+globalAlpha = 0.36
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+globalAlpha = 0.54
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+fillStyle = #151a2e
+fillText "n5" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 895.05 215.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 991.44 269.02
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1065.04 640.54
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 579.21 703.11
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 512.33 585.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 989.47 732.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1074.60 379.19
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+globalAlpha = 0.98
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+globalAlpha = 0.92
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+globalAlpha = 0.81
+setTransform 1.00 0.00 0.00 1.00 987.72 657.22
+fillText "cart:7" 0.00 0.00
+globalAlpha = 0.64
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+globalAlpha = 0.46
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore
+== at=1410
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 300.00 0.00 6.28
+fillStyle = #151a2e
+fill
+strokeStyle = #3a4366
+stroke
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1090.65 425.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 932.10 230.65
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 903.11 781.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.38 567.17
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1098.26 467.72
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 514.31 408.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.39 601.28
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 639.20 246.74
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 975.52 256.70
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 798.88 800.00
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 584.36 708.57
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1048.88 332.49
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 504.28 550.48
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 986.85 734.71
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.89 464.47
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1082.36 601.35
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 786.50 200.30
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.22 459.23
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1006.06 718.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 510.89 580.08
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.07 569.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 885.11 787.68
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1092.74 565.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 508.95 427.26
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 517.96 397.75
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1090.57 574.61
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 618.89 260.84
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1094.15 441.03
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 576.90 299.43
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 759.28 797.22
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1072.70 625.04
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 969.21 747.73
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+fillStyle = #151a2e
+fillText "n5" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 936.84 766.98
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 895.05 215.46
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 991.44 269.02
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1065.04 640.54
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 579.21 703.11
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 512.33 585.13
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 989.47 732.60
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1074.60 379.19
+beginPath
+arc 0.00 0.00 4.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1170.65 425.68
+fillStyle = #ede9e1
+fillText "user:1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "user:3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1016.84 766.98
+fillText "cart:7" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 866.50 200.30
+fillText "cart:9" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1063.52 256.70
+fillText "order:12" 0.00 0.00
+restore

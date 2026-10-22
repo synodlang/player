@@ -35,6 +35,7 @@ declare module "node:fs" {
   export function writeFileSync(path: string, data: string | Uint8Array): void;
   export function readdirSync(path: string): string[];
   export function mkdirSync(path: string, opts?: { recursive?: boolean }): void;
+  export function rmSync(path: string, opts?: { force?: boolean }): void;
   export function existsSync(path: string): boolean;
 }
 
@@ -53,6 +54,7 @@ declare const process: {
   env: Record<string, string | undefined>;
   stdout: { write(s: string): void };
   stderr: { write(s: string): void };
+  memoryUsage(): { heapUsed: number };
 };
 
 interface ImportMeta {

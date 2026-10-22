@@ -1,0 +1,1412 @@
+# view 1600x1000 dpr 1
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+restore
+== at=250.889
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 915.93 684.66
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 915.93 684.66
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 915.93 729.66
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 915.93 755.66
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 639.40 707.28
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 639.40 707.28
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 639.40 752.28
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 639.40 778.28
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+restore
+== at=501.778
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.15 200.15
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.15 177.15
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+restore
+== at=564.5
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 807.40 207.40
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 807.40 184.40
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 212.24
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 189.24
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 799.82 200.18
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 799.82 177.18
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+restore
+== at=752.667
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 933.68 333.68
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 933.68 310.68
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 616.41
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 593.41
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 730.08 269.92
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 730.08 246.92
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+restore
+== at=1003.556
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1097.73 497.73
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1097.73 474.73
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+globalAlpha = 0.82
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 777.00
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 528.00 472.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 528.00 449.00
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 796.89
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 773.89
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+restore
+== at=1129
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+globalAlpha = 0.91
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 477.00
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+globalAlpha = 0.13
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 777.00
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 500.12 499.88
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 500.12 476.88
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 612.12
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 589.12
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 477.00
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+restore
+== at=1254.444
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State idle" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+globalAlpha = 0.23
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 477.00
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+globalAlpha = 0.77
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 477.00
+fillStyle = #ede9e1
+fillText "Prepare" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 800.00 289.22
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 266.22
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1095.12 495.12
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1095.12 472.12
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 503.46 496.54
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 503.46 473.54
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+restore
+== at=1505.333
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+globalAlpha = 0.59
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 177.00
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1036.07 436.07
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1036.07 413.07
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 765.14 234.86
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 765.14 211.86
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+restore
+== at=1688
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ece8e1
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 978.97 378.97
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 978.97 355.97
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+globalAlpha = 0.89
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 177.00
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+restore
+== at=1693.5
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ece8e0
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 977.58 377.58
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 977.58 354.58
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+globalAlpha = 0.86
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 177.00
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+restore
+== at=1756.222
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #d8d7d6
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 964.06 364.06
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 964.06 341.06
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+globalAlpha = 0.52
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 177.00
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+restore
+== at=2007.111
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+globalAlpha = 0.97
+setTransform 1.00 0.00 0.00 1.00 950.00 350.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 950.00 327.00
+fillStyle = #ede9e1
+fillText "Vote" 0.00 0.00
+restore
+== at=2258
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 200.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 245.00
+fillStyle = #ede9e1
+fillText "State waiting" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 271.00
+fillText "Participants {n2, n3, n4}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1100.00 571.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 800.00
+fillStyle = #151a2e
+fillText "n3" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 845.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 800.00 871.00
+fillText "Participants {}" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 500.00
+fillStyle = #151a2e
+fillText "n4" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 545.00
+fillStyle = #ede9e1
+fillText "State prepared" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 500.00 571.00
+fillText "Participants {}" 0.00 0.00
+restore

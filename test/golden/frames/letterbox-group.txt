@@ -1,0 +1,175 @@
+# view 1000x1000 dpr 2
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 2000.00 2000.00
+setTransform 1.25 0.00 0.00 1.25 0.00 375.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+restore
+== at=452.5
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 2000.00 2000.00
+setTransform 1.25 0.00 0.00 1.25 0.00 375.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+moveTo -28.00 -20.00
+arcTo 40.00 -20.00 40.00 20.00 12.00
+arcTo 40.00 20.00 -40.00 20.00 12.00
+arcTo -40.00 20.00 -40.00 -20.00 12.00
+arcTo -40.00 -20.00 40.00 -20.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+fillStyle = #ede9e1
+fillText "node" 0.00 0.00
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+moveTo -28.00 -20.00
+arcTo 40.00 -20.00 40.00 20.00 12.00
+arcTo 40.00 20.00 -40.00 20.00 12.00
+arcTo -40.00 20.00 -40.00 -20.00 12.00
+arcTo -40.00 -20.00 40.00 -20.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+fillStyle = #ede9e1
+fillText "node" 0.00 0.00
+restore
+== at=905
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 2000.00 2000.00
+setTransform 1.25 0.00 0.00 1.25 0.00 375.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+moveTo -28.00 -20.00
+arcTo 40.00 -20.00 40.00 20.00 12.00
+arcTo 40.00 20.00 -40.00 20.00 12.00
+arcTo -40.00 20.00 -40.00 -20.00 12.00
+arcTo -40.00 -20.00 40.00 -20.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+fillStyle = #ede9e1
+fillText "node" 0.00 0.00
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+moveTo -28.00 -20.00
+arcTo 40.00 -20.00 40.00 20.00 12.00
+arcTo 40.00 20.00 -40.00 20.00 12.00
+arcTo -40.00 20.00 -40.00 -20.00 12.00
+arcTo -40.00 -20.00 40.00 -20.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+fillStyle = #ede9e1
+fillText "node" 0.00 0.00
+restore
+== at=1810
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 2000.00 2000.00
+setTransform 1.25 0.00 0.00 1.25 0.00 375.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+moveTo -28.00 -20.00
+arcTo 40.00 -20.00 40.00 20.00 12.00
+arcTo 40.00 20.00 -40.00 20.00 12.00
+arcTo -40.00 20.00 -40.00 -20.00 12.00
+arcTo -40.00 -20.00 40.00 -20.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+fillStyle = #ede9e1
+fillText "node" 0.00 0.00
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+moveTo -28.00 -20.00
+arcTo 40.00 -20.00 40.00 20.00 12.00
+arcTo 40.00 20.00 -40.00 20.00 12.00
+arcTo -40.00 20.00 -40.00 -20.00 12.00
+arcTo -40.00 -20.00 40.00 -20.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+fillStyle = #ede9e1
+fillText "node" 0.00 0.00
+restore
