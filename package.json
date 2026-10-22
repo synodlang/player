@@ -1,0 +1,32 @@
+{
+  "name": "@synodlang/player",
+  "version": "0.2.0",
+  "description": "Plays a Synod scene.json on a canvas.",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/synod-player.d.ts",
+      "import": "./dist/synod-player.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "lint": "biome ci .",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test \"test/**/*.test.ts\"",
+    "sync-scenes": "node scripts/sync-scenes.ts"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.2",
+    "@playwright/test": "1.64.1",
+    "esbuild": "0.28.2",
+    "typescript": "7.0.2"
+  }
+}

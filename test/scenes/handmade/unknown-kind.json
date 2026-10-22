@@ -1,0 +1,10 @@
+{"format":"synod-scene/1","duration":600,"canvas":{"w":1600,"h":1000},"theme":{"Paper":"#151A2E","Ink":"#EDE9E1","Line":"#3A4366","Quiet":"#8A90A8","Accent":"#F4A340","Good":"#5CC8B8","Warning":"#E8C35A","Critical":"#E86F5A"},"shapes":[
+{"id":"s000000000f01","kind":"polygon","props":{"points":[0,0,10,10]},"keys":[{"at":0,"x":100,"y":100,"opacity":1,"fill":"Ink"}]},
+{"id":"s000000000f02","kind":"circle","props":{"r":10},"keys":[{"at":0,"x":300,"y":300,"opacity":1,"fill":"Ink","effect":"sparkle"}]},
+{"id":"s000000000f03","kind":"line","props":{"from":"s000000000f01","to":"s000000000f02"},"keys":[{"at":0,"opacity":1,"stroke":"Line"}]},
+{"id":"s000000000f04","kind":"group","props":{"items":["s000000000f01"]},"keys":[{"at":0,"x":800,"y":500,"opacity":1}]},
+{"id":"s000000000f05","kind":"group","props":{"items":["s000000000f01","s000000000f06"]},"keys":[{"at":0,"x":900,"y":500,"opacity":1}]},
+{"id":"s000000000f06","kind":"label","props":{},"keys":[{"at":0,"x":0,"y":0,"opacity":1,"fill":"Ink","text":"kept"}]}
+],"markers":[],"trace":[
+{"seq":1,"at":0}
+]}
