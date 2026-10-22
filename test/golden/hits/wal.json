@@ -11,39 +11,165 @@
   },
   {
    "at": 1763.333,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 3526.667,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 5290,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 7053.333,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 8816.667,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 10580,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 12343.333,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 14106.667,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 15870,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    }
+   ]
   }
  ]
 }

@@ -11,39 +11,282 @@
   },
   {
    "at": 242.889,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "sde581b0c4d66",
+      "kind": "circle",
+      "node": null,
+      "msg": 1
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 485.778,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 728.667,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "sde581b0c4d66",
+      "kind": "circle",
+      "node": null,
+      "msg": 1
+     }
+    }
+   ]
   },
   {
    "at": 971.556,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 1214.444,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "sa15820a22ccd",
+      "kind": "circle",
+      "node": null,
+      "msg": 2
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 1457.333,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 1700.222,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "sac582572a570",
+      "kind": "circle",
+      "node": null,
+      "msg": 3
+     }
+    }
+   ]
   },
   {
    "at": 1943.111,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
+     }
+    }
+   ]
   },
   {
    "at": 2186,
-   "boxes": []
+   "boxes": [
+    {
+     "node": "n1",
+     "x": 752,
+     "y": 172,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
+     }
+    },
+    {
+     "node": "n2",
+     "x": 752,
+     "y": 772,
+     "w": 96,
+     "h": 56,
+     "hit": {
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
+     }
+    }
+   ]
   }
  ]
 }
