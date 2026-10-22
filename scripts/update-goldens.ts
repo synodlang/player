@@ -6,8 +6,9 @@
 // test/golden.test.ts imports generateGoldens() and compares.
 
 import { createHash } from "node:crypto";
-import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs";
+import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { hitTestScene, nodeBoundsScene } from "../src/eval/hit.ts";
 import { renderToContext } from "../src/render/draw.ts";
 import type { Compiled } from "../src/scene/compile.ts";
 import { compileScene } from "../src/scene/compile.ts";
@@ -16,6 +17,7 @@ import type { Scene } from "../src/types.ts";
 import { RecordingContext } from "../test/helpers/recording-context.ts";
 import { sceneText } from "../test/helpers/scenes.ts";
 
+export const HITS_DIR = join(import.meta.dirname, "..", "test", "golden", "hits");
 export const FRAMES_DIR = join(import.meta.dirname, "..", "test", "golden", "frames");
 
 /** Scenes whose goldens are hashes (too large to keep as text). */
@@ -141,11 +143,54 @@ export function generateGoldens(): Golden[] {
   return out;
 }
 
+/**
+ * Hit goldens: for each example scene and the hand-made fixture, at 10 evenly spaced
+ * times, nodeBounds and the hitTest answer at each box centre (null when nothing hits).
+ */
+export function generateHitGoldens(): Golden[] {
+  const out: Golden[] = [];
+  const sources: [string, string][] = [];
+  for (const name of names("examples")) sources.push([name, sceneText("examples", `${name}.json`)]);
+  const fixtures = join(HITS_DIR, "scenes");
+  for (const f of readdirSync(fixtures)
+    .filter((f) => f.endsWith(".json"))
+    .sort()) {
+    sources.push([f.slice(0, -5), readFileSync(join(fixtures, f), "utf8")]);
+  }
+  for (const [name, text] of sources) {
+    const { scene } = loadScene(text);
+    const c = compileScene(scene);
+    const frames = [];
+    for (let i = 0; i < 10; i++) {
+      const at = round3((i * scene.duration) / 9);
+      const boxes = nodeBoundsScene(c, at, MAIN_VIEW).map((b) => ({
+        node: b.node,
+        x: round3(b.x),
+        y: round3(b.y),
+        w: round3(b.w),
+        h: round3(b.h),
+        hit: hitTestScene(c, at, MAIN_VIEW, b.x + b.w / 2, b.y + b.h / 2),
+      }));
+      frames.push({ at, boxes });
+    }
+    out.push({
+      file: `${name}.json`,
+      content: `${JSON.stringify({ view: MAIN_VIEW, frames }, null, 1)}\n`,
+    });
+  }
+  return out;
+}
+
 if (import.meta.main) {
   mkdirSync(FRAMES_DIR, { recursive: true });
   // drop stale goldens so a removed scene does not linger
   for (const f of readdirSync(FRAMES_DIR)) if (f.endsWith(".txt")) rmSync(join(FRAMES_DIR, f));
   const goldens = generateGoldens();
   for (const g of goldens) writeFileSync(join(FRAMES_DIR, g.file), g.content);
+  mkdirSync(HITS_DIR, { recursive: true });
+  for (const f of readdirSync(HITS_DIR)) if (f.endsWith(".json")) rmSync(join(HITS_DIR, f));
+  const hits = generateHitGoldens();
+  for (const g of hits) writeFileSync(join(HITS_DIR, g.file), g.content);
+  process.stdout.write(`wrote ${hits.length} hit goldens to ${HITS_DIR}\n`);
   process.stdout.write(`wrote ${goldens.length} golden files to ${FRAMES_DIR}\n`);
 }

@@ -1,5 +1,6 @@
 // createPlayer: a clock, a compiled scene and a canvas, with events.
 
+import { hitTestScene, nodeBoundsScene } from "../eval/hit.ts";
 import { renderToContext } from "../render/draw.ts";
 import { backingSize } from "../render/viewport.ts";
 import { compileScene } from "../scene/compile.ts";
@@ -109,6 +110,7 @@ export function createPlayerWithEnv(
   let warnings: string[] = [];
   let pixelRatio = opts.pixelRatio ?? env.devicePixelRatio;
   let view: View | null = null;
+  let drawnAt = 0;
   let rafHandle = 0;
   let lastTimeEmit = Number.NEGATIVE_INFINITY;
   let factSeq = -1;
@@ -150,6 +152,7 @@ export function createPlayerWithEnv(
 
   function draw(at: number = clock.time): void {
     if (!view || !(view.width > 0) || !(view.height > 0)) return;
+    drawnAt = at;
     renderToContext(ctx as Ctx2D, compiled, at, view, renderOpts);
   }
 
@@ -380,6 +383,14 @@ export function createPlayerWithEnv(
       draw();
       emit("scene", {});
       emitTime();
+    },
+    hitTest(x, y) {
+      if (destroyed || !view || !(view.width > 0) || !(view.height > 0)) return null;
+      return hitTestScene(compiled, drawnAt, view, x, y);
+    },
+    nodeBounds() {
+      if (destroyed || !view || !(view.width > 0) || !(view.height > 0)) return [];
+      return nodeBoundsScene(compiled, drawnAt, view);
     },
     resize,
     renderFrame(at) {

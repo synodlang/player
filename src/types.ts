@@ -27,6 +27,10 @@ export interface CircleShape {
   props: { r: number };
   keys: SceneKey[];
   end?: number;
+  /** The node this shape is attached to (`draw ... for n`); not drawn. */
+  node?: string;
+  /** The trace message id of the shape's first flight; not drawn. */
+  msg?: number;
 }
 export interface RectShape {
   id: string;
@@ -34,6 +38,10 @@ export interface RectShape {
   props: { w: number; h: number; radius: number };
   keys: SceneKey[];
   end?: number;
+  /** The node this shape is attached to (`draw ... for n`); not drawn. */
+  node?: string;
+  /** The trace message id of the shape's first flight; not drawn. */
+  msg?: number;
 }
 export interface LabelShape {
   id: string;
@@ -41,6 +49,10 @@ export interface LabelShape {
   props: Record<string, never>;
   keys: SceneKey[];
   end?: number;
+  /** The node this shape is attached to (`draw ... for n`); not drawn. */
+  node?: string;
+  /** The trace message id of the shape's first flight; not drawn. */
+  msg?: number;
 }
 export interface LineShape {
   id: string;
@@ -48,6 +60,10 @@ export interface LineShape {
   props: { from: string; to: string };
   keys: SceneKey[];
   end?: number;
+  /** The node this shape is attached to (`draw ... for n`); not drawn. */
+  node?: string;
+  /** The trace message id of the shape's first flight; not drawn. */
+  msg?: number;
 }
 export interface GroupShape {
   id: string;
@@ -55,6 +71,10 @@ export interface GroupShape {
   props: { items: string[] };
   keys: SceneKey[];
   end?: number;
+  /** The node this shape is attached to (`draw ... for n`); not drawn. */
+  node?: string;
+  /** The trace message id of the shape's first flight; not drawn. */
+  msg?: number;
 }
 export type SceneShape = CircleShape | RectShape | LabelShape | LineShape | GroupShape;
 
@@ -63,6 +83,8 @@ export interface SceneMarker {
   at: number;
   kind: MarkerKind;
   text: string;
+  /** Predict choices; only on `pause`, only when not empty. */
+  choices?: string[];
 }
 /** Maps a trace seq to its presentation slot (ms). */
 export interface TraceEntry {
@@ -155,6 +177,22 @@ export interface PlayerOptions {
   timeEventHz?: number;
 }
 
+/** What a click on the stage hit: the topmost drawn circle or rect with a node or msg. */
+export interface HitResult {
+  id: string;
+  kind: "circle" | "rect";
+  node: string | null;
+  msg: number | null;
+}
+/** The box of a node in CSS pixels of the canvas, without slop. */
+export interface NodeBox {
+  node: string;
+  x: number;
+  y: number;
+  w: number;
+  h: number;
+}
+
 export type PauseReason = "user" | "marker" | "end";
 
 export interface PlayerEventMap {
@@ -187,6 +225,10 @@ export interface Player {
   factAt(at: number): TraceEntry | null;
   timeOfSeq(seq: number): number | null;
   setScene(scene: Scene | string | object, opts?: { keepTime?: boolean }): void;
+  /** The hit under (x, y) in CSS pixels of the canvas, on the frame last drawn; null for none. */
+  hitTest(x: number, y: number): HitResult | null;
+  /** The box of each node with drawn circles or rects, on the frame last drawn. */
+  nodeBounds(): NodeBox[];
   resize(cssWidth?: number, cssHeight?: number, pixelRatio?: number): void;
   renderFrame(at: number): void;
   on<K extends PlayerEventName>(event: K, cb: (e: PlayerEventMap[K]) => void): () => void;

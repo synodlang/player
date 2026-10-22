@@ -375,3 +375,42 @@ test("fonts loadingdone redraws a paused player and is removed on destroy", () =
   p.destroy();
   assert.equal(removed, true);
 });
+
+test("hitTest and nodeBounds answer on the frame last drawn, in canvas CSS pixels", () => {
+  const f = fake();
+  const p = createPlayerWithEnv(
+    f.canvas as never,
+    {
+      format: "synod-scene/1",
+      duration: 1000,
+      canvas: { w: 800, h: 500 },
+      shapes: [
+        {
+          id: "a",
+          kind: "circle",
+          node: "n1",
+          props: { r: 10 },
+          keys: [
+            { at: 0, x: 100, y: 100, fill: "Ink" },
+            { at: 1000, x: 700, y: 100 },
+          ],
+        },
+      ],
+      markers: [],
+      trace: [],
+    },
+    undefined,
+    f.env,
+  );
+  assert.deepEqual(p.hitTest(100, 100), { id: "a", kind: "circle", node: "n1", msg: null });
+  assert.equal(p.hitTest(700, 100), null);
+  assert.deepEqual(p.nodeBounds(), [{ node: "n1", x: 90, y: 90, w: 20, h: 20 }]);
+  p.seek(1000);
+  assert.equal(p.hitTest(100, 100), null);
+  assert.equal(p.hitTest(700, 100)?.node, "n1");
+  p.renderFrame(0);
+  assert.equal(p.hitTest(100, 100)?.node, "n1");
+  p.destroy();
+  assert.equal(p.hitTest(100, 100), null);
+  assert.deepEqual(p.nodeBounds(), []);
+});

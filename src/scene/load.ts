@@ -163,8 +163,19 @@ export function loadScene(input: string | unknown): LoadResult {
       warnings.push(`${where}: no keys; skipped`);
       continue;
     }
-    const base: { id: string; keys: SceneKey[]; end?: number } = { id, keys };
+    const base: { id: string; keys: SceneKey[]; end?: number; node?: string; msg?: number } = {
+      id,
+      keys,
+    };
     if (r.end !== undefined) base.end = num(r.end, `${where}: end`);
+    if (r.node !== undefined) {
+      if (typeof r.node === "string" && r.node !== "") base.node = r.node;
+      else warnings.push(`${where}: node must be a non-empty string; ignored`);
+    }
+    if (r.msg !== undefined) {
+      if (typeof r.msg === "number" && Number.isInteger(r.msg) && r.msg >= 0) base.msg = r.msg;
+      else warnings.push(`${where}: msg must be an integer of at least 0; ignored`);
+    }
     let shape: SceneShape;
     switch (kind) {
       case "circle": {
@@ -278,7 +289,17 @@ export function loadScene(input: string | unknown): LoadResult {
     const text = r.text === undefined ? "" : str(r.text, `marker ${i}: text`);
     const prev = markers[markers.length - 1];
     if (prev && at < prev.at) markersSorted = false;
-    markers.push({ at, kind: kind as MarkerKind, text });
+    const marker: SceneMarker = { at, kind: kind as MarkerKind, text };
+    if (r.choices !== undefined) {
+      if (kind !== "pause") {
+        warnings.push(`marker ${i}: choices only belong on a pause; ignored`);
+      } else if (!Array.isArray(r.choices) || r.choices.some((v) => typeof v !== "string")) {
+        warnings.push(`marker ${i}: choices must be an array of strings; ignored`);
+      } else if (r.choices.length > 0) {
+        marker.choices = r.choices as string[];
+      }
+    }
+    markers.push(marker);
   }
   if (!markersSorted) {
     warnings.push("markers are not sorted by at; sorted");

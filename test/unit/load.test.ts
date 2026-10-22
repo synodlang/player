@@ -318,3 +318,50 @@ test("loadScene accepts a parsed object and does not change it", () => {
   loadScene(doc);
   assert.equal(JSON.stringify(doc), before);
 });
+
+test("node, msg and choices are kept when valid", () => {
+  const { scene, warnings } = loadScene(
+    minimal({
+      shapes: [circle("a", { node: "n1", msg: 0, future: 1 }), circle("b")],
+      markers: [
+        { at: 5, kind: "pause", text: "Q?", choices: ["x", "y"] },
+        { at: 6, kind: "pause", text: "Q?", choices: [] },
+        { at: 7, kind: "pause", text: "Q?" },
+      ],
+    }),
+  );
+  assert.deepEqual(warnings, []);
+  assert.equal(scene.shapes[0]?.node, "n1");
+  assert.equal(scene.shapes[0]?.msg, 0);
+  assert.equal(scene.shapes[1]?.node, undefined);
+  assert.equal("msg" in (scene.shapes[1] as object), false);
+  assert.deepEqual(scene.markers[0]?.choices, ["x", "y"]);
+  assert.equal("choices" in (scene.markers[1] as object), false);
+  assert.equal("choices" in (scene.markers[2] as object), false);
+});
+
+test("invalid node, msg and choices are dropped with a warning", () => {
+  const { scene, warnings } = loadScene(
+    minimal({
+      shapes: [
+        circle("a", { node: 3 }),
+        circle("b", { msg: -1 }),
+        circle("c", { msg: 1.5 }),
+        circle("d", { msg: "5", node: "" }),
+      ],
+      markers: [
+        { at: 1, kind: "pause", text: "Q", choices: "x" },
+        { at: 2, kind: "pause", text: "Q", choices: ["x", 1] },
+        { at: 3, kind: "caption", text: "C", choices: ["x"] },
+      ],
+    }),
+  );
+  for (const s of scene.shapes) {
+    assert.equal(s.node, undefined);
+    assert.equal(s.msg, undefined);
+  }
+  for (const m of scene.markers) assert.equal(m.choices, undefined);
+  assert.equal(warnings.length, 8);
+  assert.match(warnings[0] as string, /shape a: node/);
+  assert.match(warnings[7] as string, /marker 2: choices/);
+});

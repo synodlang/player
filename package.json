@@ -1,6 +1,6 @@
 {
   "name": "@synodlang/player",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Plays a Synod scene.json on a canvas.",
   "private": true,
   "type": "module",

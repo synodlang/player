@@ -1,5 +1,6 @@
 // The public API of the Synod player.
 
+import { nodeBoundsScene as boundsScene, hitTestScene as hitScene } from "./eval/hit.ts";
 import { attachWebKitBridge as attach } from "./player/bridge.ts";
 import { createPlayer as create } from "./player/player.ts";
 import { renderToContext as render } from "./render/draw.ts";
@@ -8,7 +9,9 @@ import { loadScene as load } from "./scene/load.ts";
 import type {
   CompiledScene,
   Ctx2D,
+  HitResult,
   LoadResult,
+  NodeBox,
   Player,
   PlayerOptions,
   Scene,
@@ -20,10 +23,12 @@ export type {
   CompiledScene,
   Ctx2D,
   GroupShape,
+  HitResult,
   LabelShape,
   LineShape,
   LoadResult,
   MarkerKind,
+  NodeBox,
   PauseReason,
   Player,
   PlayerEventMap,
@@ -67,6 +72,25 @@ export function renderToContext(
   options?: { sans?: string },
 ): void {
   render(ctx, compiled, at, view, options);
+}
+
+/**
+ * The topmost drawn circle or rect with a node or msg under (x, y), CSS pixels of the
+ * reader's area, on the frame at `at`; null for none. The rules are in the formats guide.
+ */
+export function hitTestScene(
+  compiled: CompiledScene,
+  at: number,
+  view: View,
+  x: number,
+  y: number,
+): HitResult | null {
+  return hitScene(compiled, at, view, x, y);
+}
+
+/** The box of each node (union of its drawn circles and rects, no slop), CSS pixels. */
+export function nodeBoundsScene(compiled: CompiledScene, at: number, view: View): NodeBox[] {
+  return boundsScene(compiled, at, view);
 }
 
 /** Play a scene on a canvas. */

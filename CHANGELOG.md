@@ -4,6 +4,15 @@ All notable changes to the Synod player. Every `synodlang` repository shares MAJ
 
 ## Unreleased
 
+## v0.2.1 — 2026-10-22
+
+Implements Synod 0.2.
+
+### Added
+
+- `player.hitTest(x, y)` and `player.nodeBounds()`, plus `hitTestScene` and `nodeBoundsScene` for any host. A hit is the topmost drawn circle or rect whose own or enclosing group's `node` or `msg` is set, with 4 px slop; labels and lines never hit. Rules: decision 84 and "Hit testing (readers)" in the formats guide.
+- The loader keeps the new additive keys `node` and `msg` on shapes and `choices` on pause markers, and drops an invalid one with a warning. Marker events, including those posted by the WebKit bridge, carry `choices`. Older scenes load as before and never hit. Drawing is unchanged: the display-list goldens are byte-identical.
+
 ## v0.2.0 — 2026-10-22
 
 Implements Synod 0.2.

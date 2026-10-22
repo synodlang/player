@@ -72,6 +72,11 @@ export interface Compiled extends CompiledScene {
   readonly order: Int32Array;
   /** Every line shape, file order. */
   readonly lines: Int32Array;
+  /** Resolved node (own, else nearest enclosing group's): index into nodeNames, or -1. */
+  readonly nodeIx: Int32Array;
+  readonly nodeNames: readonly string[];
+  /** Resolved msg id (own, else nearest enclosing group's), or -1. */
+  readonly msgOf: Float64Array;
   /** Indexed by P_*. */
   readonly tracks: readonly Track[];
   /** Fill and stroke before the first key: packed color or -1 (label fill Ink, line stroke Line). */
@@ -194,6 +199,30 @@ export function compileScene(scene: Scene): Compiled {
   const order = Int32Array.from(orderList);
   const lines = Int32Array.from(lineList);
 
+  // node and msg resolve outward along the group chain, separately.
+  const nodeNames: string[] = [];
+  const nodeIx = new Int32Array(n).fill(-1);
+  const msgOf = new Float64Array(n).fill(-1);
+  {
+    const nameIx = new Map<string, number>();
+    for (const i of order) {
+      const own = shapes[i] as { node?: string; msg?: number };
+      const p = parent[i] as number;
+      if (own.node !== undefined) {
+        let v = nameIx.get(own.node);
+        if (v === undefined) {
+          v = nodeNames.length;
+          nodeNames.push(own.node);
+          nameIx.set(own.node, v);
+        }
+        nodeIx[i] = v;
+      } else if (p >= 0) {
+        nodeIx[i] = nodeIx[p] as number;
+      }
+      msgOf[i] = own.msg !== undefined ? own.msg : p >= 0 ? (msgOf[p] as number) : -1;
+    }
+  }
+
   // A member ends no later than its group; a group is needed from its earliest descendant.
   const reachAt = Float64Array.from(firstAt);
   for (let i = 0; i < n; i++) {
@@ -297,6 +326,9 @@ export function compileScene(scene: Scene): Compiled {
     lineTo,
     order,
     lines,
+    nodeIx,
+    nodeNames,
+    msgOf,
     tracks,
     defFill,
     defStroke,

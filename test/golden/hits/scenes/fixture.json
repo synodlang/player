@@ -1,0 +1,23 @@
+{
+  "format": "synod-scene/1",
+  "duration": 2000,
+  "canvas": { "w": 1600, "h": 1000 },
+  "theme": {
+    "Paper": "#151A2E", "Ink": "#EDE9E1", "Line": "#3A4366", "Quiet": "#8A90A8",
+    "Accent": "#F4A340", "Good": "#5CC8B8", "Warning": "#E8C35A", "Critical": "#E86F5A"
+  },
+  "shapes": [
+    {"id": "n1", "kind": "group", "node": "n1", "props": {"items": ["n1.body", "n1.name", "n1.ring"]},
+     "keys": [{"at": 0, "x": 400, "y": 500, "scale": 1}, {"at": 2000, "x": 600, "y": 500, "scale": 1.5, "rotation": 90}]},
+    {"id": "n1.body", "kind": "circle", "props": {"r": 60}, "keys": [{"at": 0, "x": 0, "y": 0, "fill": "Accent"}]},
+    {"id": "n1.name", "kind": "label", "props": {}, "keys": [{"at": 0, "x": 0, "y": 0, "text": "n1"}]},
+    {"id": "n1.ring", "kind": "circle", "props": {"r": 80}, "keys": [{"at": 0, "x": 0, "y": 0, "stroke": "Good"}]},
+    {"id": "n2", "kind": "rect", "node": "n2", "props": {"w": 160, "h": 100, "radius": 16},
+     "keys": [{"at": 0, "x": 1200, "y": 500, "fill": "Line"}]},
+    {"id": "m5", "kind": "circle", "msg": 5, "props": {"r": 12},
+     "keys": [{"at": 0, "x": 400, "y": 500, "fill": "Warning"}, {"at": 2000, "x": 1200, "y": 500}]},
+    {"id": "wire", "kind": "line", "node": "n1", "props": {"from": "n1.body", "to": "n2"}, "keys": [{"at": 0, "stroke": "Line"}]}
+  ],
+  "markers": [{"at": 1000, "kind": "pause", "text": "Next?", "choices": ["a", "b"]}],
+  "trace": [{"seq": 5, "at": 0}]
+}
