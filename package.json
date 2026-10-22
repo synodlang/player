@@ -25,7 +25,10 @@
     "bench": "node --expose-gc test/bench/bench.ts",
     "golden:update": "node scripts/update-goldens.ts",
     "build": "node scripts/build.ts",
-    "demo": "node scripts/build.ts && node scripts/serve.ts"
+    "demo": "node scripts/build.ts && node scripts/serve.ts",
+    "check": "npm run lint && npm run typecheck && npm test && npm run build",
+    "test:pixel": "playwright test",
+    "test:pixel:docker": "node scripts/check-playwright-image.ts --docker"
   },
   "devDependencies": {
     "@biomejs/biome": "2.6.2",

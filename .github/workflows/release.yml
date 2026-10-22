@@ -1,0 +1,77 @@
+name: release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: lts/*
+          cache: npm
+      - run: npm ci
+      - name: Tag matches package.json and CHANGELOG.md
+        run: node scripts/check-version.ts "$GITHUB_REF_NAME"
+      - run: npm run check
+
+  pixel:
+    runs-on: ubuntu-latest
+    # Must equal the @playwright/test version in package-lock.json.
+    container: mcr.microsoft.com/playwright:v1.64.1-noble
+    steps:
+      - uses: actions/checkout@v7
+      - run: npm ci
+      - run: node scripts/check-playwright-image.ts
+      - run: npm run build
+      - name: Pixel goldens (WebKit)
+        run: npx playwright test --project=webkit pixel.spec.ts
+      - name: Chromium smoke
+        run: npx playwright test --project=chromium
+      - name: WebKit bench
+        run: npx playwright test --project=webkit bench.spec.ts
+      - name: Upload test results
+        if: failure()
+        uses: actions/upload-artifact@v7
+        with:
+          name: test-results
+          path: |
+            test-results/
+            playwright-report/
+          if-no-files-found: ignore
+
+  release:
+    needs: [test, pixel]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: lts/*
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - name: Release assets
+        run: node scripts/dist.ts --tag "$GITHUB_REF_NAME"
+      - name: Checksums
+        working-directory: dist/release
+        run: sha256sum synod-player-* > SHA256SUMS
+      - name: Release notes
+        run: node scripts/notes.ts --tag "$GITHUB_REF_NAME" --changelog CHANGELOG.md > notes.md
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          flags=()
+          case "${GITHUB_REF_NAME}" in *-*) flags+=(--prerelease) ;; esac
+          gh release create "${GITHUB_REF_NAME}" dist/release/* --repo "${GITHUB_REPOSITORY}" \
+            --title "${GITHUB_REF_NAME}" --notes-file notes.md "${flags[@]}"

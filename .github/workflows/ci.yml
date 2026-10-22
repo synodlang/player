@@ -5,6 +5,12 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  workflow_dispatch:
+    inputs:
+      update:
+        description: "Regenerate the pixel snapshots and upload them as an artifact"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -67,3 +73,73 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run bench
+
+  scenes-drift:
+    name: scenes drift
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/checkout@v7
+        with:
+          repository: synodlang/compiler
+          path: _compiler
+      - uses: actions/setup-node@v7
+        with:
+          node-version: lts/*
+      - name: Vendored scenes equal the compiler's goldens
+        run: node scripts/sync-scenes.ts _compiler --check
+
+  pixel:
+    name: pixel (webkit goldens, chromium smoke, webkit bench)
+    runs-on: ubuntu-latest
+    # Must equal the @playwright/test version in package-lock.json
+    # (checked by scripts/check-playwright-image.ts).
+    container: mcr.microsoft.com/playwright:v1.64.1-noble
+    steps:
+      - uses: actions/checkout@v7
+      - run: npm ci
+      - run: node scripts/check-playwright-image.ts
+      - run: npm run build
+      - name: Pixel snapshots present?
+        id: snaps
+        env:
+          UPDATE: ${{ inputs.update }}
+        run: |
+          if [ "$UPDATE" = "true" ]; then
+            echo "mode=update" >> "$GITHUB_OUTPUT"
+          elif ls test/pixel/snapshots/*.png > /dev/null 2>&1; then
+            echo "mode=compare" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=missing" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Generate pixel snapshots
+        if: steps.snaps.outputs.mode != 'compare'
+        run: npx playwright test --project=webkit pixel.spec.ts --update-snapshots
+      - name: Upload generated snapshots
+        if: steps.snaps.outputs.mode != 'compare'
+        uses: actions/upload-artifact@v7
+        with:
+          name: pixel-snapshots
+          path: test/pixel/snapshots/
+          if-no-files-found: error
+      - name: Compare pixel goldens (WebKit)
+        if: steps.snaps.outputs.mode == 'compare'
+        run: npx playwright test --project=webkit pixel.spec.ts
+      - name: Chromium smoke
+        run: npx playwright test --project=chromium
+      - name: WebKit bench (JS frame work p95 <= 6 ms)
+        run: npx playwright test --project=webkit bench.spec.ts
+      - name: Snapshots must be committed
+        if: steps.snaps.outputs.mode == 'missing'
+        run: |
+          echo "::error::test/pixel/snapshots has no PNGs. They were generated in this job and uploaded as the 'pixel-snapshots' artifact. Download it, put the PNGs in test/pixel/snapshots/, commit them, and push."
+          exit 1
+      - name: Upload test results
+        if: failure()
+        uses: actions/upload-artifact@v7
+        with:
+          name: test-results
+          path: |
+            test-results/
+            playwright-report/
+          if-no-files-found: ignore

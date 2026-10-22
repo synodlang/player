@@ -5,7 +5,7 @@ The Synod player: a TypeScript canvas library that plays `scene.json` and draws 
 [![ci](https://github.com/synodlang/player/actions/workflows/ci.yml/badge.svg)](https://github.com/synodlang/player/actions/workflows/ci.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-**Status: designed, not yet written.** This repository has no code yet. The player is milestone M7 in the [roadmap](https://github.com/synodlang/dsl/blob/main/implementation/10-roadmap.md), and it comes after the scene builder (M5) and the WebAssembly build (M6) in the compiler. What follows describes what the player will do and how, as set out in the design documents.
+**Status: v0.2.0, implements Synod 0.2.** The player is milestone M7 in the [roadmap](https://github.com/synodlang/dsl/blob/main/implementation/10-roadmap.md). It reads `scene.json` from the scene builder (M5) and draws it on a canvas, in a browser, in a `WKWebView` or offscreen. It is a TypeScript library with no runtime dependencies, released as GitHub release assets (npm later). Numbers for Safari on Apple silicon at 120 Hz are still to be measured by hand.
 
 ## Where it fits
 
@@ -21,7 +21,7 @@ Synod programs are simulated by the compiler, which writes a trace. The scene bu
 | [compiler](https://github.com/synodlang/compiler) | The `synod` command: `fmt`, `check`, `run` | v0.2.2 released |
 | [std](https://github.com/synodlang/std) | The standard library packages | In use by the compiler |
 | [examples](https://github.com/synodlang/examples) | Sample programs and acceptance tests | Available |
-| **player** (this repository) | Canvas library that plays `scene.json` | Planned (M7) |
+| **player** (this repository) | Canvas library that plays `scene.json` | v0.2.0 |
 | [mac-app](https://github.com/synodlang/mac-app) | The Mac app | Planned (M8, M9, M10) |
 | [agent-skills](https://github.com/synodlang/agent-skills) | Skills for coding agents | Planned (M10) |
 | [synodlang.github.io](https://github.com/synodlang/synodlang.github.io) | The website and documentation | Install page live; rest planned (M11) |
@@ -42,14 +42,55 @@ The player reads `synod-scene/1` files. The format is defined in [04-formats.md]
 - `trace` maps each trace `seq` to its slot in presentation time, so the player can show simulated time and jump to a fact.
 - Readers reject unknown major versions and ignore keys they do not know. Within a major version, keys are only added.
 
-## Planned API
+## Use it
 
-The documents name these entry points. The exact signatures will be fixed when the library is written.
+Download the release assets from the [releases page](https://github.com/synodlang/player/releases). Check them with `SHA256SUMS`.
 
-- Load a `scene.json` into a canvas and play, pause, seek and set the pace (0.25x to 4x).
-- `renderFrame(at)`: draw the scene at one presentation time. The Mac app uses it to export video at fixed timesteps, offscreen.
-- Events and queries for the host: the current time, the markers (`pause`, `caption`, `broken`), and the jump from a trace fact to its time.
-- A bridge the Mac app can call from Swift to hand over a scene.
+| Asset | Use |
+| --- | --- |
+| `synod-player-<tag>.js` | ES module (`import { createPlayer } from "./synod-player-v0.2.0.js"`) |
+| `synod-player-<tag>.iife.js` | Classic script that defines `window.SynodPlayer` |
+| `synod-player-<tag>.d.ts` | TypeScript declarations for the module |
+| `SHA256SUMS` | Checksums of the three files above |
+
+```html
+<canvas id="stage" style="width: 100%; height: 100%"></canvas>
+<script type="module">
+  import { createPlayer } from "./synod-player-v0.2.0.js";
+  const scene = await (await fetch("scene.json")).text();
+  const player = createPlayer(document.getElementById("stage"), scene, { autoplay: true });
+  player.on("marker", ({ marker }) => console.log(marker.kind, marker.at));
+</script>
+```
+
+## API
+
+- `loadScene(input)` parses and checks a `scene.json` (text or object) and returns `{ scene, warnings }`. It throws a `SceneError` with a `code` (`bad-json`, `unsupported-format`, `bad-scene`). Unknown fields are ignored, as the format requires.
+- `compileScene(scene)` and `renderToContext(ctx, compiled, at, { width, height, pixelRatio })` draw one frame into any 2D context, such as an `OffscreenCanvas` for video export. They allocate nothing per frame.
+- `createPlayer(canvas, scene, options)` returns a player. Options: `autoplay`, `loop`, `rate`, `stopAtPause` (Predict mode), `autoResize`, `pixelRatio`, `fonts`, `timeEventHz`.
+- A player has `duration`, `time`, `playing`, `rate`, `markers`, `trace` and `warnings`, and the methods `play`, `pause`, `toggle`, `seek`, `setRate` (0.25 to 4), `setLoop`, `setStopAtPause`, `nextFact`, `prevFact`, `factAt`, `timeOfSeq`, `setScene`, `resize`, `renderFrame(at)`, `on(event, callback)` and `destroy`.
+- Events: `time`, `marker` (fired when playback crosses a marker, never on seek), `fact`, `play`, `pause` (with a reason of `user`, `marker` or `end`) and `scene`.
+- `attachWebKitBridge(player)` posts these events to `window.webkit.messageHandlers.synodPlayer`. In the IIFE build, `SynodPlayer.mount("#stage", options)` creates a player and attaches the bridge; Swift then calls `player.setScene(jsonString)`.
+
+The player bundles no fonts. Labels use the system sans font at 16 px, weight 500.
+
+## Build, test and demo
+
+Node 22.18 or newer is required.
+
+```
+npm ci
+npm run check        # lint, typecheck, tests (including display-list goldens), build
+npm run bench        # frame cost in Node with a no-op context (CI gates it)
+npm run demo         # build and serve the demo at http://127.0.0.1:5173/
+npm run test:pixel   # Playwright: WebKit pixel goldens, Chromium smoke, WebKit bench
+```
+
+`npm run build` writes `dist/synod-player.js`, `dist/synod-player.iife.js`, `dist/synod-player.d.ts` and `dist/demo/`, and fails when a bundle is over its size budget. Demo: open `?scene=<url>` to load a scene, `?bench=1` to measure frame timing.
+
+The golden scenes in `test/scenes` are copied byte for byte from the compiler; `node scripts/sync-scenes.ts ../compiler --check` verifies them. Pixel goldens depend on the exact Playwright container, so they are generated only there (`npm run test:pixel:docker -- --update-snapshots`, or the `update` input of the ci workflow).
+
+A release is made by pushing a tag `vX.Y.Z` that equals the version in `package.json` and has a matching section in `CHANGELOG.md`.
 
 ## Rendering rules
 
@@ -70,9 +111,9 @@ From the roadmap: every golden scene plays at 120fps in Safari and `WKWebView` o
 
 ## Contributing
 
-There is nothing to build yet. Until the library exists, the most useful contributions are to the contract itself: read [04-formats.md](https://github.com/synodlang/dsl/blob/main/implementation/04-formats.md) and open an issue or a pull request in [dsl](https://github.com/synodlang/dsl) if something is unclear. Changes to the scene format start there. Once the library exists, this repository will have a TypeScript build and tests, and its CI will check them. The CI today checks line endings, trailing spaces and the final newline.
+Changes to the scene format start in [dsl](https://github.com/synodlang/dsl). Changes to the player go through pull requests here; run `npm run check` first. CI checks line endings, lint, types, tests, the bench, vendored scenes and the browser tests.
 
-Every `synodlang` repository shares MAJOR.MINOR with the language version, so this one will release as `v0.2.x`.
+Every `synodlang` repository shares MAJOR.MINOR with the language version, so this one releases as `v0.2.x`.
 
 ## Why Synod
 

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>pixel</title>
+    <style>
+      html, body { margin: 0; background: #151a2e; }
+      canvas { display: block; width: 1600px; height: 1000px; }
+    </style>
+  </head>
+  <body>
+    <canvas id="c" width="1600" height="1000"></canvas>
+    <script src="/synod-player.iife.js"></script>
+    <script>
+      // draw(sceneText, fraction): one frame at round(duration * fraction), DPR 1.
+      window.draw = async function draw(sceneText, fraction) {
+        const canvas = document.getElementById("c");
+        const player = SynodPlayer.createPlayer(canvas, sceneText, {
+          autoResize: false,
+          pixelRatio: 1,
+        });
+        player.resize(1600, 1000, 1);
+        player.renderFrame(Math.round(player.duration * fraction));
+        await document.fonts.ready;
+        player.renderFrame(Math.round(player.duration * fraction));
+        const at = player.time;
+        player.destroy();
+        return at;
+      };
+    </script>
+  </body>
+</html>
