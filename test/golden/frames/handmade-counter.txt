@@ -153,13 +153,7 @@ fillText "0" 25.20 -6.74
 fillText "1" 25.20 26.86
 restore
 fillText "9" 8.40 0.00
-save
-beginPath
-rect -16.80 -16.80 16.80 33.60
-clip
-fillText "1" -8.40 -0.67
-fillText "2" -8.40 32.93
-restore
+fillText "1" -8.40 0.00
 fillText "1" -25.20 0.00
 setTransform 1.00 0.00 0.00 1.00 800.00 500.00
 fillStyle = #f4a340

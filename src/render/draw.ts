@@ -540,8 +540,8 @@ function drawCounter(ctx: Ctx2D, count: number, draw: number, size: number): voi
       const g = fl % 10;
       // the units column rolls with frac(count); a higher column waits until the one below
       // is on its last digit and rolls with it (an odometer), so a whole number is crisp
-      const fq = q - fl;
-      const fr = k === 0 ? fq : Math.max(0, 10 * fq - 9);
+      // roll_k = max(0, (|count| mod 10^k) - (10^k - 1)); for k = 0 that is frac(|count|)
+      const fr = k === 0 ? q - fl : Math.max(0, (abs % pow) - (pow - 1));
       if (fr < 1e-9) {
         ctx.fillText(DIGITS[g]!, x, 0);
       } else {

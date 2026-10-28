@@ -16,6 +16,10 @@ Implements Synod 0.3 (themes, richer drawing).
 - Hit testing also answers icons and counters (like a filled shape).
 - Tests: hand-made scenes for every new key, kind, effect and style value, display-list and WebKit pixel goldens for them, the compiler's 0.3 scenes, and a 50-node, 200-message stress scene with sketch 1 and trails (JS frame work p99 under 4 ms).
 
+### Fixed
+
+- Counter: a column of 100s or more rolled by the wrong amount (the whole number 199 drew the hundreds column 0.9 of the way to 2). Column `k` now rolls by `max(0, (|count| mod 10^k) - (10^k - 1))`, as the formats guide says, so a whole number draws crisp.
+
 ### Changed
 
 - The default sans is Inter (was the system font). Every display-list golden differs only in its `font = ...` line; the WebKit pixel snapshots are regenerated.
