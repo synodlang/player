@@ -19,6 +19,7 @@ const files: [string, string][] = [
   ["synod-player.js", `synod-player-${tag}.js`],
   ["synod-player.iife.js", `synod-player-${tag}.iife.js`],
   ["synod-player.d.ts", `synod-player-${tag}.d.ts`],
+  ["synod-player-fonts.tar.gz", `synod-player-fonts-${tag}.tar.gz`],
 ];
 for (const [from, to] of files) {
   const src = join(root, "dist", from);

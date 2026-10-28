@@ -7,11 +7,12 @@ import { join } from "node:path";
 import { gzipSync } from "node:zlib";
 import { build } from "esbuild";
 import { buildDts } from "./dts.ts";
+import { fontsTarGz } from "./fonts-tar.ts";
 
 const root = join(import.meta.dirname, "..");
 const dist = join(root, "dist");
-const MAX_BYTES = 48 * 1024;
-const MAX_GZIP = 16 * 1024;
+const MAX_BYTES = 96 * 1024;
+const MAX_GZIP = 32 * 1024;
 
 const pkg = JSON.parse(readFileSync(join(root, "package.json"), "utf8")) as { version: string };
 const define = { __VERSION__: JSON.stringify(pkg.version) };
@@ -52,10 +53,13 @@ await build({
 });
 cpSync(join(root, "demo", "index.html"), join(demo, "index.html"));
 cpSync(join(root, "demo", "demo.css"), join(demo, "demo.css"));
+cpSync(join(root, "fonts"), join(demo, "fonts"), { recursive: true });
+// The fonts asset: unpacked, its fonts/ folder is what options.fontBase points at.
+writeFileSync(join(dist, "synod-player-fonts.tar.gz"), fontsTarGz(join(root, "fonts")));
 const scenes = join(demo, "scenes");
 mkdirSync(scenes, { recursive: true });
 const names: string[] = [];
-for (const group of ["examples", "builder"]) {
+for (const group of ["examples", "builder", "handmade"]) {
   for (const f of readdirSync(join(root, "test", "scenes", group)).sort()) {
     if (!f.endsWith(".json")) continue;
     if (names.includes(f)) throw new Error(`scene name ${f} exists in two groups`);
