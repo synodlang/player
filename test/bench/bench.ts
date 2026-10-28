@@ -11,6 +11,7 @@ import { sceneText } from "../helpers/scenes.ts";
 
 const P50_MS = 1;
 const P99_MS = 2.5;
+const P99_RICH_MS = 4;
 const LOAD_MS = 50;
 const FRAMES = 600;
 const VIEW: View = { width: 1600, height: 1000, pixelRatio: 1 };
@@ -71,16 +72,21 @@ function run(): boolean {
     ["raft", "examples", "raft.json"],
     ["webapp", "examples", "webapp.json"],
     ["stress", "handmade", "stress-50x200.json"],
+    // sketch 1, outlines, curves, shadows and 400 ms trails on every flight
+    ["stress-sketch-trails", "handmade", "stress-sketch-trails.json"],
   ];
   for (const [name, group, file] of scenes) {
     const { scene } = loadScene(sceneText(group as "examples" | "handmade", file));
     const c = compileScene(scene);
     const s = frameStats(c, scene.duration);
+    const rich = name === "stress-sketch-trails";
+    const gate = rich ? P99_RICH_MS : P99_MS;
+    const gate50 = rich ? 2 : P50_MS;
     process.stdout.write(
-      `${name}: p50 ${s.p50.toFixed(3)} ms (gate ${P50_MS}), p99 ${s.p99.toFixed(3)} ms (gate ${P99_MS})\n`,
+      `${name}: p50 ${s.p50.toFixed(3)} ms (gate ${gate50}), p99 ${s.p99.toFixed(3)} ms (gate ${gate})\n`,
     );
-    if (s.p50 > P50_MS) fail(`${name} p50`);
-    if (s.p99 > P99_MS) fail(`${name} p99`);
+    if (s.p50 > gate50) fail(`${name} p50`);
+    if (s.p99 > gate) fail(`${name} p99 (gate ${gate})`);
   }
 
   const { scene } = loadScene(raftText);

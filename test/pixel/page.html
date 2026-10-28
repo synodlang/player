@@ -18,10 +18,10 @@
         const player = SynodPlayer.createPlayer(canvas, sceneText, {
           autoResize: false,
           pixelRatio: 1,
+          fontBase: "/fonts",
         });
         player.resize(1600, 1000, 1);
-        player.renderFrame(Math.round(player.duration * fraction));
-        await document.fonts.ready;
+        await player.fontsReady();
         player.renderFrame(Math.round(player.duration * fraction));
         const at = player.time;
         player.destroy();

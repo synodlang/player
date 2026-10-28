@@ -1,0 +1,191 @@
+# view 1600x1000 dpr 1
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 200.00 800.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 200.00 500.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 200.00 200.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 200.00 350.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #ede9e1
+fill
+restore
+== at=400
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 346.24 671.58
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 346.24 628.42
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 346.24 200.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 450.00 325.63
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #ede9e1
+fill
+restore
+== at=800
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 874.78 504.66
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 874.78 795.34
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 874.78 200.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 700.00 237.54
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #ede9e1
+fill
+restore
+== at=1150
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 1295.93 704.96
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1295.93 595.04
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1295.93 200.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 700.00 167.34
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #ede9e1
+fill
+restore
+== at=1500
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 1400.00 800.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1400.00 500.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1400.00 200.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 700.00 150.00
+beginPath
+arc 0.00 0.00 24.00 0.00 6.28
+fillStyle = #ede9e1
+fill
+restore

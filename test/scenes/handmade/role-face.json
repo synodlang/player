@@ -1,0 +1,13 @@
+{"format":"synod-scene/1","duration":1000,"canvas":{"w":1600,"h":1000},"theme":{"Paper":"#151A2E","Ink":"#EDE9E1","Line":"#3A4366","Quiet":"#8A90A8","Accent":"#F4A340","Good":"#5CC8B8","Warning":"#E8C35A","Critical":"#E86F5A"},"shapes":[
+{"id":"sb000073258dd","kind":"label","props":{},"keys":[{"at":0,"x":450,"y":150,"opacity":1,"text":"title sans","fill":"Ink","role":"title"}]},
+{"id":"sb00007619638","kind":"label","props":{},"keys":[{"at":0,"x":1150,"y":150,"opacity":1,"text":"title mono 0123","fill":"Accent","role":"title","face":"mono"}]},
+{"id":"sb0000790d393","kind":"label","props":{},"keys":[{"at":0,"x":450,"y":270,"opacity":1,"text":"label sans","fill":"Ink","role":"label"}]},
+{"id":"sb00007c010ee","kind":"label","props":{},"keys":[{"at":0,"x":1150,"y":270,"opacity":1,"text":"label mono 0123","fill":"Accent","role":"label","face":"mono"}]},
+{"id":"sb00007ef4e49","kind":"label","props":{},"keys":[{"at":0,"x":450,"y":390,"opacity":1,"text":"value sans","fill":"Ink","role":"value"}]},
+{"id":"sb000081e8ba4","kind":"label","props":{},"keys":[{"at":0,"x":1150,"y":390,"opacity":1,"text":"value mono 0123","fill":"Accent","role":"value","face":"mono"}]},
+{"id":"sb000084dc8ff","kind":"label","props":{},"keys":[{"at":0,"x":450,"y":510,"opacity":1,"text":"caption sans","fill":"Ink","role":"caption"}]},
+{"id":"sb000087d065a","kind":"label","props":{},"keys":[{"at":0,"x":1150,"y":510,"opacity":1,"text":"caption mono 0123","fill":"Accent","role":"caption","face":"mono"}]},
+{"id":"sb00008ac43b5","kind":"label","props":{},"keys":[{"at":0,"x":450,"y":700,"opacity":1,"text":"role changes","fill":"Ink","role":"label"},{"at":599,"role":"label"},{"at":600,"role":"title"}]},
+{"id":"sb00008db8110","kind":"label","props":{},"keys":[{"at":0,"x":1150,"y":700,"opacity":1,"text":"face changes","fill":"Ink","face":"sans"},{"at":599,"face":"sans"},{"at":600,"face":"mono"}]},
+{"id":"sb000090abe6b","kind":"label","props":{},"keys":[{"at":0,"x":800,"y":850,"opacity":1,"text":"unknown role and face","fill":"Quiet","role":"huge","face":"serif"}]}
+],"markers":[],"trace":[]}

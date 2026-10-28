@@ -38,7 +38,7 @@ const EMPTY = {
   trace: [],
 };
 
-const player: Player = createPlayer(canvas, EMPTY, {});
+const player: Player = createPlayer(canvas, EMPTY, { fontBase: "fonts" });
 let simTimes = new Map<number, number>(); // trace.jsonl: seq -> simulated t
 let scrubbing = false;
 

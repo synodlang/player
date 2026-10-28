@@ -10,12 +10,14 @@
 
 import { parseHex } from "../math/oklab.ts";
 import type {
+  CameraKey,
   LoadResult,
   MarkerKind,
   Scene,
   SceneKey,
   SceneMarker,
   SceneShape,
+  Style,
   Theme,
   TraceEntry,
 } from "../types.ts";
@@ -31,6 +33,26 @@ export const BRAND_THEME: Readonly<Theme> = {
   Good: "#5CC8B8",
   Warning: "#E8C35A",
   Critical: "#E86F5A",
+};
+
+/** The style of std/theme/default: what a scene without a `style` key means. */
+export const DEFAULT_STYLE: Readonly<Style> = {
+  sans: "Inter",
+  mono: "JetBrains Mono",
+  titleSize: 28,
+  titleWeight: 600,
+  labelSize: 16,
+  labelWeight: 500,
+  valueSize: 15,
+  captionSize: 20,
+  tracking: 0,
+  stroke: 2,
+  glow: 24,
+  shadow: 0,
+  vignette: 0,
+  sketch: 0,
+  drift: 0,
+  easing: "smooth",
 };
 
 /** Default corner radius of a rect that does not say (the builder always does). */
@@ -57,7 +79,90 @@ function str(v: unknown, what: string): string {
 }
 
 const MARKER_KINDS: ReadonlySet<string> = new Set(["pause", "caption", "broken", "failed"]);
-const KIND_NAMES: ReadonlySet<string> = new Set(["circle", "rect", "label", "line", "group"]);
+const KIND_NAMES: ReadonlySet<string> = new Set([
+  "circle",
+  "rect",
+  "label",
+  "line",
+  "group",
+  "icon",
+  "counter",
+]);
+
+const NUMERIC_STYLE = [
+  "titleSize",
+  "titleWeight",
+  "labelSize",
+  "labelWeight",
+  "valueSize",
+  "captionSize",
+  "tracking",
+  "stroke",
+  "glow",
+  "shadow",
+  "vignette",
+  "sketch",
+  "drift",
+] as const;
+
+function loadStyle(raw: unknown, warnings: string[]): Style {
+  const style: Style = { ...DEFAULT_STYLE };
+  if (raw === undefined) return style;
+  if (!isObj(raw)) {
+    warnings.push("style is not an object; defaults");
+    return style;
+  }
+  for (const key of ["sans", "mono"] as const) {
+    const v = raw[key];
+    if (v === undefined) continue;
+    if (typeof v === "string" && v !== "") style[key] = v;
+    else warnings.push(`style.${key} must be a non-empty string; default`);
+  }
+  for (const key of NUMERIC_STYLE) {
+    const v = raw[key];
+    if (v === undefined) continue;
+    if (typeof v === "number" && Number.isFinite(v)) style[key] = v;
+    else warnings.push(`style.${key} must be a finite number; default`);
+  }
+  if (raw.easing !== undefined) {
+    if (raw.easing === "smooth" || raw.easing === "spring") style.easing = raw.easing;
+    else warnings.push(`style.easing ${JSON.stringify(raw.easing)} is unknown; smooth`);
+  }
+  return style;
+}
+
+function loadCamera(raw: unknown, warnings: string[]): CameraKey[] {
+  if (raw === undefined) return [];
+  if (!Array.isArray(raw)) {
+    warnings.push("camera is not an array; none");
+    return [];
+  }
+  const keys: CameraKey[] = [];
+  let sorted = true;
+  for (const [i, r] of raw.entries()) {
+    const o: Obj = isObj(r) ? r : {};
+    const { at, x, y, zoom } = o;
+    if (
+      typeof at !== "number" ||
+      typeof x !== "number" ||
+      typeof y !== "number" ||
+      typeof zoom !== "number" ||
+      !Number.isFinite(at + x + y + zoom) ||
+      !(zoom > 0)
+    ) {
+      warnings.push(`camera key ${i} is not {at, x, y, zoom} with a positive zoom; skipped`);
+      continue;
+    }
+    const prev = keys[keys.length - 1];
+    if (prev && at < prev.at) sorted = false;
+    keys.push({ at, x, y, zoom });
+  }
+  if (!sorted) {
+    warnings.push("camera keys are not sorted by at; sorted");
+    keys.sort((a, b) => a.at - b.at);
+  }
+  return keys;
+}
 
 function loadKeys(raw: unknown, where: string, warnings: string[]): SceneKey[] {
   if (!Array.isArray(raw)) bad(`${where}: keys must be an array`);
@@ -77,6 +182,27 @@ function loadKeys(raw: unknown, where: string, warnings: string[]): SceneKey[] {
     if (r.stroke !== undefined) k.stroke = str(r.stroke, `${w}: stroke`);
     if (r.text !== undefined) k.text = str(r.text, `${w}: text`);
     if (r.effect !== undefined) k.effect = str(r.effect, `${w}: effect`);
+    if (r.curve !== undefined) k.curve = num(r.curve, `${w}: curve`);
+    if (r.trail !== undefined) k.trail = num(r.trail, `${w}: trail`);
+    if (r.dash !== undefined) {
+      const d = r.dash;
+      if (Array.isArray(d) && d.length === 0) k.dash = [];
+      else if (
+        Array.isArray(d) &&
+        d.length === 2 &&
+        d.every((v) => typeof v === "number" && Number.isFinite(v) && v >= 0)
+      ) {
+        k.dash = [d[0] as number, d[1] as number];
+      } else {
+        warnings.push(`${w}: dash must be [] or [on, off]; ignored`);
+      }
+    }
+    if (r.draw !== undefined) k.draw = num(r.draw, `${w}: draw`);
+    if (r.halo !== undefined) k.halo = num(r.halo, `${w}: halo`);
+    if (r.icon !== undefined) k.icon = str(r.icon, `${w}: icon`);
+    if (r.count !== undefined) k.count = num(r.count, `${w}: count`);
+    if (r.role !== undefined) k.role = str(r.role, `${w}: role`);
+    if (r.face !== undefined) k.face = str(r.face, `${w}: face`);
     const prev = keys[keys.length - 1];
     if (prev && k.at < prev.at) sorted = false;
     keys.push(k);
@@ -200,6 +326,14 @@ export function loadScene(input: string | unknown): LoadResult {
       case "label":
         shape = { ...base, kind: "label", props: {} };
         break;
+      case "counter":
+        shape = { ...base, kind: "counter", props: {} };
+        break;
+      case "icon": {
+        const size = typeof props.size === "number" && props.size > 0 ? props.size : 32;
+        shape = { ...base, kind: "icon", props: { size } };
+        break;
+      }
       case "line":
         shape = {
           ...base,
@@ -323,12 +457,17 @@ export function loadScene(input: string | unknown): LoadResult {
     trace.sort((a, b) => a.at - b.at);
   }
 
+  const style = loadStyle(doc.style, warnings);
+  const camera = loadCamera(doc.camera, warnings);
+
   const scene: Scene = {
     format,
     duration,
     canvas: { w: cw, h: ch },
     theme,
+    style,
     shapes,
+    camera,
     markers,
     trace,
   };

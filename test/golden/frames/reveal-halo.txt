@@ -1,0 +1,2128 @@
+# view 1600x1000 dpr 1
+== at=30
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+restore
+== at=45
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+setTransform 0.00 0.00 0.00 0.00 800.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+restore
+== at=60
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+setTransform 0.01 0.00 0.00 0.01 800.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+restore
+== at=185
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 772.27 500.00
+setTransform 1.00 0.00 0.00 1.00 772.27 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+globalAlpha = 0.65
+setTransform 0.67 0.00 0.00 0.67 800.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+globalAlpha = 0.35
+setTransform 0.45 0.00 0.00 0.45 880.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+restore
+== at=310
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 722.84 500.00
+setTransform 1.00 0.00 0.00 1.00 722.84 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+globalAlpha = 0.04
+setTransform 1.12 0.00 0.00 1.12 800.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+globalAlpha = 0.96
+setTransform 1.11 0.00 0.00 1.11 880.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+restore
+== at=325
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 721.06 500.00
+setTransform 1.00 0.00 0.00 1.00 721.06 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+globalAlpha = 0.01
+setTransform 1.12 0.00 0.00 1.12 800.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+globalAlpha = 0.99
+setTransform 1.12 0.00 0.00 1.12 880.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+restore
+== at=340
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.21 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.06
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 720.21 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+globalAlpha = 0.00
+setTransform 1.12 0.00 0.00 1.12 800.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.12 0.00 0.00 1.12 880.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+restore
+== at=350
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.03 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.12
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 720.03 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillText "n" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.12 0.00 0.00 1.12 880.00 545.00
+fillStyle = #ede9e1
+fillText "n1" 0.00 0.00
+restore
+== at=360
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.19
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillText "n" 0.00 0.00
+setTransform 1.12 0.00 0.00 1.12 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=410
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.48
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.31
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.04 0.00 0.00 1.04 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=460
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.72
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.58
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=545
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.95
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 0.90
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=630
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 1.00
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=645
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #ede9e1
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+globalAlpha = 1.00
+fill
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=660
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=675
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=690
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+restore
+== at=740
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 6.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 2.48
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 722.57 500.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 720.81 500.00
+stroke
+restore
+== at=790
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 736.56 500.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 725.68 500.00
+stroke
+restore
+== at=840
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 21.52
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 764.03 500.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 736.56 500.00
+stroke
+restore
+== at=890
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+fillStyle = #f4a340
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+globalAlpha = 0.58
+fill
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 753.58 500.00
+stroke
+restore
+== at=940
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 835.97 500.00
+fillStyle = #f4a340
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+globalAlpha = 0.93
+fill
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 775.46 500.00
+stroke
+restore
+== at=990
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 863.44 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 800.00 500.00
+stroke
+restore
+== at=1040
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 877.43 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 824.54 500.00
+stroke
+restore
+== at=1090
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 846.42 500.00
+stroke
+restore
+== at=1190
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 874.32 500.00
+stroke
+restore
+== at=1290
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+restore
+== at=1520
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+restore
+== at=1750
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+restore
+== at=1850
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+shadowBlur = 12.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 736.56 500.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 725.68 500.00
+stroke
+restore
+== at=1950
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+globalAlpha = 0.58
+fill
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 753.58 500.00
+stroke
+restore
+== at=2000
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 835.97 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+globalAlpha = 0.93
+fill
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 775.46 500.00
+stroke
+restore
+== at=2050
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 863.44 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 800.00 500.00
+stroke
+restore
+== at=2100
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 877.43 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 824.54 500.00
+stroke
+restore
+== at=2150
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 846.42 500.00
+stroke
+restore
+== at=2250
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 874.32 500.00
+stroke
+restore
+== at=2350
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+shadowBlur = 12.00
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+shadowColor = #151a2e
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 880.00 545.00
+fillStyle = #ede9e1
+fillText "n2" 0.00 0.00
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fillStyle = #f4a340
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+beginPath
+arc 0.00 0.00 5.00 0.00 6.28
+fill
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 720.00 500.00
+lineTo 880.00 500.00
+stroke
+restore

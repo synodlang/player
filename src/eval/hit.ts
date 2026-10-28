@@ -6,9 +6,9 @@
 import { frameStateFor } from "../render/draw.ts";
 import { computeViewport } from "../render/viewport.ts";
 import type { Compiled } from "../scene/compile.ts";
-import { KIND_CIRCLE, KIND_RECT } from "../scene/compile.ts";
+import { KIND_CIRCLE, KIND_COUNTER, KIND_ICON, KIND_RECT } from "../scene/compile.ts";
 import type { CompiledScene, HitResult, NodeBox, View } from "../types.ts";
-import { evaluate } from "./evaluate.ts";
+import { counterColumns, evaluate } from "./evaluate.ts";
 
 /** Extra reach of every shape, in CSS pixels. */
 export const SLOP_PX = 4;
@@ -16,6 +16,8 @@ export const SLOP_PX = 4;
 export const HALF_STROKE = 1;
 /** Shapes whose world opacity is below this never hit. */
 export const MIN_HIT_OPACITY = 0.05;
+
+const KIND_NAMES = ["circle", "rect", "label", "line", "group", "icon", "counter"] as const;
 
 /** Signed distance from (px, py) to a rounded rect of half sizes hw, hh and corner radius r. */
 function rectDistance(px: number, py: number, hw: number, hh: number, r: number): number {
@@ -39,16 +41,20 @@ export function hitTestScene(
   if (!(vp.scale > 0)) return null;
   const fs = frameStateFor(c);
   evaluate(c, at, fs);
-  const wx = (x - vp.ox) / vp.scale;
-  const wy = (y - vp.oy) / vp.scale;
-  const slop = SLOP_PX / vp.scale; // scene units
+  // the letterbox, then the camera with drift, are inverted to reach world coordinates
+  const cam = fs.cam;
+  const wx = ((x - vp.ox) / vp.scale - cam.tx) / cam.zoom;
+  const wy = ((y - vp.oy) / vp.scale - cam.ty) / cam.zoom;
+  const slop = SLOP_PX / (vp.scale * cam.zoom); // world units
   const { visible, a, b, c: wc, d, e, f, opacity, fill, stroke } = fs;
 
   for (let i = c.n - 1; i >= 0; i--) {
     const kd = c.kind[i]!;
-    if (kd !== KIND_CIRCLE && kd !== KIND_RECT) continue;
+    if (kd !== KIND_CIRCLE && kd !== KIND_RECT && kd !== KIND_ICON && kd !== KIND_COUNTER) continue;
     if (!visible[i] || opacity[i]! < MIN_HIT_OPACITY) continue;
-    const hasFill = fill[i]! >= 0;
+    // icons and counters hit like a shape with a fill
+    const solid = kd === KIND_ICON || kd === KIND_COUNTER;
+    const hasFill = solid || fill[i]! >= 0;
     const hasStroke = stroke[i]! >= 0;
     if (!hasFill && !hasStroke) continue;
     const nIx = c.nodeIx[i]!;
@@ -70,6 +76,11 @@ export function hitTestScene(
     if (kd === KIND_CIRCLE) {
       const dist = Math.sqrt(lx * lx + ly * ly) - c.geomA[i]!;
       hit = hasFill ? dist <= slop / s : Math.abs(dist) <= (HALF_STROKE + slop) / s;
+    } else if (solid) {
+      // an icon is its square of side `size`, a counter its box of 8 units per column by 18
+      const hw = kd === KIND_ICON ? c.geomA[i]! / 2 : 4 * counterColumns(fs.count[i]!);
+      const hh = kd === KIND_ICON ? c.geomA[i]! / 2 : 9;
+      hit = rectDistance(lx, ly, hw, hh, 0) <= slop / s;
     } else {
       const dist = rectDistance(lx, ly, c.geomA[i]! / 2, c.geomB[i]! / 2, c.geomR[i]!);
       hit = hasFill ? dist <= slop / s : Math.abs(dist) <= (HALF_STROKE + slop) / s;
@@ -77,7 +88,7 @@ export function hitTestScene(
     if (!hit) continue;
     return {
       id: c.ids[i]!,
-      kind: kd === KIND_CIRCLE ? "circle" : "rect",
+      kind: KIND_NAMES[kd] as HitResult["kind"],
       node: nIx >= 0 ? (c.nodeNames[nIx] as string) : null,
       msg: msg >= 0 ? msg : null,
     };
@@ -115,10 +126,11 @@ export function nodeBoundsScene(compiled: CompiledScene, at: number, view: View)
       hx = Math.abs(a[i]!) * hw + Math.abs(wc[i]!) * hh;
       hy = Math.abs(b[i]!) * hw + Math.abs(d[i]!) * hh;
     }
-    const x0 = vp.ox + (e[i]! - hx) * vp.scale;
-    const y0 = vp.oy + (f[i]! - hy) * vp.scale;
-    const x1 = vp.ox + (e[i]! + hx) * vp.scale;
-    const y1 = vp.oy + (f[i]! + hy) * vp.scale;
+    const cam = fs.cam;
+    const x0 = vp.ox + (cam.zoom * (e[i]! - hx) + cam.tx) * vp.scale;
+    const y0 = vp.oy + (cam.zoom * (f[i]! - hy) + cam.ty) * vp.scale;
+    const x1 = vp.ox + (cam.zoom * (e[i]! + hx) + cam.tx) * vp.scale;
+    const y1 = vp.oy + (cam.zoom * (f[i]! + hy) + cam.ty) * vp.scale;
     const cur = boxes.get(nIx);
     if (!cur) boxes.set(nIx, [x0, y0, x1, y1]);
     else {

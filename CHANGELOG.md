@@ -4,6 +4,25 @@ All notable changes to the Synod player. Every `synodlang` repository shares MAJ
 
 ## Unreleased
 
+Implements Synod 0.3 (themes, richer drawing).
+
+### Added
+
+- Scene format 0.3, read by the rules of the formats guide: the top-level `style` and `camera`; the kinds `icon` (the 16-icon set, `src/render/icons.json`, checked against dsl by `scripts/sync-icons.ts`) and `counter` (rolling digits); the key properties `curve`, `trail`, `dash`, `draw`, `halo`, `icon`, `count`, `role` and `face`; the effects `indicate`, `flash`, `circumscribe`, `ripple` and `sweep`. Old 0.2 scenes load unchanged.
+- Style: stroke width, glow, drop shadow, vignette (drawn last, in canvas space), type roles and faces with sizes, weights and tracking, spring easing for `x`, `y`, `scale`, `rotation` and the camera, camera keys with idle drift (hit testing inverts letterbox, camera and drift).
+- Sketch: every outline wobbles by a seeded value noise (FNV-1a-32 of the shape id, mulberry32, smoothstep), twice at alpha 1 and 0.6; stable in time, cached per shape.
+- Trails (8 ghosts), Bezier curves, dashes, partial draw, halo, icon morph.
+- Fonts: the closed set Inter, JetBrains Mono, Source Serif 4 and Shantell Sans (SIL OFL 1.1, variable woff2, sources and checksums in `fonts/README.md`), the release asset `synod-player-fonts-<tag>.tar.gz`, `options.fontBase` and `player.fontsReady()`.
+- Hit testing also answers icons and counters (like a filled shape).
+- Tests: hand-made scenes for every new key, kind, effect and style value, display-list and WebKit pixel goldens for them, the compiler's 0.3 scenes, and a 50-node, 200-message stress scene with sketch 1 and trails (JS frame work p99 under 4 ms).
+
+### Changed
+
+- The default sans is Inter (was the system font). Every display-list golden differs only in its `font = ...` line; the WebKit pixel snapshots are regenerated.
+- A counter column rolls only while the column below is on its last digit (an odometer), so a whole number is drawn crisp.
+- The bundle budget is 96 KB minified and 32 KB gzip (was 48 KB and 16 KB): the icon set and the new drawing code.
+- The player redraws the last drawn time, not the clock, when fonts finish loading.
+
 ## v0.2.1 — 2026-10-22
 
 Implements Synod 0.2.

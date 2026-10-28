@@ -20,7 +20,8 @@ function cardPos(n: number): [number, number] {
   return [80 + (n % 10) * 160, 100 + Math.floor(n / 10) * 200];
 }
 
-export function generate(): string {
+/** `rich` is the 0.3 variant: sketch 1, outlined cards, trails on every flight, a halo on some cards. */
+export function generate(rich = false): string {
   counter = 0;
   const shapes: string[] = [];
   const j = JSON.stringify;
@@ -29,9 +30,9 @@ export function generate(): string {
     const rect = id();
     const label = id();
     shapes.push(
-      `{"id":"${rect}","kind":"rect","props":{"w":96,"h":56,"radius":12},"keys":[{"at":0,"x":0,"y":0,"opacity":1,"fill":"Ink"}]}`,
+      `{"id":"${rect}","kind":"rect","props":{"w":96,"h":56,"radius":12},"keys":[{"at":0,"x":0,"y":0,"opacity":1,"fill":"Ink"${rich ? ',"stroke":"Accent"' : ""}}]}`,
       `{"id":"${label}","kind":"label","props":{},"keys":[{"at":0,"x":0,"y":0,"opacity":1,"fill":"Paper","text":"n${n}"}]}`,
-      `{"id":"${id()}","kind":"group","props":{"items":[${j(rect)},${j(label)}]},"keys":[{"at":0,"x":${x},"y":${y},"opacity":1}]}`,
+      `{"id":"${id()}","kind":"group","props":{"items":[${j(rect)},${j(label)}]},"keys":[{"at":0,"x":${x},"y":${y},"opacity":1${rich && n % 5 === 0 ? ',"halo":0.5' : ""}}]}`,
     );
     for (let r = 0; r < 3; r++) {
       const t0 = 600 + ((n * 37 + r * 211) % 1500);
@@ -54,24 +55,31 @@ export function generate(): string {
     const circle = id();
     const label = id();
     shapes.push(
-      `{"id":"${circle}","kind":"circle","props":{"r":6},"keys":[{"at":${born},"x":0,"y":0,"opacity":1,"fill":"Accent"}],"end":${land + 300}}`,
+      `{"id":"${circle}","kind":"circle","props":{"r":6},"keys":[{"at":${born},"x":0,"y":0,"opacity":1,"fill":"Accent"${rich ? ',"stroke":"Ink"' : ""}}],"end":${land + 300}}`,
       `{"id":"${label}","kind":"label","props":{},"keys":[{"at":${born},"x":0,"y":-23,"opacity":1,"fill":"Ink","text":"m${k}"}],"end":${land + 300}}`,
-      `{"id":"${id()}","kind":"group","props":{"items":[${j(circle)},${j(label)}]},"keys":[{"at":${born},"x":${from[0]},"y":${from[1]},"opacity":1},{"at":${land},"x":${to[0]},"y":${to[1]}},{"at":${land + 300},"opacity":0}],"end":${land + 300}}`,
+      `{"id":"${id()}","kind":"group","props":{"items":[${j(circle)},${j(label)}]},"keys":[{"at":${born},"x":${from[0]},"y":${from[1]},"opacity":1${rich ? ',"curve":0.2,"trail":400' : ""}},{"at":${land},"x":${to[0]},"y":${to[1]}},{"at":${land + 300},"opacity":0}],"end":${land + 300}}`,
     );
   }
   const duration = 4000;
-  return `{"format":"synod-scene/1","duration":${duration},"canvas":{"w":1600,"h":1000},"theme":${THEME},"shapes":[\n${shapes.join(",\n")}\n],"markers":[],"trace":[\n{"seq":1,"at":0},\n{"seq":2,"at":2000}\n]}\n`;
+  const style = rich ? ',"style":{"sketch":1,"stroke":3,"shadow":0.2,"vignette":0.3}' : "";
+  return `{"format":"synod-scene/1","duration":${duration},"canvas":{"w":1600,"h":1000},"theme":${THEME}${style},"shapes":[\n${shapes.join(",\n")}\n],"markers":[],"trace":[\n{"seq":1,"at":0},\n{"seq":2,"at":2000}\n]}\n`;
 }
 
-const out = join(import.meta.dirname, "..", "test", "scenes", "handmade", "stress-50x200.json");
+const dir = join(import.meta.dirname, "..", "test", "scenes", "handmade");
+const targets: [string, boolean][] = [
+  [join(dir, "stress-50x200.json"), false],
+  [join(dir, "stress-sketch-trails.json"), true],
+];
 if (import.meta.main) {
-  const text = generate();
-  if (process.argv.includes("--check")) {
-    if (readFileSync(out, "utf8") !== text) {
-      process.stderr.write("stress-50x200.json is out of date; run node scripts/gen-stress.ts\n");
-      process.exit(1);
+  for (const [out, rich] of targets) {
+    const text = generate(rich);
+    if (process.argv.includes("--check")) {
+      if (readFileSync(out, "utf8") !== text) {
+        process.stderr.write(`${out} is out of date; run node scripts/gen-stress.ts\n`);
+        process.exit(1);
+      }
+    } else {
+      writeFileSync(out, text);
     }
-  } else {
-    writeFileSync(out, text);
   }
 }

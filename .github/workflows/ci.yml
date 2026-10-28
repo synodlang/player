@@ -89,6 +89,21 @@ jobs:
       - name: Vendored scenes equal the compiler's goldens
         run: node scripts/sync-scenes.ts _compiler --check
 
+  icons-drift:
+    name: icons drift
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/checkout@v7
+        with:
+          repository: synodlang/dsl
+          path: _dsl
+      - uses: actions/setup-node@v7
+        with:
+          node-version: lts/*
+      - name: The icon set equals the normative one in dsl
+        run: node scripts/sync-icons.ts _dsl --check
+
   pixel:
     name: pixel (webkit goldens, chromium smoke, webkit bench)
     runs-on: ubuntu-latest

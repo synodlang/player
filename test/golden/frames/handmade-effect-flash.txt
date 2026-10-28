@@ -1,0 +1,731 @@
+# view 1600x1000 dpr 1
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 350.00 400.00
+beginPath
+arc 0.00 0.00 50.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 400.00
+beginPath
+moveTo -54.00 -40.00
+arcTo 70.00 -40.00 70.00 40.00 16.00
+arcTo 70.00 40.00 -70.00 40.00 16.00
+arcTo -70.00 40.00 -70.00 -40.00 16.00
+arcTo -70.00 -40.00 70.00 -40.00 16.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1250.00 400.00
+fillStyle = #ede9e1
+fillText "effect" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 450.00 750.00
+lineJoin = round
+strokeStyle = #e86f5a
+beginPath
+moveTo 5.12 -28.16
+lineTo 2.02 -24.02
+lineTo -1.09 -19.88
+lineTo -4.19 -15.74
+lineTo -7.30 -11.60
+lineTo -10.40 -7.46
+lineTo -13.50 -3.32
+lineTo -17.92 2.56
+lineTo -14.92 2.56
+lineTo -9.75 2.56
+lineTo -2.56 2.56
+lineTo -3.18 5.65
+lineTo -4.19 10.73
+lineTo -5.21 15.80
+lineTo -6.22 20.88
+lineTo -7.68 28.16
+lineTo -5.90 25.85
+lineTo -2.75 21.75
+lineTo 0.41 17.64
+lineTo 3.56 13.54
+lineTo 6.72 9.44
+lineTo 9.88 5.34
+lineTo 13.03 1.24
+lineTo 16.18 -2.86
+lineTo 17.92 -5.12
+lineTo 10.43 -5.12
+lineTo 5.25 -5.12
+lineTo 2.56 -5.12
+lineTo 3.40 -12.73
+lineTo 3.97 -17.88
+lineTo 4.55 -23.01
+lineTo 5.12 -28.16
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+lineJoin = miter
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1250.00 700.00
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fill
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 800.00 700.00
+lineTo 1250.00 700.00
+stroke
+restore
+== at=150
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 350.00 400.00
+beginPath
+arc 0.00 0.00 50.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 400.00
+beginPath
+moveTo -54.00 -40.00
+arcTo 70.00 -40.00 70.00 40.00 16.00
+arcTo 70.00 40.00 -70.00 40.00 16.00
+arcTo -70.00 40.00 -70.00 -40.00 16.00
+arcTo -70.00 -40.00 70.00 -40.00 16.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1250.00 400.00
+fillStyle = #ede9e1
+fillText "effect" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 450.00 750.00
+lineJoin = round
+strokeStyle = #e86f5a
+beginPath
+moveTo 5.12 -28.16
+lineTo 2.02 -24.02
+lineTo -1.09 -19.88
+lineTo -4.19 -15.74
+lineTo -7.30 -11.60
+lineTo -10.40 -7.46
+lineTo -13.50 -3.32
+lineTo -17.92 2.56
+lineTo -14.92 2.56
+lineTo -9.75 2.56
+lineTo -2.56 2.56
+lineTo -3.18 5.65
+lineTo -4.19 10.73
+lineTo -5.21 15.80
+lineTo -6.22 20.88
+lineTo -7.68 28.16
+lineTo -5.90 25.85
+lineTo -2.75 21.75
+lineTo 0.41 17.64
+lineTo 3.56 13.54
+lineTo 6.72 9.44
+lineTo 9.88 5.34
+lineTo 13.03 1.24
+lineTo 16.18 -2.86
+lineTo 17.92 -5.12
+lineTo 10.43 -5.12
+lineTo 5.25 -5.12
+lineTo 2.56 -5.12
+lineTo 3.40 -12.73
+lineTo 3.97 -17.88
+lineTo 4.55 -23.01
+lineTo 5.12 -28.16
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+lineJoin = miter
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1250.00 700.00
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fill
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 800.00 700.00
+lineTo 1250.00 700.00
+stroke
+restore
+== at=300
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 350.00 400.00
+beginPath
+arc 0.00 0.00 50.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #5cc8b8
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 426.71 400.00
+lineTo 450.71 400.00
+moveTo 416.43 438.36
+lineTo 437.22 450.36
+moveTo 388.36 466.43
+lineTo 400.36 487.22
+moveTo 350.00 476.71
+lineTo 350.00 500.71
+moveTo 311.64 466.43
+lineTo 299.64 487.22
+moveTo 283.57 438.36
+lineTo 262.78 450.36
+moveTo 273.29 400.00
+lineTo 249.29 400.00
+moveTo 283.57 361.64
+lineTo 262.78 349.64
+moveTo 311.64 333.57
+lineTo 299.64 312.78
+moveTo 350.00 323.29
+lineTo 350.00 299.29
+moveTo 388.36 333.57
+lineTo 400.36 312.78
+moveTo 416.43 361.64
+lineTo 437.22 349.64
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 400.00
+beginPath
+moveTo -54.00 -40.00
+arcTo 70.00 -40.00 70.00 40.00 16.00
+arcTo 70.00 40.00 -70.00 40.00 16.00
+arcTo -70.00 40.00 -70.00 -40.00 16.00
+arcTo -70.00 -40.00 70.00 -40.00 16.00
+closePath
+fillStyle = #f4a340
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 886.62 400.00
+lineTo 910.62 400.00
+moveTo 875.02 443.31
+lineTo 895.80 455.31
+moveTo 843.31 475.02
+lineTo 855.31 495.80
+moveTo 800.00 486.62
+lineTo 800.00 510.62
+moveTo 756.69 475.02
+lineTo 744.69 495.80
+moveTo 724.98 443.31
+lineTo 704.20 455.31
+moveTo 713.38 400.00
+lineTo 689.38 400.00
+moveTo 724.98 356.69
+lineTo 704.20 344.69
+moveTo 756.69 324.98
+lineTo 744.69 304.20
+moveTo 800.00 313.38
+lineTo 800.00 289.38
+moveTo 843.31 324.98
+lineTo 855.31 304.20
+moveTo 875.02 356.69
+lineTo 895.80 344.69
+stroke
+setTransform 1.00 0.00 0.00 1.00 1250.00 400.00
+fillStyle = #ede9e1
+fillText "effect" 0.00 0.00
+strokeStyle = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 1281.63 400.00
+lineTo 1305.63 400.00
+moveTo 1277.39 415.82
+lineTo 1298.18 427.82
+moveTo 1265.82 427.39
+lineTo 1277.82 448.18
+moveTo 1250.00 431.63
+lineTo 1250.00 455.63
+moveTo 1234.18 427.39
+lineTo 1222.18 448.18
+moveTo 1222.61 415.82
+lineTo 1201.82 427.82
+moveTo 1218.37 400.00
+lineTo 1194.37 400.00
+moveTo 1222.61 384.18
+lineTo 1201.82 372.18
+moveTo 1234.18 372.61
+lineTo 1222.18 351.82
+moveTo 1250.00 368.37
+lineTo 1250.00 344.37
+moveTo 1265.82 372.61
+lineTo 1277.82 351.82
+moveTo 1277.39 384.18
+lineTo 1298.18 372.18
+stroke
+setTransform 1.00 0.00 0.00 1.00 450.00 750.00
+lineJoin = round
+strokeStyle = #e86f5a
+beginPath
+moveTo 5.12 -28.16
+lineTo 2.02 -24.02
+lineTo -1.09 -19.88
+lineTo -4.19 -15.74
+lineTo -7.30 -11.60
+lineTo -10.40 -7.46
+lineTo -13.50 -3.32
+lineTo -17.92 2.56
+lineTo -14.92 2.56
+lineTo -9.75 2.56
+lineTo -2.56 2.56
+lineTo -3.18 5.65
+lineTo -4.19 10.73
+lineTo -5.21 15.80
+lineTo -6.22 20.88
+lineTo -7.68 28.16
+lineTo -5.90 25.85
+lineTo -2.75 21.75
+lineTo 0.41 17.64
+lineTo 3.56 13.54
+lineTo 6.72 9.44
+lineTo 9.88 5.34
+lineTo 13.03 1.24
+lineTo 16.18 -2.86
+lineTo 17.92 -5.12
+lineTo 10.43 -5.12
+lineTo 5.25 -5.12
+lineTo 2.56 -5.12
+lineTo 3.40 -12.73
+lineTo 3.97 -17.88
+lineTo 4.55 -23.01
+lineTo 5.12 -28.16
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 501.25 750.00
+lineTo 525.25 750.00
+moveTo 494.39 775.63
+lineTo 515.17 787.63
+moveTo 475.63 794.39
+lineTo 487.63 815.17
+moveTo 450.00 801.25
+lineTo 450.00 825.25
+moveTo 424.37 794.39
+lineTo 412.37 815.17
+moveTo 405.61 775.63
+lineTo 384.83 787.63
+moveTo 398.75 750.00
+lineTo 374.75 750.00
+moveTo 405.61 724.37
+lineTo 384.83 712.37
+moveTo 424.37 705.61
+lineTo 412.37 684.83
+moveTo 450.00 698.75
+lineTo 450.00 674.75
+moveTo 475.63 705.61
+lineTo 487.63 684.83
+moveTo 494.39 724.37
+lineTo 515.17 712.37
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+lineJoin = miter
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1250.00 700.00
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fill
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 800.00 700.00
+lineTo 1250.00 700.00
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 1256.00 700.00
+lineTo 1280.00 700.00
+moveTo 1225.05 815.50
+lineTo 1245.84 827.50
+moveTo 1140.50 900.05
+lineTo 1152.50 920.84
+moveTo 1025.00 931.00
+lineTo 1025.00 955.00
+moveTo 909.50 900.05
+lineTo 897.50 920.84
+moveTo 824.95 815.50
+lineTo 804.16 827.50
+moveTo 794.00 700.00
+lineTo 770.00 700.00
+moveTo 824.95 584.50
+lineTo 804.16 572.50
+moveTo 909.50 499.95
+lineTo 897.50 479.16
+moveTo 1025.00 469.00
+lineTo 1025.00 445.00
+moveTo 1140.50 499.95
+lineTo 1152.50 479.16
+moveTo 1225.05 584.50
+lineTo 1245.84 572.50
+stroke
+restore
+== at=800
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 350.00 400.00
+beginPath
+arc 0.00 0.00 50.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #5cc8b8
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.50
+beginPath
+moveTo 426.71 400.00
+lineTo 450.71 400.00
+moveTo 416.43 438.36
+lineTo 437.22 450.36
+moveTo 388.36 466.43
+lineTo 400.36 487.22
+moveTo 350.00 476.71
+lineTo 350.00 500.71
+moveTo 311.64 466.43
+lineTo 299.64 487.22
+moveTo 283.57 438.36
+lineTo 262.78 450.36
+moveTo 273.29 400.00
+lineTo 249.29 400.00
+moveTo 283.57 361.64
+lineTo 262.78 349.64
+moveTo 311.64 333.57
+lineTo 299.64 312.78
+moveTo 350.00 323.29
+lineTo 350.00 299.29
+moveTo 388.36 333.57
+lineTo 400.36 312.78
+moveTo 416.43 361.64
+lineTo 437.22 349.64
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 800.00 400.00
+beginPath
+moveTo -54.00 -40.00
+arcTo 70.00 -40.00 70.00 40.00 16.00
+arcTo 70.00 40.00 -70.00 40.00 16.00
+arcTo -70.00 40.00 -70.00 -40.00 16.00
+arcTo -70.00 -40.00 70.00 -40.00 16.00
+closePath
+fillStyle = #f4a340
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.50
+beginPath
+moveTo 886.62 400.00
+lineTo 910.62 400.00
+moveTo 875.02 443.31
+lineTo 895.80 455.31
+moveTo 843.31 475.02
+lineTo 855.31 495.80
+moveTo 800.00 486.62
+lineTo 800.00 510.62
+moveTo 756.69 475.02
+lineTo 744.69 495.80
+moveTo 724.98 443.31
+lineTo 704.20 455.31
+moveTo 713.38 400.00
+lineTo 689.38 400.00
+moveTo 724.98 356.69
+lineTo 704.20 344.69
+moveTo 756.69 324.98
+lineTo 744.69 304.20
+moveTo 800.00 313.38
+lineTo 800.00 289.38
+moveTo 843.31 324.98
+lineTo 855.31 304.20
+moveTo 875.02 356.69
+lineTo 895.80 344.69
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1250.00 400.00
+fillStyle = #ede9e1
+fillText "effect" 0.00 0.00
+strokeStyle = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.50
+beginPath
+moveTo 1281.63 400.00
+lineTo 1305.63 400.00
+moveTo 1277.39 415.82
+lineTo 1298.18 427.82
+moveTo 1265.82 427.39
+lineTo 1277.82 448.18
+moveTo 1250.00 431.63
+lineTo 1250.00 455.63
+moveTo 1234.18 427.39
+lineTo 1222.18 448.18
+moveTo 1222.61 415.82
+lineTo 1201.82 427.82
+moveTo 1218.37 400.00
+lineTo 1194.37 400.00
+moveTo 1222.61 384.18
+lineTo 1201.82 372.18
+moveTo 1234.18 372.61
+lineTo 1222.18 351.82
+moveTo 1250.00 368.37
+lineTo 1250.00 344.37
+moveTo 1265.82 372.61
+lineTo 1277.82 351.82
+moveTo 1277.39 384.18
+lineTo 1298.18 372.18
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 450.00 750.00
+lineJoin = round
+strokeStyle = #e86f5a
+beginPath
+moveTo 5.12 -28.16
+lineTo 2.02 -24.02
+lineTo -1.09 -19.88
+lineTo -4.19 -15.74
+lineTo -7.30 -11.60
+lineTo -10.40 -7.46
+lineTo -13.50 -3.32
+lineTo -17.92 2.56
+lineTo -14.92 2.56
+lineTo -9.75 2.56
+lineTo -2.56 2.56
+lineTo -3.18 5.65
+lineTo -4.19 10.73
+lineTo -5.21 15.80
+lineTo -6.22 20.88
+lineTo -7.68 28.16
+lineTo -5.90 25.85
+lineTo -2.75 21.75
+lineTo 0.41 17.64
+lineTo 3.56 13.54
+lineTo 6.72 9.44
+lineTo 9.88 5.34
+lineTo 13.03 1.24
+lineTo 16.18 -2.86
+lineTo 17.92 -5.12
+lineTo 10.43 -5.12
+lineTo 5.25 -5.12
+lineTo 2.56 -5.12
+lineTo 3.40 -12.73
+lineTo 3.97 -17.88
+lineTo 4.55 -23.01
+lineTo 5.12 -28.16
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.50
+beginPath
+moveTo 501.25 750.00
+lineTo 525.25 750.00
+moveTo 494.39 775.63
+lineTo 515.17 787.63
+moveTo 475.63 794.39
+lineTo 487.63 815.17
+moveTo 450.00 801.25
+lineTo 450.00 825.25
+moveTo 424.37 794.39
+lineTo 412.37 815.17
+moveTo 405.61 775.63
+lineTo 384.83 787.63
+moveTo 398.75 750.00
+lineTo 374.75 750.00
+moveTo 405.61 724.37
+lineTo 384.83 712.37
+moveTo 424.37 705.61
+lineTo 412.37 684.83
+moveTo 450.00 698.75
+lineTo 450.00 674.75
+moveTo 475.63 705.61
+lineTo 487.63 684.83
+moveTo 494.39 724.37
+lineTo 515.17 712.37
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+lineJoin = miter
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1250.00 700.00
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fill
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 800.00 700.00
+lineTo 1250.00 700.00
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.50
+beginPath
+moveTo 1256.00 700.00
+lineTo 1280.00 700.00
+moveTo 1225.05 815.50
+lineTo 1245.84 827.50
+moveTo 1140.50 900.05
+lineTo 1152.50 920.84
+moveTo 1025.00 931.00
+lineTo 1025.00 955.00
+moveTo 909.50 900.05
+lineTo 897.50 920.84
+moveTo 824.95 815.50
+lineTo 804.16 827.50
+moveTo 794.00 700.00
+lineTo 770.00 700.00
+moveTo 824.95 584.50
+lineTo 804.16 572.50
+moveTo 909.50 499.95
+lineTo 897.50 479.16
+moveTo 1025.00 469.00
+lineTo 1025.00 445.00
+moveTo 1140.50 499.95
+lineTo 1152.50 479.16
+moveTo 1225.05 584.50
+lineTo 1245.84 572.50
+stroke
+restore
+== at=1300
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 350.00 400.00
+beginPath
+arc 0.00 0.00 50.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 800.00 400.00
+beginPath
+moveTo -54.00 -40.00
+arcTo 70.00 -40.00 70.00 40.00 16.00
+arcTo 70.00 40.00 -70.00 40.00 16.00
+arcTo -70.00 40.00 -70.00 -40.00 16.00
+arcTo -70.00 -40.00 70.00 -40.00 16.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 1250.00 400.00
+fillStyle = #ede9e1
+fillText "effect" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 450.00 750.00
+lineJoin = round
+strokeStyle = #e86f5a
+beginPath
+moveTo 5.12 -28.16
+lineTo 2.02 -24.02
+lineTo -1.09 -19.88
+lineTo -4.19 -15.74
+lineTo -7.30 -11.60
+lineTo -10.40 -7.46
+lineTo -13.50 -3.32
+lineTo -17.92 2.56
+lineTo -14.92 2.56
+lineTo -9.75 2.56
+lineTo -2.56 2.56
+lineTo -3.18 5.65
+lineTo -4.19 10.73
+lineTo -5.21 15.80
+lineTo -6.22 20.88
+lineTo -7.68 28.16
+lineTo -5.90 25.85
+lineTo -2.75 21.75
+lineTo 0.41 17.64
+lineTo 3.56 13.54
+lineTo 6.72 9.44
+lineTo 9.88 5.34
+lineTo 13.03 1.24
+lineTo 16.18 -2.86
+lineTo 17.92 -5.12
+lineTo 10.43 -5.12
+lineTo 5.25 -5.12
+lineTo 2.56 -5.12
+lineTo 3.40 -12.73
+lineTo 3.97 -17.88
+lineTo 4.55 -23.01
+lineTo 5.12 -28.16
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+lineJoin = miter
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fillStyle = #8a90a8
+fill
+setTransform 1.00 0.00 0.00 1.00 1250.00 700.00
+beginPath
+arc 0.00 0.00 8.00 0.00 6.28
+fill
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 800.00 700.00
+lineTo 1250.00 700.00
+stroke
+restore

@@ -2,7 +2,9 @@
 
 import { hitTestScene, nodeBoundsScene } from "../eval/hit.ts";
 import { renderToContext } from "../render/draw.ts";
+import { FONT_FILES, FONT_WEIGHTS } from "../render/style.ts";
 import { backingSize } from "../render/viewport.ts";
+import type { Compiled } from "../scene/compile.ts";
 import { compileScene } from "../scene/compile.ts";
 import { loadScene } from "../scene/load.ts";
 import type {
@@ -31,7 +33,15 @@ export interface PlayerEnv {
     ready: Promise<unknown>;
     addEventListener(type: "loadingdone", cb: () => void): void;
     removeEventListener(type: "loadingdone", cb: () => void): void;
+    load?(font: string): Promise<unknown>;
+    add?(face: unknown): unknown;
   };
+  /** The FontFace constructor, when the environment has one. */
+  fontFace?: new (
+    family: string,
+    source: string,
+    descriptors: { weight: string; style: string },
+  ) => { load(): Promise<unknown> };
   devicePixelRatio: number;
 }
 
@@ -41,6 +51,7 @@ function defaultEnv(): PlayerEnv {
     cancelAnimationFrame?: (h: number) => void;
     ResizeObserver?: new (cb: () => void) => { observe(el: object): void; disconnect(): void };
     document?: { fonts?: PlayerEnv["fonts"] };
+    FontFace?: PlayerEnv["fontFace"];
     devicePixelRatio?: number;
   };
   const env: PlayerEnv = {
@@ -65,6 +76,7 @@ function defaultEnv(): PlayerEnv {
   }
   const fonts = g.document?.fonts;
   if (fonts) env.fonts = fonts;
+  if (g.FontFace) env.fontFace = g.FontFace;
   return env;
 }
 
@@ -100,8 +112,9 @@ export function createPlayerWithEnv(
   let stopAtPause = opts.stopAtPause ?? false;
   const timeEventMs =
     opts.timeEventHz && opts.timeEventHz > 0 ? 1000 / opts.timeEventHz : 1000 / 60;
-  const renderOpts: { sans?: string } = {};
+  const renderOpts: { sans?: string; mono?: string } = {};
   if (opts.fonts?.sans !== undefined) renderOpts.sans = opts.fonts.sans;
+  if (opts.fonts?.mono !== undefined) renderOpts.mono = opts.fonts.mono;
 
   let compiled: CompiledScene;
   let duration = 0;
@@ -116,6 +129,8 @@ export function createPlayerWithEnv(
   let factSeq = -1;
   let destroyed = false;
   const listeners = new Map<PlayerEventName, Set<Listener>>();
+  /** Font files requested through options.fontBase, by family. */
+  const loading = new Map<string, Promise<unknown>>();
 
   function emit<K extends PlayerEventName>(name: K, payload: PlayerEventMap[K]): void {
     const set = listeners.get(name);
@@ -137,6 +152,46 @@ export function createPlayerWithEnv(
     markers = byAt(s.markers);
     trace = byAt(s.trace);
     warnings = result.warnings;
+    registerFonts();
+  }
+
+  /** The families of the font set this scene draws with, less the ones the host overrides. */
+  function families(): string[] {
+    const c = compiled as Compiled;
+    const out: string[] = [];
+    if (c.usesSans && opts.fonts?.sans === undefined) out.push(c.style.sans);
+    if (c.usesMono && opts.fonts?.mono === undefined && !out.includes(c.style.mono)) {
+      out.push(c.style.mono);
+    }
+    return out;
+  }
+
+  /** Registers the font files of `options.fontBase` for the families the scene uses. */
+  function registerFonts(): void {
+    const base = opts.fontBase;
+    if (base === undefined || !env.fontFace || !env.fonts?.add) return;
+    for (const family of families()) {
+      const file = FONT_FILES[family];
+      if (file === undefined || loading.has(family)) continue;
+      const face = new env.fontFace(family, `url(${base.replace(/\/+$/, "")}/${file})`, {
+        weight: FONT_WEIGHTS[family] as string,
+        style: "normal",
+      });
+      env.fonts.add(face);
+      loading.set(family, face.load());
+    }
+  }
+
+  function fontsReady(): Promise<void> {
+    const jobs: Promise<unknown>[] = [];
+    for (const family of families()) {
+      const pending = loading.get(family);
+      if (pending) jobs.push(pending);
+      else if (env.fonts?.load) jobs.push(env.fonts.load(`500 16px "${family}"`));
+    }
+    return Promise.all(jobs.map((j) => j.catch(() => undefined))).then(() => {
+      if (!destroyed && !clock.playing && view) draw(drawnAt);
+    });
   }
 
   function factAt(at: number): TraceEntry | null {
@@ -317,7 +372,7 @@ export function createPlayerWithEnv(
   if (env.fonts) {
     const fonts = env.fonts;
     const redraw = () => {
-      if (!destroyed && !clock.playing) draw();
+      if (!destroyed && !clock.playing) draw(drawnAt);
     };
     fonts.addEventListener("loadingdone", redraw);
     disconnect.push(() => fonts.removeEventListener("loadingdone", redraw));
@@ -393,6 +448,7 @@ export function createPlayerWithEnv(
       return nodeBoundsScene(compiled, drawnAt, view);
     },
     resize,
+    fontsReady,
     renderFrame(at) {
       if (!destroyed) draw(at);
     },

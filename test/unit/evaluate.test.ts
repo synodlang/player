@@ -560,9 +560,28 @@ function sampleTimes(scene: Scene): number[] {
   return [...set].sort((a, b) => a - b);
 }
 
-test("evaluate agrees with a plain reference evaluator on every scene", () => {
+/** Whether a scene uses anything the 0.2 reference evaluator does not know. */
+function uses03(scene: Scene): boolean {
+  if (scene.style.easing !== "smooth" || scene.camera.length > 0) return true;
+  return scene.shapes.some(
+    (s) =>
+      s.kind === "icon" ||
+      s.kind === "counter" ||
+      s.keys.some(
+        (k) =>
+          k.curve !== undefined ||
+          k.trail !== undefined ||
+          k.draw !== undefined ||
+          k.halo !== undefined ||
+          (k.effect !== undefined && k.effect !== "glow" && k.effect !== "none"),
+      ),
+  );
+}
+
+test("evaluate agrees with a plain reference evaluator on every 0.2 scene", () => {
   for (const [g, f] of allScenes()) {
     const { scene } = loadFile(g, f);
+    if (uses03(scene)) continue;
     const c = compileScene(scene);
     const fs = createFrameState(c);
     const times = sampleTimes(scene);

@@ -206,8 +206,9 @@ test("every scene renders balanced, without NaN or Infinity, at many times", () 
       renderToContext(ctx, c, (scene.duration * i) / 12, V);
       const text = ctx.text();
       assert.ok(!/NaN|Infinity/.test(text), `${g}/${f} at ${i}`);
-      assert.equal(ctx.lines.filter((l) => l === "save").length, 1);
-      assert.equal(ctx.lines.filter((l) => l === "restore").length, 1);
+      const saves = ctx.lines.filter((l) => l === "save").length;
+      assert.ok(saves >= 1, `${g}/${f} saves`);
+      assert.equal(ctx.lines.filter((l) => l === "restore").length, saves);
     }
   }
 });

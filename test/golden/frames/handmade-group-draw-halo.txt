@@ -1,0 +1,98 @@
+# view 1600x1000 dpr 1
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+restore
+== at=500
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+shadowBlur = 12.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+strokeStyle = #ede9e1
+beginPath
+moveTo 0.00 -40.00
+lineTo 58.00 -40.00
+arc 58.00 -28.00 12.00 -1.57 0.00
+lineTo 70.00 28.00
+arc 58.00 28.00 12.00 0.00 1.57
+lineTo -58.00 40.00
+arc -58.00 28.00 12.00 1.57 3.14
+lineTo -70.00 -28.00
+arc -58.00 -28.00 12.00 3.14 4.71
+lineTo 0.00 -40.00
+closePath
+stroke
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+fillStyle = #ede9e1
+fillText "gro" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+restore
+== at=1000
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+shadowBlur = 24.00
+shadowColor = #f4a340
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+beginPath
+moveTo -58.00 -40.00
+arcTo 70.00 -40.00 70.00 40.00 12.00
+arcTo 70.00 40.00 -70.00 40.00 12.00
+arcTo -70.00 40.00 -70.00 -40.00 12.00
+arcTo -70.00 -40.00 70.00 -40.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+strokeStyle = #ede9e1
+stroke
+shadowColor = #ede9e1
+setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+fillStyle = #ede9e1
+fillText "group" 0.00 0.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+restore

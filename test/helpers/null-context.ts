@@ -13,7 +13,17 @@ export class NullContext implements Ctx2D {
   textBaseline: CanvasTextBaseline = "alphabetic";
   shadowBlur = 0;
   shadowColor = "rgba(0, 0, 0, 0)";
+  shadowOffsetY = 0;
+  lineJoin: CanvasLineJoin = "miter";
+  letterSpacing = "0px";
   calls = 0;
+  setLineDash(): void {
+    this.calls++;
+  }
+  createRadialGradient(): { addColorStop(offset: number, color: string): void } {
+    this.calls++;
+    return { addColorStop: () => {} };
+  }
   save(): void {
     this.calls++;
   }

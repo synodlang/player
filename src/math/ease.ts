@@ -6,3 +6,12 @@ export function smootherstep(u: number): number {
   const inner = u * (u * 6 - 15) + 10;
   return u * u * (u * inner);
 }
+
+/** The back-out overshoot constant of the spring curve. */
+export const SPRING_C = 1.70158;
+
+/** spring(u) = 1 + (c + 1)(u - 1)^3 + c (u - 1)^2: a polynomial, so identical in every engine. */
+export function spring(u: number): number {
+  const v = u - 1;
+  return 1 + (SPRING_C + 1) * v * v * v + SPRING_C * v * v;
+}

@@ -25,6 +25,22 @@ export const HASHED = ["cassandra", "gossip", "raft", "webapp"];
 export const MAX_BUILDER_FRAMES = 40;
 export const LETTERBOX = { scene: "builder/group", width: 1000, height: 1000, pixelRatio: 2 };
 
+/** The hand-made scenes of 0.2 (their own tests cover them); every other hand-made scene is a 0.3 golden. */
+const HANDMADE_02 = [
+  "color-interpolation",
+  "lines",
+  "marker-and-key-fields",
+  "missing-theme",
+  "nested-groups",
+  "none-to-color",
+  "rotation-scale",
+  "stress-50x200",
+  "stroke-only-rect",
+  "unknown-kind",
+];
+/** Hand-made scenes whose display list is a hash (too large to keep as text). */
+const HANDMADE_HASHED = ["stress-sketch-trails"];
+
 export interface View {
   width: number;
   height: number;
@@ -79,7 +95,10 @@ export interface Golden {
   content: string;
 }
 
-function load(group: "examples" | "builder", name: string): { scene: Scene; c: Compiled } {
+function load(
+  group: "examples" | "builder" | "handmade",
+  name: string,
+): { scene: Scene; c: Compiled } {
   const { scene } = loadScene(sceneText(group, `${name}.json`));
   return { scene, c: compileScene(scene) };
 }
@@ -88,7 +107,7 @@ function sha(s: string): string {
   return createHash("sha256").update(s).digest("hex");
 }
 
-function names(group: "examples" | "builder"): string[] {
+function names(group: "examples" | "builder" | "handmade"): string[] {
   const dir = join(import.meta.dirname, "..", "test", "scenes", group);
   return readdirSync(dir)
     .filter((f) => f.endsWith(".json"))
@@ -122,6 +141,21 @@ export function generateGoldens(): Golden[] {
       for (const at of times) content += `== at=${at}\n${frameText(c, at, MAIN_VIEW)}\n`;
       out.push({ file: `${name}.txt`, content });
     }
+  }
+  for (const name of names("handmade")) {
+    if (HANDMADE_02.includes(name)) continue;
+    const { scene, c } = load("handmade", name);
+    if (HANDMADE_HASHED.includes(name)) {
+      for (const at of exampleTimes(scene)) {
+        hashLines.push(`${name} at=${at} ${sha(frameText(c, at, MAIN_VIEW))}`);
+      }
+      continue;
+    }
+    let content = header(MAIN_VIEW);
+    for (const at of builderTimes(scene)) {
+      content += `== at=${at}\n${frameText(c, at, MAIN_VIEW)}\n`;
+    }
+    out.push({ file: `handmade-${name}.txt`, content });
   }
   out.push({
     file: "hashes.txt",

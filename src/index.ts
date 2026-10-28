@@ -19,11 +19,14 @@ import type {
 } from "./types.ts";
 
 export type {
+  CameraKey,
   CircleShape,
   CompiledScene,
+  CounterShape,
   Ctx2D,
   GroupShape,
   HitResult,
+  IconShape,
   LabelShape,
   LineShape,
   LoadResult,
@@ -40,6 +43,7 @@ export type {
   SceneKey,
   SceneMarker,
   SceneShape,
+  Style,
   Theme,
   TraceEntry,
   View,

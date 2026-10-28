@@ -1,0 +1,945 @@
+# view 1600x1000 dpr 1
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+strokeStyle = #f4a340
+stroke
+restore
+== at=100
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+strokeStyle = #f4a340
+stroke
+restore
+== at=200
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+strokeStyle = #5cc8b8
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 575.46 750.00
+lineTo 599.46 750.00
+moveTo 565.35 787.73
+lineTo 586.14 799.73
+moveTo 537.73 815.35
+lineTo 549.73 836.14
+moveTo 500.00 825.46
+lineTo 500.00 849.46
+moveTo 462.27 815.35
+lineTo 450.27 836.14
+moveTo 434.65 787.73
+lineTo 413.86 799.73
+moveTo 424.54 750.00
+lineTo 400.54 750.00
+moveTo 434.65 712.27
+lineTo 413.86 700.27
+moveTo 462.27 684.65
+lineTo 450.27 663.86
+moveTo 500.00 674.54
+lineTo 500.00 650.54
+moveTo 537.73 684.65
+lineTo 549.73 663.86
+moveTo 565.35 712.27
+lineTo 586.14 700.27
+stroke
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+strokeStyle = #f4a340
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+arc 1000.00 750.00 60.00 -1.57 4.71
+stroke
+restore
+== at=450
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 528.00 400.00
+beginPath
+moveTo 0.00 -43.00
+lineTo 88.00 -43.00
+arc 88.00 -35.00 8.00 -1.57 0.00
+lineTo 96.00 35.00
+arc 88.00 35.00 8.00 0.00 1.57
+lineTo -30.13 43.00
+stroke
+setTransform 1.19 0.00 0.00 1.19 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #e8c45f
+fill
+setTransform 1.19 0.00 0.00 1.19 1119.44 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e8c15a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+strokeStyle = #5cc8b8
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.50
+beginPath
+moveTo 575.46 750.00
+lineTo 599.46 750.00
+moveTo 565.35 787.73
+lineTo 586.14 799.73
+moveTo 537.73 815.35
+lineTo 549.73 836.14
+moveTo 500.00 825.46
+lineTo 500.00 849.46
+moveTo 462.27 815.35
+lineTo 450.27 836.14
+moveTo 434.65 787.73
+lineTo 413.86 799.73
+moveTo 424.54 750.00
+lineTo 400.54 750.00
+moveTo 434.65 712.27
+lineTo 413.86 700.27
+moveTo 462.27 684.65
+lineTo 450.27 663.86
+moveTo 500.00 674.54
+lineTo 500.00 650.54
+moveTo 537.73 684.65
+lineTo 549.73 663.86
+moveTo 565.35 712.27
+lineTo 586.14 700.27
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+strokeStyle = #f4a340
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.64
+beginPath
+arc 1000.00 750.00 81.43 -1.57 4.71
+stroke
+restore
+== at=700
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.89
+setTransform 1.00 0.00 0.00 1.00 528.00 400.00
+beginPath
+moveTo 0.00 -43.00
+lineTo 88.00 -43.00
+arc 88.00 -35.00 8.00 -1.57 0.00
+lineTo 96.00 35.00
+arc 88.00 35.00 8.00 0.00 1.57
+lineTo -88.00 43.00
+arc -88.00 35.00 8.00 1.57 3.14
+lineTo -96.00 -35.00
+arc -88.00 -35.00 8.00 3.14 4.71
+lineTo 0.00 -43.00
+stroke
+globalAlpha = 1.00
+setTransform 1.11 0.00 0.00 1.11 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ead59c
+fill
+setTransform 1.11 0.00 0.00 1.11 1111.11 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #ea9f5b
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.29
+beginPath
+arc 1000.00 750.00 102.86 -1.57 4.71
+stroke
+restore
+== at=750
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.78
+setTransform 1.00 0.00 0.00 1.00 528.00 400.00
+beginPath
+moveTo 0.00 -43.00
+lineTo 88.00 -43.00
+arc 88.00 -35.00 8.00 -1.57 0.00
+lineTo 96.00 35.00
+arc 88.00 35.00 8.00 0.00 1.57
+lineTo -88.00 43.00
+arc -88.00 35.00 8.00 1.57 3.14
+lineTo -96.00 -35.00
+arc -88.00 -35.00 8.00 3.14 4.71
+lineTo 0.00 -43.00
+stroke
+globalAlpha = 1.00
+setTransform 1.06 0.00 0.00 1.06 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ecdebc
+fill
+setTransform 1.06 0.00 0.00 1.06 1106.11 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #ea8a5b
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.21
+beginPath
+arc 1000.00 750.00 107.14 -1.57 4.71
+stroke
+restore
+== at=800
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.67
+setTransform 1.00 0.00 0.00 1.00 528.00 400.00
+beginPath
+moveTo 0.00 -43.00
+lineTo 88.00 -43.00
+arc 88.00 -35.00 8.00 -1.57 0.00
+lineTo 96.00 35.00
+arc 88.00 35.00 8.00 0.00 1.57
+lineTo -88.00 43.00
+arc -88.00 35.00 8.00 1.57 3.14
+lineTo -96.00 -35.00
+arc -88.00 -35.00 8.00 3.14 4.71
+lineTo 0.00 -43.00
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.14
+beginPath
+arc 1000.00 750.00 111.43 -1.57 4.71
+stroke
+restore
+== at=850
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.56
+setTransform 1.00 0.00 0.00 1.00 528.00 400.00
+beginPath
+moveTo 0.00 -43.00
+lineTo 88.00 -43.00
+arc 88.00 -35.00 8.00 -1.57 0.00
+lineTo 96.00 35.00
+arc 88.00 35.00 8.00 0.00 1.57
+lineTo -88.00 43.00
+arc -88.00 35.00 8.00 1.57 3.14
+lineTo -96.00 -35.00
+arc -88.00 -35.00 8.00 3.14 4.71
+lineTo 0.00 -43.00
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+stroke
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.07
+beginPath
+arc 1000.00 750.00 115.71 -1.57 4.71
+stroke
+restore
+== at=900
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.44
+setTransform 1.00 0.00 0.00 1.00 528.00 400.00
+beginPath
+moveTo 0.00 -43.00
+lineTo 88.00 -43.00
+arc 88.00 -35.00 8.00 -1.57 0.00
+lineTo 96.00 35.00
+arc 88.00 35.00 8.00 0.00 1.57
+lineTo -88.00 43.00
+arc -88.00 35.00 8.00 1.57 3.14
+lineTo -96.00 -35.00
+arc -88.00 -35.00 8.00 3.14 4.71
+lineTo 0.00 -43.00
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+stroke
+restore
+== at=1000
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+strokeStyle = #f4a340
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 0.22
+setTransform 1.00 0.00 0.00 1.00 528.00 400.00
+beginPath
+moveTo 0.00 -43.00
+lineTo 88.00 -43.00
+arc 88.00 -35.00 8.00 -1.57 0.00
+lineTo 96.00 35.00
+arc 88.00 35.00 8.00 0.00 1.57
+lineTo -88.00 43.00
+arc -88.00 35.00 8.00 1.57 3.14
+lineTo -96.00 -35.00
+arc -88.00 -35.00 8.00 3.14 4.71
+lineTo 0.00 -43.00
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+stroke
+restore
+== at=1100
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 500.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #f4a340
+fill
+setTransform 1.00 0.00 0.00 1.00 600.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 400.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.00 0.00 0.00 1.00 1100.00 400.00
+beginPath
+arc 0.00 0.00 16.00 0.00 6.28
+fillStyle = #e86f5a
+fill
+setTransform 1.00 0.00 0.00 1.00 500.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+fillStyle = #5cc8b8
+fill
+setTransform 1.00 0.00 0.00 1.00 1000.00 750.00
+beginPath
+moveTo -48.00 -35.00
+arcTo 60.00 -35.00 60.00 35.00 12.00
+arcTo 60.00 35.00 -60.00 35.00 12.00
+arcTo -60.00 35.00 -60.00 -35.00 12.00
+arcTo -60.00 -35.00 60.00 -35.00 12.00
+closePath
+strokeStyle = #f4a340
+stroke
+restore

@@ -1,0 +1,549 @@
+# view 1600x1000 dpr 1
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 400 16px "Shantell Sans", "Comic Sans MS", "Chalkboard SE", cursive
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 400.00 350.00
+fillStyle = #f4a340
+beginPath
+moveTo 0.00 -60.95
+lineTo 11.81 -59.40
+lineTo 22.90 -55.28
+lineTo 33.02 -49.42
+lineTo 41.92 -41.92
+lineTo 49.03 -32.76
+lineTo 54.33 -22.50
+lineTo 57.76 -11.49
+lineTo 59.05 0.00
+lineTo 57.99 11.54
+lineTo 54.54 22.59
+lineTo 48.93 32.69
+lineTo 41.54 41.54
+lineTo 32.63 48.83
+lineTo 22.46 54.22
+lineTo 11.44 57.54
+lineTo 0.00 58.74
+lineTo -11.49 57.75
+lineTo -22.56 54.47
+lineTo -33.04 49.45
+lineTo -42.74 42.74
+lineTo -50.68 33.87
+lineTo -56.44 23.38
+lineTo -60.17 11.97
+lineTo -61.48 0.00
+lineTo -59.83 -11.90
+lineTo -55.52 -23.00
+lineTo -49.56 -33.12
+lineTo -41.99 -41.99
+lineTo -32.75 -49.01
+lineTo -22.47 -54.25
+lineTo -11.57 -58.16
+closePath
+fill
+strokeStyle = #ede9e1
+beginPath
+moveTo 0.00 -60.95
+lineTo 11.81 -59.40
+lineTo 22.90 -55.28
+lineTo 33.02 -49.42
+lineTo 41.92 -41.92
+lineTo 49.03 -32.76
+lineTo 54.33 -22.50
+lineTo 57.76 -11.49
+lineTo 59.05 0.00
+lineTo 57.99 11.54
+lineTo 54.54 22.59
+lineTo 48.93 32.69
+lineTo 41.54 41.54
+lineTo 32.63 48.83
+lineTo 22.46 54.22
+lineTo 11.44 57.54
+lineTo 0.00 58.74
+lineTo -11.49 57.75
+lineTo -22.56 54.47
+lineTo -33.04 49.45
+lineTo -42.74 42.74
+lineTo -50.68 33.87
+lineTo -56.44 23.38
+lineTo -60.17 11.97
+lineTo -61.48 0.00
+lineTo -59.83 -11.90
+lineTo -55.52 -23.00
+lineTo -49.56 -33.12
+lineTo -41.99 -41.99
+lineTo -32.75 -49.01
+lineTo -22.47 -54.25
+lineTo -11.57 -58.16
+closePath
+stroke
+beginPath
+moveTo 0.00 -60.93
+lineTo 11.86 -59.65
+lineTo 23.19 -55.99
+lineTo 33.60 -50.29
+lineTo 42.66 -42.66
+lineTo 49.92 -33.35
+lineTo 55.32 -22.92
+lineTo 59.07 -11.75
+lineTo 60.87 0.00
+lineTo 60.05 11.94
+lineTo 56.50 23.40
+lineTo 50.75 33.91
+lineTo 43.11 43.11
+lineTo 33.57 50.24
+lineTo 22.73 54.88
+lineTo 11.48 57.72
+lineTo 0.00 59.27
+lineTo -11.72 58.90
+lineTo -23.14 55.87
+lineTo -33.51 50.15
+lineTo -42.44 42.44
+lineTo -49.77 33.25
+lineTo -55.53 23.00
+lineTo -59.39 11.81
+lineTo -60.80 0.00
+lineTo -59.07 -11.75
+lineTo -54.66 -22.64
+lineTo -48.71 -32.55
+lineTo -41.56 -41.56
+lineTo -32.85 -49.17
+lineTo -22.70 -54.81
+lineTo -11.66 -58.59
+closePath
+globalAlpha = 0.60
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 800.00 350.00
+fillStyle = #5cc8b8
+beginPath
+moveTo 0.00 -49.69
+lineTo 11.88 -49.93
+lineTo 23.75 -50.36
+lineTo 35.63 -50.60
+lineTo 47.50 -50.54
+lineTo 59.38 -50.45
+lineTo 71.25 -50.39
+lineTo 83.30 -50.32
+lineTo 90.49 -41.73
+lineTo 90.56 -29.69
+lineTo 90.52 -17.81
+lineTo 90.44 -5.94
+lineTo 90.39 5.94
+lineTo 90.37 17.81
+lineTo 90.34 29.69
+lineTo 90.31 41.67
+lineTo 83.29 50.29
+lineTo 71.25 50.54
+lineTo 59.38 50.62
+lineTo 47.50 50.13
+lineTo 35.63 49.23
+lineTo 23.75 48.75
+lineTo 11.88 48.85
+lineTo 0.00 49.04
+lineTo -11.88 49.14
+lineTo -23.75 49.60
+lineTo -35.63 50.44
+lineTo -47.50 50.90
+lineTo -59.38 50.63
+lineTo -71.25 50.14
+lineTo -83.07 49.81
+lineTo -90.12 41.61
+lineTo -90.60 29.69
+lineTo -90.85 17.81
+lineTo -90.45 5.94
+lineTo -89.71 -5.94
+lineTo -89.31 -17.81
+lineTo -89.10 -29.69
+lineTo -88.77 -41.15
+lineTo -82.50 -48.54
+lineTo -71.25 -48.87
+lineTo -59.38 -49.57
+lineTo -47.50 -49.95
+lineTo -35.63 -50.29
+lineTo -23.75 -50.91
+lineTo -11.88 -51.25
+closePath
+fill
+beginPath
+moveTo 0.00 -49.69
+lineTo 11.88 -49.93
+lineTo 23.75 -50.36
+lineTo 35.63 -50.60
+lineTo 47.50 -50.54
+lineTo 59.38 -50.45
+lineTo 71.25 -50.39
+lineTo 83.30 -50.32
+lineTo 90.49 -41.73
+lineTo 90.56 -29.69
+lineTo 90.52 -17.81
+lineTo 90.44 -5.94
+lineTo 90.39 5.94
+lineTo 90.37 17.81
+lineTo 90.34 29.69
+lineTo 90.31 41.67
+lineTo 83.29 50.29
+lineTo 71.25 50.54
+lineTo 59.38 50.62
+lineTo 47.50 50.13
+lineTo 35.63 49.23
+lineTo 23.75 48.75
+lineTo 11.88 48.85
+lineTo 0.00 49.04
+lineTo -11.88 49.14
+lineTo -23.75 49.60
+lineTo -35.63 50.44
+lineTo -47.50 50.90
+lineTo -59.38 50.63
+lineTo -71.25 50.14
+lineTo -83.07 49.81
+lineTo -90.12 41.61
+lineTo -90.60 29.69
+lineTo -90.85 17.81
+lineTo -90.45 5.94
+lineTo -89.71 -5.94
+lineTo -89.31 -17.81
+lineTo -89.10 -29.69
+lineTo -88.77 -41.15
+lineTo -82.50 -48.54
+lineTo -71.25 -48.87
+lineTo -59.38 -49.57
+lineTo -47.50 -49.95
+lineTo -35.63 -50.29
+lineTo -23.75 -50.91
+lineTo -11.88 -51.25
+closePath
+stroke
+beginPath
+moveTo 0.00 -49.47
+lineTo 11.88 -49.77
+lineTo 23.75 -50.32
+lineTo 35.63 -50.62
+lineTo 47.50 -50.55
+lineTo 59.38 -50.42
+lineTo 71.25 -50.35
+lineTo 83.22 -50.14
+lineTo 90.05 -41.58
+lineTo 89.95 -29.69
+lineTo 89.98 -17.81
+lineTo 90.06 -5.94
+lineTo 90.10 5.94
+lineTo 90.43 17.81
+lineTo 91.05 29.69
+lineTo 91.31 42.01
+lineTo 83.63 51.05
+lineTo 71.26 50.98
+lineTo 59.38 50.84
+lineTo 47.50 50.43
+lineTo 35.63 49.66
+lineTo 23.75 49.25
+lineTo 11.88 49.76
+lineTo 0.00 50.69
+lineTo -11.88 51.20
+lineTo -23.75 50.76
+lineTo -35.63 49.94
+lineTo -47.50 49.50
+lineTo -59.38 49.54
+lineTo -71.25 49.60
+lineTo -82.98 49.59
+lineTo -89.38 41.35
+lineTo -88.79 29.69
+lineTo -88.49 17.81
+lineTo -88.97 5.94
+lineTo -89.86 -5.94
+lineTo -90.34 -17.81
+lineTo -89.95 -29.69
+lineTo -89.27 -41.31
+lineTo -82.65 -48.86
+lineTo -71.25 -48.95
+lineTo -59.38 -49.17
+lineTo -47.50 -49.29
+lineTo -35.63 -49.40
+lineTo -23.75 -49.60
+lineTo -11.88 -49.71
+closePath
+globalAlpha = 0.60
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 1200.00 350.00
+fillStyle = #ede9e1
+font = 400 28px "Shantell Sans", "Comic Sans MS", "Chalkboard SE", cursive
+fillText "Hello, style" 0.00 0.00
+setTransform 1.00 0.00 0.00 1.00 400.00 700.00
+beginPath
+moveTo 0.00 -9.02
+lineTo 8.12 -4.69
+lineTo 8.69 5.02
+lineTo 0.00 10.39
+lineTo -8.69 5.02
+lineTo -8.12 -4.69
+closePath
+fill
+setTransform 1.00 0.00 0.00 1.00 1200.00 700.00
+beginPath
+moveTo 0.00 -10.68
+lineTo 9.37 -5.41
+lineTo 9.61 5.55
+lineTo 0.00 11.24
+lineTo -9.61 5.55
+lineTo -9.37 -5.41
+closePath
+fill
+strokeStyle = #3a4366
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 396.00 700.32
+lineTo 408.06 700.44
+lineTo 420.12 700.67
+lineTo 432.18 700.80
+lineTo 444.24 700.80
+lineTo 456.30 700.80
+lineTo 468.36 700.80
+lineTo 480.42 700.64
+lineTo 492.48 700.35
+lineTo 504.54 700.19
+lineTo 516.60 700.09
+lineTo 528.66 699.88
+lineTo 540.72 699.77
+lineTo 552.78 699.64
+lineTo 564.84 699.39
+lineTo 576.90 699.26
+lineTo 588.96 699.50
+lineTo 601.01 699.96
+lineTo 613.07 700.20
+lineTo 625.13 700.42
+lineTo 637.19 700.82
+lineTo 649.25 701.04
+lineTo 661.31 700.75
+lineTo 673.37 700.20
+lineTo 685.43 699.90
+lineTo 697.49 700.30
+lineTo 709.55 701.04
+lineTo 721.61 701.43
+lineTo 733.67 701.47
+lineTo 745.73 701.54
+lineTo 757.79 701.58
+lineTo 769.85 701.37
+lineTo 781.91 701.00
+lineTo 793.97 700.80
+lineTo 806.03 700.59
+lineTo 818.09 700.20
+lineTo 830.15 700.00
+lineTo 842.21 700.14
+lineTo 854.27 700.40
+lineTo 866.33 700.55
+lineTo 878.39 700.54
+lineTo 890.45 700.54
+lineTo 902.51 700.54
+lineTo 914.57 700.78
+lineTo 926.63 701.24
+lineTo 938.69 701.48
+lineTo 950.75 700.87
+lineTo 962.81 699.75
+lineTo 974.87 699.14
+lineTo 986.93 699.65
+lineTo 998.99 700.58
+lineTo 1011.04 701.08
+lineTo 1023.10 700.65
+lineTo 1035.16 699.85
+lineTo 1047.22 699.42
+lineTo 1059.28 699.79
+lineTo 1071.34 700.48
+lineTo 1083.40 700.85
+lineTo 1095.46 700.53
+lineTo 1107.52 699.93
+lineTo 1119.58 699.61
+lineTo 1131.64 699.44
+lineTo 1143.70 699.14
+lineTo 1155.76 698.97
+lineTo 1167.82 699.52
+lineTo 1179.88 700.52
+lineTo 1191.94 701.07
+lineTo 1204.00 701.11
+stroke
+beginPath
+moveTo 396.00 699.18
+lineTo 408.06 699.46
+lineTo 420.12 699.98
+lineTo 432.18 700.26
+lineTo 444.24 700.25
+lineTo 456.30 700.22
+lineTo 468.36 700.21
+lineTo 480.42 700.55
+lineTo 492.48 701.18
+lineTo 504.54 701.53
+lineTo 516.60 701.08
+lineTo 528.66 700.26
+lineTo 540.72 699.82
+lineTo 552.78 699.89
+lineTo 564.84 700.03
+lineTo 576.90 700.10
+lineTo 588.96 699.95
+lineTo 601.01 699.67
+lineTo 613.07 699.52
+lineTo 625.13 699.54
+lineTo 637.19 699.57
+lineTo 649.25 699.58
+lineTo 661.31 700.07
+lineTo 673.37 700.96
+lineTo 685.43 701.45
+lineTo 697.49 700.78
+lineTo 709.55 699.54
+lineTo 721.61 698.88
+lineTo 733.67 698.92
+lineTo 745.73 698.99
+lineTo 757.79 699.03
+lineTo 769.85 699.40
+lineTo 781.91 700.08
+lineTo 793.97 700.44
+lineTo 806.03 700.19
+lineTo 818.09 699.72
+lineTo 830.15 699.47
+lineTo 842.21 699.85
+lineTo 854.27 700.57
+lineTo 866.33 700.95
+lineTo 878.39 700.36
+lineTo 890.45 699.25
+lineTo 902.51 698.66
+lineTo 914.57 698.62
+lineTo 926.63 698.55
+lineTo 938.69 698.51
+lineTo 950.75 698.60
+lineTo 962.81 698.77
+lineTo 974.87 698.86
+lineTo 986.93 699.52
+lineTo 998.99 700.74
+lineTo 1011.04 701.39
+lineTo 1023.10 700.80
+lineTo 1035.16 699.70
+lineTo 1047.22 699.11
+lineTo 1059.28 699.25
+lineTo 1071.34 699.51
+lineTo 1083.40 699.66
+lineTo 1095.46 699.48
+lineTo 1107.52 699.16
+lineTo 1119.58 698.98
+lineTo 1131.64 699.29
+lineTo 1143.70 699.86
+lineTo 1155.76 700.16
+lineTo 1167.82 700.01
+lineTo 1179.88 699.72
+lineTo 1191.94 699.56
+lineTo 1204.00 699.57
+globalAlpha = 0.60
+stroke
+globalAlpha = 1.00
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+lineJoin = round
+strokeStyle = #ede9e1
+beginPath
+moveTo -39.35 -37.43
+lineTo -26.67 -37.32
+lineTo -14.93 -36.39
+lineTo -3.20 -35.89
+lineTo 8.53 -35.72
+lineTo 20.27 -35.42
+lineTo 31.66 -35.31
+lineTo 37.24 -30.71
+lineTo 37.14 -19.41
+lineTo 37.50 -8.58
+lineTo 26.67 -8.21
+lineTo 14.93 -6.83
+lineTo 3.20 -6.09
+lineTo -8.53 -6.50
+lineTo -20.27 -7.26
+lineTo -32.00 -7.67
+lineTo -38.73 -12.89
+lineTo -39.40 -24.75
+closePath
+moveTo -39.35 6.73
+lineTo -26.67 6.84
+lineTo -14.93 7.77
+lineTo -3.20 8.27
+lineTo 8.53 8.44
+lineTo 20.27 8.74
+lineTo 31.66 8.85
+lineTo 37.24 13.45
+lineTo 37.14 24.75
+lineTo 37.50 35.58
+lineTo 26.67 35.95
+lineTo 14.93 37.33
+lineTo 3.20 38.07
+lineTo -8.53 37.66
+lineTo -20.27 36.90
+lineTo -32.00 36.49
+lineTo -38.73 31.27
+lineTo -39.40 19.41
+closePath
+moveTo -26.88 -23.42
+lineTo -21.12 -22.92
+lineTo -15.36 -21.99
+lineTo -9.60 -21.49
+moveTo -26.88 20.74
+lineTo -21.12 21.24
+lineTo -15.36 22.17
+lineTo -9.60 22.67
+stroke
+beginPath
+moveTo -39.32 -37.40
+lineTo -26.67 -37.62
+lineTo -14.93 -37.32
+lineTo -3.20 -37.16
+lineTo 8.53 -37.13
+lineTo 20.27 -37.09
+lineTo 32.16 -37.04
+lineTo 38.47 -31.17
+lineTo 37.54 -19.41
+lineTo 37.43 -8.65
+lineTo 26.67 -8.37
+lineTo 14.93 -7.13
+lineTo 3.20 -6.45
+lineTo -8.53 -6.88
+lineTo -20.27 -7.67
+lineTo -31.88 -8.07
+lineTo -38.43 -13.00
+lineTo -39.25 -24.75
+closePath
+moveTo -39.32 6.76
+lineTo -26.67 6.54
+lineTo -14.93 6.84
+lineTo -3.20 7.00
+lineTo 8.53 7.03
+lineTo 20.27 7.07
+lineTo 32.16 7.12
+lineTo 38.47 12.99
+lineTo 37.54 24.75
+lineTo 37.43 35.51
+lineTo 26.67 35.79
+lineTo 14.93 37.03
+lineTo 3.20 37.71
+lineTo -8.53 37.28
+lineTo -20.27 36.49
+lineTo -31.88 36.09
+lineTo -38.43 31.16
+lineTo -39.25 19.41
+closePath
+moveTo -26.88 -23.38
+lineTo -21.12 -23.22
+lineTo -15.36 -22.92
+lineTo -9.60 -22.76
+moveTo -26.88 20.78
+lineTo -21.12 20.94
+lineTo -15.36 21.24
+lineTo -9.60 21.40
+globalAlpha = 0.60
+stroke
+globalAlpha = 1.00
+restore

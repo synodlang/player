@@ -1,0 +1,4 @@
+{"format":"synod-scene/1","duration":1200,"canvas":{"w":1600,"h":1000},"theme":{"Paper":"#151A2E","Ink":"#EDE9E1","Line":"#3A4366","Quiet":"#8A90A8","Accent":"#F4A340","Good":"#5CC8B8","Warning":"#E8C35A","Critical":"#E86F5A"},"style":{"easing":"spring"},"shapes":[
+{"id":"sb0001c0c6e08","kind":"circle","props":{"r":24},"keys":[{"at":0,"x":200,"y":300,"opacity":1,"fill":"Accent","scale":1},{"at":1000,"x":1400,"scale":2,"rotation":90,"opacity":0.5}]},
+{"id":"sb0001c3bab63","kind":"rect","props":{"w":80,"h":50,"radius":12},"keys":[{"at":0,"x":200,"y":600,"opacity":0.2,"fill":"Good","rotation":0},{"at":1000,"x":1400,"y":700,"opacity":1,"fill":"Critical","rotation":180}]}
+],"markers":[],"trace":[]}

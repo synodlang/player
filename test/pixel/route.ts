@@ -23,6 +23,12 @@ export async function servePage(page: Page): Promise<void> {
         body: readFileSync(join(root, "dist", "synod-player.iife.js"), "utf8"),
       });
     }
+    if (path.startsWith("/fonts/") && /^\/fonts\/[A-Za-z0-9-]+\.woff2$/.test(path)) {
+      return route.fulfill({
+        contentType: "font/woff2",
+        body: readFileSync(join(root, "fonts", path.slice("/fonts/".length))),
+      });
+    }
     return route.fulfill({ status: 404, body: "not found" });
   });
   await page.goto(`${ORIGIN}/page.html`);

@@ -22,6 +22,10 @@ export class RecordingContext implements Ctx2D {
   #textBaseline: CanvasTextBaseline = "alphabetic";
   #shadowBlur = 0;
   #shadowColor = "rgba(0, 0, 0, 0)";
+  #shadowOffsetY = 0;
+  #lineJoin: CanvasLineJoin = "miter";
+  #letterSpacing = "0px";
+  #gradients = 0;
 
   get fillStyle(): string | CanvasGradient | CanvasPattern {
     return this.#fillStyle;
@@ -92,6 +96,49 @@ export class RecordingContext implements Ctx2D {
   set shadowColor(v: string) {
     this.#shadowColor = v;
     this.lines.push(`shadowColor = ${v}`);
+  }
+
+  get shadowOffsetY(): number {
+    return this.#shadowOffsetY;
+  }
+  set shadowOffsetY(v: number) {
+    this.#shadowOffsetY = v;
+    this.lines.push(`shadowOffsetY = ${num(v)}`);
+  }
+  get lineJoin(): CanvasLineJoin {
+    return this.#lineJoin;
+  }
+  set lineJoin(v: CanvasLineJoin) {
+    this.#lineJoin = v;
+    this.lines.push(`lineJoin = ${v}`);
+  }
+  get letterSpacing(): string {
+    return this.#letterSpacing;
+  }
+  set letterSpacing(v: string) {
+    this.#letterSpacing = v;
+    this.lines.push(`letterSpacing = ${v}`);
+  }
+
+  setLineDash(segments: number[]): void {
+    this.#op("setLineDash", ...segments);
+  }
+  createRadialGradient(
+    x0: number,
+    y0: number,
+    r0: number,
+    x1: number,
+    y1: number,
+    r1: number,
+  ): { addColorStop(offset: number, color: string): void } {
+    const id = ++this.#gradients;
+    this.#op("createRadialGradient", x0, y0, r0, x1, y1, r1);
+    return {
+      addColorStop: (offset: number, color: string) => {
+        this.lines.push(`addColorStop ${num(offset)} ${color}`);
+      },
+      toString: () => `gradient#${id}`,
+    } as { addColorStop(offset: number, color: string): void };
   }
 
   #op(name: string, ...args: number[]): void {

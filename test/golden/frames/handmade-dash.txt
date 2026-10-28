@@ -1,0 +1,295 @@
+# view 1600x1000 dpr 1
+== at=0
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 400.00 300.00
+setLineDash 10.00 6.00
+strokeStyle = #f4a340
+beginPath
+moveTo 0.00 -60.00
+lineTo 98.00 -60.00
+arc 98.00 -48.00 12.00 -1.57 0.00
+lineTo 110.00 48.00
+arc 98.00 48.00 12.00 0.00 1.57
+lineTo -98.00 60.00
+arc -98.00 48.00 12.00 1.57 3.14
+lineTo -110.00 -48.00
+arc -98.00 -48.00 12.00 3.14 4.71
+lineTo 0.00 -60.00
+closePath
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 300.00
+setLineDash 4.00 8.00
+fillStyle = #ede9e1
+beginPath
+arc 0.00 0.00 70.00 0.00 6.28
+fill
+strokeStyle = #5cc8b8
+beginPath
+arc 0.00 0.00 70.00 -1.57 4.71
+stroke
+setTransform 1.00 0.00 0.00 1.00 1100.00 300.00
+setLineDash
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1500.00 300.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+strokeStyle = #8a90a8
+setLineDash 14.00 8.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 1100.00 300.00
+lineTo 1500.00 300.00
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+setLineDash 5.00 5.00
+lineJoin = round
+strokeStyle = #ede9e1
+beginPath
+moveTo 0.00 35.84
+lineTo -9.33 35.84
+lineTo -18.68 35.84
+lineTo -28.01 35.84
+lineTo -37.15 34.33
+lineTo -44.71 29.00
+lineTo -49.15 20.89
+lineTo -49.57 11.64
+lineTo -45.88 3.16
+lineTo -38.82 -2.83
+lineTo -32.87 -5.44
+lineTo -32.36 -17.40
+lineTo -28.54 -25.86
+lineTo -22.18 -32.64
+lineTo -13.96 -36.98
+lineTo -4.79 -38.39
+lineTo 4.36 -36.75
+lineTo 12.48 -32.22
+lineTo 18.68 -25.29
+lineTo 23.85 -12.39
+lineTo 28.10 -12.79
+lineTo 37.18 -10.96
+lineTo 44.81 -5.68
+lineTo 49.74 2.18
+lineTo 51.17 11.33
+lineTo 48.87 20.31
+lineTo 43.23 27.66
+lineTo 35.14 32.19
+lineTo 28.16 35.60
+lineTo 18.68 35.84
+lineTo 9.33 35.84
+lineTo 0.00 35.84
+stroke
+setLineDash
+restore
+== at=500
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 400.00 300.00
+setLineDash 10.00 6.00
+strokeStyle = #f4a340
+beginPath
+moveTo 0.00 -60.00
+lineTo 98.00 -60.00
+arc 98.00 -48.00 12.00 -1.57 0.00
+lineTo 110.00 48.00
+arc 98.00 48.00 12.00 0.00 1.57
+lineTo -98.00 60.00
+arc -98.00 48.00 12.00 1.57 3.14
+lineTo -110.00 -48.00
+arc -98.00 -48.00 12.00 3.14 4.71
+lineTo 0.00 -60.00
+closePath
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 300.00
+setLineDash 4.00 8.00
+fillStyle = #ede9e1
+beginPath
+arc 0.00 0.00 70.00 0.00 6.28
+fill
+strokeStyle = #5cc8b8
+beginPath
+arc 0.00 0.00 70.00 -1.57 4.71
+stroke
+setTransform 1.00 0.00 0.00 1.00 1100.00 300.00
+setLineDash
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1500.00 300.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+strokeStyle = #8a90a8
+setLineDash 14.00 8.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 1100.00 300.00
+lineTo 1500.00 300.00
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+setLineDash 5.00 5.00
+lineJoin = round
+strokeStyle = #ede9e1
+beginPath
+moveTo 0.00 35.84
+lineTo -9.33 35.84
+lineTo -18.68 35.84
+lineTo -28.01 35.84
+lineTo -37.15 34.33
+lineTo -44.71 29.00
+lineTo -49.15 20.89
+lineTo -49.57 11.64
+lineTo -45.88 3.16
+lineTo -38.82 -2.83
+lineTo -32.87 -5.44
+lineTo -32.36 -17.40
+lineTo -28.54 -25.86
+lineTo -22.18 -32.64
+lineTo -13.96 -36.98
+lineTo -4.79 -38.39
+lineTo 4.36 -36.75
+lineTo 12.48 -32.22
+lineTo 18.68 -25.29
+lineTo 23.85 -12.39
+lineTo 28.10 -12.79
+lineTo 37.18 -10.96
+lineTo 44.81 -5.68
+lineTo 49.74 2.18
+lineTo 51.17 11.33
+lineTo 48.87 20.31
+lineTo 43.23 27.66
+lineTo 35.14 32.19
+lineTo 28.16 35.60
+lineTo 18.68 35.84
+lineTo 9.33 35.84
+lineTo 0.00 35.84
+stroke
+setLineDash
+restore
+== at=1000
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+rect 0.00 0.00 1600.00 1000.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.00 0.00 0.00 1.00 400.00 300.00
+setLineDash 10.00 6.00
+strokeStyle = #f4a340
+beginPath
+moveTo 0.00 -60.00
+lineTo 98.00 -60.00
+arc 98.00 -48.00 12.00 -1.57 0.00
+lineTo 110.00 48.00
+arc 98.00 48.00 12.00 0.00 1.57
+lineTo -98.00 60.00
+arc -98.00 48.00 12.00 1.57 3.14
+lineTo -110.00 -48.00
+arc -98.00 -48.00 12.00 3.14 4.71
+lineTo 0.00 -60.00
+closePath
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 300.00
+setLineDash
+beginPath
+arc 0.00 0.00 70.00 0.00 6.28
+fillStyle = #ede9e1
+fill
+strokeStyle = #5cc8b8
+stroke
+setTransform 1.00 0.00 0.00 1.00 1100.00 300.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+setTransform 1.00 0.00 0.00 1.00 1500.00 300.00
+beginPath
+arc 0.00 0.00 10.00 0.00 6.28
+fill
+strokeStyle = #8a90a8
+setLineDash 14.00 8.00
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+beginPath
+moveTo 1100.00 300.00
+lineTo 1500.00 300.00
+stroke
+setTransform 1.00 0.00 0.00 1.00 800.00 700.00
+setLineDash 5.00 5.00
+lineJoin = round
+strokeStyle = #ede9e1
+beginPath
+moveTo 0.00 35.84
+lineTo -9.33 35.84
+lineTo -18.68 35.84
+lineTo -28.01 35.84
+lineTo -37.15 34.33
+lineTo -44.71 29.00
+lineTo -49.15 20.89
+lineTo -49.57 11.64
+lineTo -45.88 3.16
+lineTo -38.82 -2.83
+lineTo -32.87 -5.44
+lineTo -32.36 -17.40
+lineTo -28.54 -25.86
+lineTo -22.18 -32.64
+lineTo -13.96 -36.98
+lineTo -4.79 -38.39
+lineTo 4.36 -36.75
+lineTo 12.48 -32.22
+lineTo 18.68 -25.29
+lineTo 23.85 -12.39
+lineTo 28.10 -12.79
+lineTo 37.18 -10.96
+lineTo 44.81 -5.68
+lineTo 49.74 2.18
+lineTo 51.17 11.33
+lineTo 48.87 20.31
+lineTo 43.23 27.66
+lineTo 35.14 32.19
+lineTo 28.16 35.60
+lineTo 18.68 35.84
+lineTo 9.33 35.84
+lineTo 0.00 35.84
+stroke
+setLineDash
+restore

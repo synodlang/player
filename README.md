@@ -5,7 +5,7 @@ The Synod player: a TypeScript canvas library that plays `scene.json` and draws 
 [![ci](https://github.com/synodlang/player/actions/workflows/ci.yml/badge.svg)](https://github.com/synodlang/player/actions/workflows/ci.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
-**Status: v0.2.0, implements Synod 0.2.** The player is milestone M7 in the [roadmap](https://github.com/synodlang/dsl/blob/main/implementation/10-roadmap.md). It reads `scene.json` from the scene builder (M5) and draws it on a canvas, in a browser, in a `WKWebView` or offscreen. It is a TypeScript library with no runtime dependencies, released as GitHub release assets (npm later). Numbers for Safari on Apple silicon at 120 Hz are still to be measured by hand.
+**Status: implements Synod 0.3 (unreleased; v0.2.1 implements 0.2).** The player is milestone M7 in the [roadmap](https://github.com/synodlang/dsl/blob/main/implementation/10-roadmap.md). It reads `scene.json` from the scene builder (M5) and draws it on a canvas, in a browser, in a `WKWebView` or offscreen. It is a TypeScript library with no runtime dependencies, released as GitHub release assets (npm later). Numbers for Safari on Apple silicon at 120 Hz are still to be measured by hand.
 
 ## Where it fits
 
@@ -36,9 +36,10 @@ See [00-architecture.md](https://github.com/synodlang/dsl/blob/main/implementati
 The player reads `synod-scene/1` files. The format is defined in [04-formats.md](https://github.com/synodlang/dsl/blob/main/implementation/04-formats.md) and versioned in `dsl`. In short:
 
 - The file has `duration` (milliseconds of presentation time), a `canvas` size, a `theme` of named colors, a list of `shapes`, a list of `markers` and a `trace` map.
-- A shape has an `id`, a `kind` (`circle`, `rect`, `label`, `line` or `group`) and `props`. A `line` points at two shape ids with `from` and `to`.
+- A shape has an `id`, a `kind` (`circle`, `rect`, `label`, `line`, `group` and, since 0.3, `icon` and `counter`) and `props`. A `line` points at two shape ids with `from` and `to`.
 - A shape has `keys`: keyframes with an `at` time. Each keyframe sets only the properties that change.
 - Colors are theme names such as `Accent` or `Critical`. They are never raw hex values.
+- Since 0.3 a `style` object (fonts, type sizes, stroke, glow, shadow, vignette, sketch, drift, easing) and a `camera` list may follow `theme`, and keys may carry `curve`, `trail`, `dash`, `draw`, `halo`, `icon`, `count`, `role` and `face`. A 0.2 scene has none of them and draws as before, in Inter instead of the system font.
 - `trace` maps each trace `seq` to its slot in presentation time, so the player can show simulated time and jump to a fact.
 - Readers reject unknown major versions and ignore keys they do not know. Within a major version, keys are only added.
 
@@ -51,7 +52,8 @@ Download the release assets from the [releases page](https://github.com/synodlan
 | `synod-player-<tag>.js` | ES module (`import { createPlayer } from "./synod-player-v0.2.0.js"`) |
 | `synod-player-<tag>.iife.js` | Classic script that defines `window.SynodPlayer` |
 | `synod-player-<tag>.d.ts` | TypeScript declarations for the module |
-| `SHA256SUMS` | Checksums of the three files above |
+| `synod-player-fonts-<tag>.tar.gz` | The four fonts (variable woff2) with their OFL texts; unpacked, its `fonts/` folder is what `fontBase` points at |
+| `SHA256SUMS` | Checksums of the files above |
 
 ```html
 <canvas id="stage" style="width: 100%; height: 100%"></canvas>
@@ -67,13 +69,13 @@ Download the release assets from the [releases page](https://github.com/synodlan
 
 - `loadScene(input)` parses and checks a `scene.json` (text or object) and returns `{ scene, warnings }`. It throws a `SceneError` with a `code` (`bad-json`, `unsupported-format`, `bad-scene`). Unknown fields are ignored, as the format requires.
 - `compileScene(scene)` and `renderToContext(ctx, compiled, at, { width, height, pixelRatio })` draw one frame into any 2D context, such as an `OffscreenCanvas` for video export. They allocate nothing per frame.
-- `createPlayer(canvas, scene, options)` returns a player. Options: `autoplay`, `loop`, `rate`, `stopAtPause` (Predict mode), `autoResize`, `pixelRatio`, `fonts`, `timeEventHz`.
-- A player has `duration`, `time`, `playing`, `rate`, `markers`, `trace` and `warnings`, and the methods `play`, `pause`, `toggle`, `seek`, `setRate` (0.25 to 4), `setLoop`, `setStopAtPause`, `nextFact`, `prevFact`, `factAt`, `timeOfSeq`, `setScene`, `resize`, `renderFrame(at)`, `on(event, callback)` and `destroy`.
-- `player.hitTest(x, y)` takes CSS pixels of the canvas and returns `{ id, kind, node, msg }` for the topmost drawn circle or rect that has a `node` or `msg`, or `null`. `player.nodeBounds()` returns `{ node, x, y, w, h }` per node. Both answer for the frame last drawn and follow the hit-testing rules of the formats guide (4 px slop, labels and lines never hit). The same rules are exported as `hitTestScene(compiled, at, view, x, y)` and `nodeBoundsScene(compiled, at, view)`. Scenes without `node` or `msg` (older compilers) never hit.
+- `createPlayer(canvas, scene, options)` returns a player. Options: `autoplay`, `loop`, `rate`, `stopAtPause` (Predict mode), `autoResize`, `pixelRatio`, `fonts` (override the CSS family list of face `sans` or `mono`), `fontBase` (URL of the unpacked fonts folder; the player registers the families the scene uses with `FontFace`) and `timeEventHz`.
+- A player has `duration`, `time`, `playing`, `rate`, `markers`, `trace` and `warnings`, and the methods `play`, `pause`, `toggle`, `seek`, `setRate` (0.25 to 4), `setLoop`, `setStopAtPause`, `nextFact`, `prevFact`, `factAt`, `timeOfSeq`, `setScene`, `resize`, `renderFrame(at)`, `fontsReady()`, `on(event, callback)` and `destroy`. `fontsReady()` resolves when the font families the scene uses are loaded (or failed to load); an export draws its first frame after it.
+- `player.hitTest(x, y)` takes CSS pixels of the canvas and returns `{ id, kind, node, msg }` for the topmost drawn circle, rect, icon or counter that has a `node` or `msg`, or `null`. `player.nodeBounds()` returns `{ node, x, y, w, h }` per node. Both answer for the frame last drawn and follow the hit-testing rules of the formats guide (4 px slop through letterbox, camera and drift; labels and lines never hit). The same rules are exported as `hitTestScene(compiled, at, view, x, y)` and `nodeBoundsScene(compiled, at, view)`. Scenes without `node` or `msg` (older compilers) never hit.
 - Events: `time`, `marker` (fired when playback crosses a marker, never on seek; a pause marker carries `choices` when the question has them), `fact`, `play`, `pause` (with a reason of `user`, `marker` or `end`) and `scene`.
 - `attachWebKitBridge(player)` posts these events to `window.webkit.messageHandlers.synodPlayer`. In the IIFE build, `SynodPlayer.mount("#stage", options)` creates a player and attaches the bridge; Swift then calls `player.setScene(jsonString)`.
 
-The player bundles no fonts. Labels use the system sans font at 16 px, weight 500.
+The player bundles no fonts in its scripts. Text uses the family, size and weight of the scene's `style` (default Inter at 16 px, weight 500); the closed font set (Inter, JetBrains Mono, Source Serif 4, Shantell Sans, all SIL OFL 1.1) is the fonts asset, described in [fonts/README.md](fonts/README.md).
 
 ## Build, test and demo
 
@@ -95,9 +97,9 @@ A release is made by pushing a tag `vX.Y.Z` that equals the version in `package.
 
 ## Rendering rules
 
-- **Interpolation.** Between two keyframes the player uses the smootherstep curve for every property.
+- **Interpolation.** Between two keyframes the player uses the smootherstep curve for every number; `x`, `y`, `scale`, `rotation` and the camera use the back-out spring curve when `style.easing` is `spring`.
 - **Color.** Colors interpolate in OKLab, not in RGB.
-- **Style.** Shapes have rounded corners and no soft shadows. The ground is a dark, 3Blue1Brown-style background taken from the theme.
+- **Style.** Outline width, glow, drop shadow, vignette, hand-drawn sketch wobble and idle camera drift come from the scene's `style`; the ground is the theme's `Paper`. Effects (`indicate`, `flash`, `circumscribe`, `ripple`, `sweep`, `glow`), curves, trails, dashes, draw-on, halo, icon morphs and rolling counters follow the reader rules of the formats guide.
 - **Markers.** A `pause` marker comes from `lesson.Ask` and stops playback so the viewer can predict. A `caption` marker comes from `lesson.Note`. A `broken` marker shows an invariant that failed, at the moment it broke.
 - **Determinism.** The same scene always draws the same frames.
 

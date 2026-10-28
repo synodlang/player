@@ -1,0 +1,6 @@
+{"format":"synod-scene/1","duration":2000,"canvas":{"w":1600,"h":1000},"theme":{"Paper":"#151A2E","Ink":"#EDE9E1","Line":"#3A4366","Quiet":"#8A90A8","Accent":"#F4A340","Good":"#5CC8B8","Warning":"#E8C35A","Critical":"#E86F5A"},"shapes":[
+{"id":"sb00003525066","kind":"icon","props":{"size":128},"keys":[{"at":0,"x":400,"y":500,"opacity":1,"icon":"server","stroke":"Ink"},{"at":1000,"icon":"database"},{"at":1800,"icon":"crown"}]},
+{"id":"sb00003818dc1","kind":"icon","props":{"size":128},"keys":[{"at":0,"x":800,"y":500,"opacity":1,"icon":"bolt","stroke":"Accent"}]},
+{"id":"sb00003b0cb1c","kind":"icon","props":{"size":128},"keys":[{"at":0,"x":1200,"y":500,"opacity":1,"icon":"no-such-icon","stroke":"Ink"}]},
+{"id":"sb00003e00877","kind":"icon","props":{"size":48},"keys":[{"at":0,"x":1500,"y":500,"opacity":1,"icon":"check","stroke":"Good"},{"at":600,"icon":"cross"}]}
+],"markers":[],"trace":[]}

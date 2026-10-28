@@ -1,0 +1,6 @@
+{"format":"synod-scene/1","duration":1600,"canvas":{"w":1600,"h":1000},"theme":{"Paper":"#151A2E","Ink":"#EDE9E1","Line":"#3A4366","Quiet":"#8A90A8","Accent":"#F4A340","Good":"#5CC8B8","Warning":"#E8C35A","Critical":"#E86F5A"},"shapes":[
+{"id":"sb0000559f34f","kind":"circle","props":{"r":24},"keys":[{"at":0,"x":200,"y":300,"opacity":1,"fill":"Accent","trail":600},{"at":1500,"x":1400,"y":300}]},
+{"id":"sb00005e7ab60","kind":"group","props":{"items":["sb000058930aa","sb00005b86e05"]},"keys":[{"at":0,"x":200,"y":700,"opacity":1,"trail":400},{"at":1500,"x":1400,"y":650}]},
+{"id":"sb000058930aa","kind":"circle","props":{"r":16},"keys":[{"at":0,"x":0,"y":0,"opacity":1,"fill":"Good"}]},
+{"id":"sb00005b86e05","kind":"label","props":{},"keys":[{"at":0,"x":0,"y":30,"opacity":1,"text":"m","fill":"Ink"}]}
+],"markers":[],"trace":[]}
