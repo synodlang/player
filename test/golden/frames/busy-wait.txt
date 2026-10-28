@@ -13,7 +13,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 restore
@@ -31,7 +31,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 restore
@@ -49,7 +49,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -85,7 +85,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -121,7 +121,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -174,7 +174,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -227,7 +227,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -280,7 +280,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -333,7 +333,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -394,7 +394,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -455,7 +455,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -524,7 +524,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -593,7 +593,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -670,7 +670,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -747,7 +747,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -824,7 +824,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -901,7 +901,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -978,7 +978,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1057,7 +1057,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1136,7 +1136,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1215,7 +1215,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1294,7 +1294,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1374,7 +1374,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1445,7 +1445,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1516,7 +1516,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1587,7 +1587,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1648,7 +1648,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1709,7 +1709,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1771,7 +1771,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1833,7 +1833,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1886,7 +1886,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1939,7 +1939,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00
@@ -1992,7 +1992,7 @@ rect 0.00 0.00 1600.00 1000.00
 clip
 lineWidth = 2.00
 lineCap = round
-font = 500 16px -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
 setTransform 1.00 0.00 0.00 1.00 800.00 200.00

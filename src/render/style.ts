@@ -1,7 +1,7 @@
 // Fixed drawing constants of Synod 0.2 (see the rendering rules in 04-formats).
 
 export const DEFAULT_SANS =
-  '-apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
+  '"Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
 export const DEFAULT_MONO = '"JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace';
 
 /** Every label is weight 500, 16 px, in the sans stack. */

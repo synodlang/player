@@ -73,9 +73,9 @@ test("frame: clears with Paper, sets the fit transform, clips to the canvas", ()
   assert.equal(lines[lines.length - 1], "restore");
 });
 
-test("labels use 500 16px and the sans stack, centred", () => {
+test("labels use 500 16px and the Inter stack, centred", () => {
   const lines = draw("handmade", "stroke-only-rect", 0);
-  assert.ok(lines.some((l) => l.startsWith("font = 500 16px -apple-system, system-ui")));
+  assert.ok(lines.some((l) => l.startsWith('font = 500 16px "Inter", system-ui')));
   assert.ok(lines.includes("textAlign = center"));
   assert.ok(lines.includes("textBaseline = middle"));
   assert.ok(lines.includes('fillText "stroke ignored" 0.00 0.00'));
