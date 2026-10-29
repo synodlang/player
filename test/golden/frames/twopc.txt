@@ -34,7 +34,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 987.00 406.49
+setTransform 1.54 0.00 0.00 1.54 563.13 378.63
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -44,15 +44,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 987.00 406.49
+setTransform 1.54 0.00 0.00 1.54 563.13 378.63
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 987.00 475.72
+setTransform 1.54 0.00 0.00 1.54 563.13 447.86
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 987.00 515.72
+setTransform 1.54 0.00 0.00 1.54 563.13 487.86
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 789.03 593.08
+setTransform 1.54 0.00 0.00 1.54 1287.09 380.09
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -61,15 +61,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 789.03 593.08
+setTransform 1.54 0.00 0.00 1.54 1287.09 380.09
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 789.03 662.32
+setTransform 1.54 0.00 0.00 1.54 1287.09 449.32
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 789.03 702.32
+setTransform 1.54 0.00 0.00 1.54 1287.09 489.32
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 441.94 642.53
+setTransform 1.54 0.00 0.00 1.54 815.92 646.14
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -78,15 +78,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 441.94 642.53
+setTransform 1.54 0.00 0.00 1.54 815.92 646.14
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 441.94 711.76
+setTransform 1.54 0.00 0.00 1.54 815.92 715.37
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 441.94 751.76
+setTransform 1.54 0.00 0.00 1.54 815.92 755.37
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -95,13 +95,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
 restore
 == at=561.778
@@ -121,7 +121,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -131,15 +131,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -148,15 +148,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -165,15 +165,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -182,13 +182,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
 restore
 == at=632
@@ -208,7 +208,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -218,15 +218,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -235,15 +235,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -252,15 +252,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -269,13 +269,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
 restore
 == at=842.667
@@ -295,7 +295,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -305,15 +305,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -322,15 +322,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -339,15 +339,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -356,41 +356,41 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.43
+setTransform 1.54 0.00 0.00 1.54 533.91 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.92
-setTransform 1.54 0.00 0.00 1.54 1126.35 411.04
+setTransform 1.54 0.00 0.00 1.54 533.91 264.29
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 985.30 407.34
+setTransform 1.54 0.00 0.00 1.54 532.89 365.12
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.54
-setTransform 1.54 0.00 0.00 1.54 985.30 371.96
+setTransform 1.54 0.00 0.00 1.54 532.89 329.73
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 996.57 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 404.58
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.13
-setTransform 1.54 0.00 0.00 1.54 996.57 301.43
+setTransform 1.54 0.00 0.00 1.54 386.62 369.19
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 restore
@@ -411,7 +411,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -421,15 +421,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -438,15 +438,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -455,15 +455,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -472,41 +472,41 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 560.43
+setTransform 1.54 0.00 0.00 1.54 946.22 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.36
-setTransform 1.54 0.00 0.00 1.54 1126.35 525.05
+setTransform 1.54 0.00 0.00 1.54 946.22 264.29
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 611.74 594.14
+setTransform 1.54 0.00 0.00 1.54 1071.37 606.02
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.54
-setTransform 1.54 0.00 0.00 1.54 611.74 558.75
+setTransform 1.54 0.00 0.00 1.54 1071.37 570.64
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 789.64 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 509.89
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.72
-setTransform 1.54 0.00 0.00 1.54 789.64 301.43
+setTransform 1.54 0.00 0.00 1.54 386.62 474.50
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 restore
@@ -527,7 +527,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -537,15 +537,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -554,15 +554,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -571,15 +571,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -588,41 +588,41 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 596.70
+setTransform 1.54 0.00 0.00 1.54 1077.41 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.86
-setTransform 1.54 0.00 0.00 1.54 602.88 598.57
+setTransform 1.54 0.00 0.00 1.54 1084.15 611.74
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 646.11 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 582.94
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.03
-setTransform 1.54 0.00 0.00 1.54 646.11 301.43
+setTransform 1.54 0.00 0.00 1.54 386.62 547.55
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 585.26 607.38
+setTransform 1.54 0.00 0.00 1.54 1101.42 619.47
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.06
-setTransform 1.54 0.00 0.00 1.54 585.26 571.99
+setTransform 1.54 0.00 0.00 1.54 1101.42 584.08
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -643,7 +643,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -653,15 +653,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -670,15 +670,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -687,15 +687,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -704,44 +704,44 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
 globalAlpha = 0.89
-setTransform 1.54 0.00 0.00 1.54 1126.35 598.57
+setTransform 1.54 0.00 0.00 1.54 1084.15 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.11
-setTransform 1.54 0.00 0.00 1.54 602.88 598.57
+setTransform 1.54 0.00 0.00 1.54 1084.15 611.74
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 602.94 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 604.91
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 729.64 535.18
+setTransform 1.54 0.00 0.00 1.54 898.77 528.80
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 729.64 499.80
+setTransform 1.54 0.00 0.00 1.54 898.77 493.42
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 598.56
+setTransform 1.54 0.00 0.00 1.54 1102.60 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.02
-setTransform 1.54 0.00 0.00 1.54 1126.35 563.18
+setTransform 1.54 0.00 0.00 1.54 1102.60 264.29
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -762,7 +762,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -772,15 +772,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -789,15 +789,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -806,15 +806,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -823,47 +823,47 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
 globalAlpha = 0.01
-setTransform 1.54 0.00 0.00 1.54 602.88 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 604.94
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.97
-setTransform 1.54 0.00 0.00 1.54 1015.58 392.20
+setTransform 1.54 0.00 0.00 1.54 497.38 349.23
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.04
-setTransform 1.54 0.00 0.00 1.54 1015.58 356.82
+setTransform 1.54 0.00 0.00 1.54 497.38 313.85
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 579.70
+setTransform 1.54 0.00 0.00 1.54 1029.94 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.81
-setTransform 1.54 0.00 0.00 1.54 1126.35 544.32
+setTransform 1.54 0.00 0.00 1.54 1029.94 264.29
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 810.77 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 499.60
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 810.77 301.43
+setTransform 1.54 0.00 0.00 1.54 386.62 464.22
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -884,7 +884,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -894,15 +894,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -911,15 +911,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -928,15 +928,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -945,32 +945,32 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
 globalAlpha = 0.03
-setTransform 1.54 0.00 0.00 1.54 1015.58 392.20
+setTransform 1.54 0.00 0.00 1.54 497.38 349.23
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 544.36
+setTransform 1.54 0.00 0.00 1.54 893.83 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1015.58 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 404.29
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.14
-setTransform 1.54 0.00 0.00 1.54 1015.58 301.43
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -991,7 +991,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1001,15 +1001,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ece8e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1018,15 +1018,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1035,15 +1035,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1052,26 +1052,26 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 535.17
+setTransform 1.54 0.00 0.00 1.54 858.44 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.89
-setTransform 1.54 0.00 0.00 1.54 1015.58 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 404.29
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.00
-setTransform 1.54 0.00 0.00 1.54 1015.58 301.43
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -1092,7 +1092,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1102,15 +1102,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ebe7e0
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1119,15 +1119,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1136,15 +1136,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1153,21 +1153,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 534.09
+setTransform 1.54 0.00 0.00 1.54 854.27 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.85
-setTransform 1.54 0.00 0.00 1.54 1015.58 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 404.29
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
@@ -1189,7 +1189,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1199,15 +1199,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #8a90a8
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1216,15 +1216,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1233,15 +1233,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1250,16 +1250,16 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 520.00
+setTransform 1.54 0.00 0.00 1.54 800.00 299.68
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
@@ -1282,7 +1282,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1292,15 +1292,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #8a90a8
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "State waiting" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
-fillText "Participants {n2, n3, n4}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
+fillText "Participants {n2, n3, n…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1309,15 +1309,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1326,15 +1326,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1343,12 +1343,12 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Participants {}" 0.00 0.00
 restore

@@ -22,6 +22,7 @@ Implements Synod 0.3 (themes, richer drawing).
 
 ### Changed
 
+- The vendored scenes follow the compiler's wider ring (layout centre (520, 315)) and 24-character state rows; the builder scene `state-rows-long` is new, and the goldens and the WebKit snapshots of the scenes that changed are regenerated.
 - The default sans is Inter (was the system font). Every display-list golden differs only in its `font = ...` line; the WebKit pixel snapshots are regenerated.
 - A counter column rolls only while the column below is on its last digit (an odometer), so a whole number is drawn crisp.
 - The bundle budget is 96 KB minified and 32 KB gzip (was 48 KB and 16 KB): the icon set and the new drawing code.

@@ -17,7 +17,7 @@ font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetic
 textAlign = center
 textBaseline = middle
 restore
-== at=1763.333
+== at=1673.333
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -34,7 +34,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -44,18 +44,18 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
 fillText "Table {\"k1\": \"1\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 0" 0.00 0.00
 restore
-== at=3526.667
+== at=3346.667
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -72,7 +72,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -82,18 +82,18 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k2\": \"2\", \"k3\": \"3\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k2\":…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 0" 0.00 0.00
 restore
-== at=3967.5
+== at=3765
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -110,7 +110,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -120,18 +120,18 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k2\": \"2\", \"k3\": \"3\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
-fillText "Lsn 4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+fillText "Table {\"k1\": \"1\", \"k2\":…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
+fillText "Lsn 3" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 0" 0.00 0.00
 restore
-== at=5290
+== at=5020
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -148,7 +148,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -158,18 +158,18 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k2\":…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 5" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 0" 0.00 0.00
 restore
-== at=7053.333
+== at=6693.333
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -186,7 +186,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -196,18 +196,18 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k2\":…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 6" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
 restore
-== at=7935
+== at=7530
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -224,7 +224,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -234,18 +234,18 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\", \"k7\": \"7\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k2\":…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 7" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
 restore
-== at=8816.667
+== at=8366.667
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -262,7 +262,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -272,18 +272,18 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\", \"k7\": \"7\", \"k8\": \"8\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k2\":…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 8" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
 restore
-== at=10580
+== at=10040
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -300,7 +300,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -310,15 +310,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k10\": \"10\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\", \"k7\": \"7\", \"k8\": \"8\", \"k9\": \"9\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
-fillText "Lsn 10" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+fillText "Table {\"k1\": \"1\", \"k2\":…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
+fillText "Lsn 9" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
 restore
 == at=10740
@@ -338,7 +338,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -348,18 +348,18 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ece8e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k10\": \"10\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\", \"k7\": \"7\", \"k8\": \"8\", \"k9\": \"9\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k10\"…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 10" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
 restore
-== at=11902.5
+== at=11295
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -376,7 +376,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -386,15 +386,53 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #8a90a8
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k10\": \"10\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\", \"k7\": \"7\", \"k8\": \"8\", \"k9\": \"9\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k10\"…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 10" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
+fillText "Flushed 6" 0.00 0.00
+restore
+== at=11713.333
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #8a90a8
+fill
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
+fillStyle = #ede9e1
+fillText "Table {\"k1\": \"1\", \"k10\"…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
+fillText "Lsn 10" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
 restore
 == at=11970
@@ -414,7 +452,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -424,20 +462,20 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #8b91a8
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k10\": \"10\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\", \"k7\": \"7\", \"k8\": \"8\", \"k9\": \"9\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k10\"…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 10" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 929.23
 fillText "Writes after the checkpoint come back from the log." 0.00 0.00
 restore
-== at=12343.333
+== at=13386.667
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -454,7 +492,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -464,60 +502,20 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
-fillText "Lsn 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
-fillText "Flushed 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
-fillText "Writes after the checkpoint come back from the log." 0.00 0.00
-restore
-== at=14106.667
-save
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
-globalAlpha = 1.00
-shadowBlur = 0.00
-shadowColor = rgba(0, 0, 0, 0)
-fillStyle = #151a2e
-fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.54 0.00 0.00 1.54 0.00 0.00
-beginPath
-rect 0.00 0.00 1040.00 650.00
-clip
-lineWidth = 2.00
-lineCap = round
-font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-textAlign = center
-textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fillStyle = #ede9e1
-fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
-fillStyle = #151a2e
-fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
-fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\", \"k7\": \"7\", \"k8\": \"8\", \"k9\": \"9\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k2\":…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 10" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 929.23
 fillText "Writes after the checkpoint come back from the log." 0.00 0.00
 restore
-== at=15870
+== at=15060
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -534,7 +532,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -544,15 +542,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
-fillText "Table {\"k1\": \"1\", \"k10\": \"10\", \"k12\": \"12\", \"k2\": \"2\", \"k3\": \"3\", \"k4\": \"4\", \"k5\": \"5\", \"k6\": \"6\", \"k7\": \"7\", \"k8\": \"8\", \"k9\": \"9\"}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+fillText "Table {\"k1\": \"1\", \"k10\"…" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 11" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 649.23
+setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 10" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 929.23
 fillText "Writes after the checkpoint come back from the log." 0.00 0.00

@@ -91,7 +91,7 @@ test("markers scene: a flight is invisible at its end, visible before", () => {
   // while flying it moves 820 -> 220 in x between 450 and 850
   const fs = at(c, 650);
   close(fs.e[circle] as number, 520);
-  close(fs.f[circle] as number, 325);
+  close(fs.f[circle] as number, 315);
 });
 
 test("markers scene: glow is on in [2000, 2600)", () => {

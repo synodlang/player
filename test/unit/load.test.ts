@@ -35,9 +35,9 @@ const circle = (id: string, extra: Record<string, unknown> = {}) => ({
   ...extra,
 });
 
-test("all 37 vendored goldens and every hand-made scene load with zero errors", () => {
+test("all 38 vendored goldens and every hand-made scene load with zero errors", () => {
   assert.equal(sceneFiles("examples").length, 9);
-  assert.equal(sceneFiles("builder").length, 28);
+  assert.equal(sceneFiles("builder").length, 29);
   for (const [g, f] of allScenes()) {
     const { scene } = loadFile(g, f);
     // a look fault (fault-bad-icon) ends the scene before any shape

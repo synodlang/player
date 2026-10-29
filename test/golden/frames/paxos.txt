@@ -34,7 +34,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -44,21 +44,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -67,21 +67,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -90,44 +90,44 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
+setTransform 1.54 0.00 0.00 1.54 800.00 123.08
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 941.03 391.37
+setTransform 1.54 0.00 0.00 1.54 958.32 345.75
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 941.03 355.99
+setTransform 1.54 0.00 0.00 1.54 958.32 310.37
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 637.26 410.17
+setTransform 1.54 0.00 0.00 1.54 610.48 369.93
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 637.26 374.78
+setTransform 1.54 0.00 0.00 1.54 610.48 334.55
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 restore
@@ -148,7 +148,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -158,21 +158,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -181,21 +181,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -204,51 +204,51 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
 globalAlpha = 0.16
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1117.27 543.99
+setTransform 1.54 0.00 0.00 1.54 1211.66 542.05
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.68
-setTransform 1.54 0.00 0.00 1.54 474.91 550.77
+setTransform 1.54 0.00 0.00 1.54 377.09 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
+setTransform 1.54 0.00 0.00 1.54 800.00 123.08
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 476.21 549.64
+setTransform 1.54 0.00 0.00 1.54 378.96 549.32
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.50
-setTransform 1.54 0.00 0.00 1.54 476.21 514.26
+setTransform 1.54 0.00 0.00 1.54 378.96 513.94
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
 restore
@@ -269,7 +269,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -279,21 +279,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -302,21 +302,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -325,82 +325,82 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
 globalAlpha = 0.29
-setTransform 1.54 0.00 0.00 1.54 1125.09 550.77
+setTransform 1.54 0.00 0.00 1.54 1222.91 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.03
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
+setTransform 1.54 0.00 0.00 1.54 800.00 123.08
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 594.78 446.96
+setTransform 1.54 0.00 0.00 1.54 549.41 417.25
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.41
-setTransform 1.54 0.00 0.00 1.54 594.78 411.57
+setTransform 1.54 0.00 0.00 1.54 549.41 381.86
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 558.83 478.09
+setTransform 1.54 0.00 0.00 1.54 497.74 457.29
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.90
-setTransform 1.54 0.00 0.00 1.54 558.83 442.70
+setTransform 1.54 0.00 0.00 1.54 497.74 421.90
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 908.02 615.38
+setTransform 1.54 0.00 0.00 1.54 950.59 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.97
-setTransform 1.54 0.00 0.00 1.54 908.02 580.00
+setTransform 1.54 0.00 0.00 1.54 950.59 580.00
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
+setTransform 1.54 0.00 0.00 1.54 293.71 515.38
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1116.20 543.07
+setTransform 1.54 0.00 0.00 1.54 1210.13 540.87
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1116.20 507.69
+setTransform 1.54 0.00 0.00 1.54 1210.13 505.48
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
 restore
@@ -421,7 +421,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -431,21 +431,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -454,21 +454,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -477,65 +477,65 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 669.42 382.31
+setTransform 1.54 0.00 0.00 1.54 656.71 334.11
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 657.15 392.94
+setTransform 1.54 0.00 0.00 1.54 639.08 347.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.03
-setTransform 1.54 0.00 0.00 1.54 657.15 357.55
+setTransform 1.54 0.00 0.00 1.54 639.08 312.39
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1070.48 615.38
+setTransform 1.54 0.00 0.00 1.54 1177.06 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.11
-setTransform 1.54 0.00 0.00 1.54 1070.48 580.00
+setTransform 1.54 0.00 0.00 1.54 1177.06 580.00
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.25
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
+setTransform 1.54 0.00 0.00 1.54 293.71 515.38
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1046.57 482.77
+setTransform 1.54 0.00 0.00 1.54 1110.03 463.31
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.78
-setTransform 1.54 0.00 0.00 1.54 1046.57 447.38
+setTransform 1.54 0.00 0.00 1.54 1110.03 427.92
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
 restore
@@ -556,7 +556,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -566,21 +566,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -589,21 +589,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -612,70 +612,70 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.52
-setTransform 1.54 0.00 0.00 1.54 920.80 373.85
+setTransform 1.54 0.00 0.00 1.54 929.23 323.22
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 936.59 615.38
+setTransform 1.54 0.00 0.00 1.54 990.41 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 670.47 381.40
+setTransform 1.54 0.00 0.00 1.54 658.22 332.94
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.68
-setTransform 1.54 0.00 0.00 1.54 670.47 346.02
+setTransform 1.54 0.00 0.00 1.54 658.22 297.55
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.94
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
+setTransform 1.54 0.00 0.00 1.54 800.00 123.08
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 944.47 394.34
+setTransform 1.54 0.00 0.00 1.54 957.82 345.36
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.99
-setTransform 1.54 0.00 0.00 1.54 944.47 358.96
+setTransform 1.54 0.00 0.00 1.54 957.82 309.98
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 577.05 462.31
+setTransform 1.54 0.00 0.00 1.54 527.01 434.61
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 577.05 426.92
+setTransform 1.54 0.00 0.00 1.54 527.01 399.22
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
 restore
@@ -696,7 +696,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -706,21 +706,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -729,21 +729,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -752,67 +752,67 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
 globalAlpha = 0.99
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 538.89 615.38
+setTransform 1.54 0.00 0.00 1.54 435.99 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 548.54 487.00
+setTransform 1.54 0.00 0.00 1.54 482.95 468.75
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.94
-setTransform 1.54 0.00 0.00 1.54 1125.09 550.77
+setTransform 1.54 0.00 0.00 1.54 1222.91 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 481.30 545.23
+setTransform 1.54 0.00 0.00 1.54 386.11 543.79
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 481.30 509.85
+setTransform 1.54 0.00 0.00 1.54 386.11 508.40
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 549.43 615.38
+setTransform 1.54 0.00 0.00 1.54 448.40 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 549.43 580.00
+setTransform 1.54 0.00 0.00 1.54 448.40 580.00
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.91
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
+setTransform 1.54 0.00 0.00 1.54 293.71 515.38
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 restore
@@ -833,7 +833,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -843,21 +843,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -866,21 +866,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -889,65 +889,65 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
 globalAlpha = 0.33
-setTransform 1.54 0.00 0.00 1.54 529.52 615.38
+setTransform 1.54 0.00 0.00 1.54 422.94 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 491.20 536.66
+setTransform 1.54 0.00 0.00 1.54 400.51 532.63
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 589.25 451.74
+setTransform 1.54 0.00 0.00 1.54 538.23 425.91
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 880.70 615.38
+setTransform 1.54 0.00 0.00 1.54 913.25 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.00
-setTransform 1.54 0.00 0.00 1.54 880.70 580.00
+setTransform 1.54 0.00 0.00 1.54 913.25 580.00
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.04
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
+setTransform 1.54 0.00 0.00 1.54 293.71 515.38
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
+setTransform 1.54 0.00 0.00 1.54 293.71 515.38
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
 restore
@@ -968,7 +968,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -978,21 +978,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1001,21 +1001,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1024,73 +1024,73 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 101" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 474.95 550.73
+setTransform 1.54 0.00 0.00 1.54 377.15 550.72
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 677.68 375.17
+setTransform 1.54 0.00 0.00 1.54 662.84 329.36
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1064.32 615.38
+setTransform 1.54 0.00 0.00 1.54 1170.91 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.97
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.41
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 490.05 537.65
+setTransform 1.54 0.00 0.00 1.54 399.32 533.54
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 490.05 502.27
+setTransform 1.54 0.00 0.00 1.54 399.32 498.16
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 524.80 615.38
+setTransform 1.54 0.00 0.00 1.54 418.76 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.98
-setTransform 1.54 0.00 0.00 1.54 524.80 580.00
+setTransform 1.54 0.00 0.00 1.54 418.76 580.00
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.71
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
+setTransform 1.54 0.00 0.00 1.54 293.71 515.38
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
 restore
@@ -1111,7 +1111,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1121,21 +1121,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1144,21 +1144,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1167,57 +1167,57 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
 globalAlpha = 0.07
-setTransform 1.54 0.00 0.00 1.54 679.20 373.85
+setTransform 1.54 0.00 0.00 1.54 676.92 318.45
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 817.06 615.38
+setTransform 1.54 0.00 0.00 1.54 823.63 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 515.59 515.54
+setTransform 1.54 0.00 0.00 1.54 434.42 506.35
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.65
-setTransform 1.54 0.00 0.00 1.54 515.59 480.15
+setTransform 1.54 0.00 0.00 1.54 434.42 470.96
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 658.55 615.38
+setTransform 1.54 0.00 0.00 1.54 601.52 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.81
-setTransform 1.54 0.00 0.00 1.54 658.55 580.00
+setTransform 1.54 0.00 0.00 1.54 601.52 580.00
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.93
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
+setTransform 1.54 0.00 0.00 1.54 293.71 515.38
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 restore
@@ -1238,7 +1238,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1248,21 +1248,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1271,21 +1271,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1294,64 +1294,64 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1063.07 615.38
+setTransform 1.54 0.00 0.00 1.54 1164.44 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 674.71 377.74
+setTransform 1.54 0.00 0.00 1.54 658.65 332.60
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 1064.26 615.38
+setTransform 1.54 0.00 0.00 1.54 1170.81 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.16
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
+setTransform 1.54 0.00 0.00 1.54 800.00 123.08
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1122.41 548.45
+setTransform 1.54 0.00 0.00 1.54 1219.13 547.85
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.32
-setTransform 1.54 0.00 0.00 1.54 1122.41 513.07
+setTransform 1.54 0.00 0.00 1.54 1219.13 512.46
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 644.70 403.72
+setTransform 1.54 0.00 0.00 1.54 616.37 365.37
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.50
-setTransform 1.54 0.00 0.00 1.54 644.70 368.34
+setTransform 1.54 0.00 0.00 1.54 616.37 329.98
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 restore
@@ -1372,7 +1372,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1382,21 +1382,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1405,21 +1405,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1428,52 +1428,52 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1076.44 615.38
+setTransform 1.54 0.00 0.00 1.54 1182.96 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.98
-setTransform 1.54 0.00 0.00 1.54 679.20 373.85
+setTransform 1.54 0.00 0.00 1.54 664.98 327.69
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.45
-setTransform 1.54 0.00 0.00 1.54 1064.32 615.38
+setTransform 1.54 0.00 0.00 1.54 1170.91 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.27
-setTransform 1.54 0.00 0.00 1.54 800.00 204.62
+setTransform 1.54 0.00 0.00 1.54 800.00 158.46
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 0.64
-setTransform 1.54 0.00 0.00 1.54 1125.09 550.77
+setTransform 1.54 0.00 0.00 1.54 1222.91 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 592.64 448.81
+setTransform 1.54 0.00 0.00 1.54 543.00 422.21
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
@@ -1495,7 +1495,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1505,21 +1505,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1528,21 +1528,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue " 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1551,53 +1551,53 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen " 0.00 0.00
 globalAlpha = 0.94
-setTransform 1.54 0.00 0.00 1.54 400.29 550.77
+setTransform 1.54 0.00 0.00 1.54 293.71 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
 globalAlpha = 0.84
-setTransform 1.54 0.00 0.00 1.54 474.91 550.77
+setTransform 1.54 0.00 0.00 1.54 377.09 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1090.67 520.96
+setTransform 1.54 0.00 0.00 1.54 1174.40 513.18
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fill
-setTransform 1.54 0.00 0.00 1.54 1090.67 485.58
+setTransform 1.54 0.00 0.00 1.54 1174.40 477.80
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 550.77
+setTransform 1.54 0.00 0.00 1.54 1306.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 515.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 515.38
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 978.11 615.38
+setTransform 1.54 0.00 0.00 1.54 1049.93 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 978.11 580.00
+setTransform 1.54 0.00 0.00 1.54 1049.93 580.00
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
 restore
@@ -1618,7 +1618,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1628,21 +1628,21 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 418.46
+setTransform 1.54 0.00 0.00 1.54 800.00 372.31
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 458.46
+setTransform 1.54 0.00 0.00 1.54 800.00 412.31
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 498.46
+setTransform 1.54 0.00 0.00 1.54 800.00 452.31
 fillText "Chosen x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1651,21 +1651,21 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 764.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 764.62
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 804.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 804.62
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 844.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 844.62
 fillText "Chosen x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1674,18 +1674,18 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {n1, n2, n3}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Promised 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 764.62
+setTransform 1.54 0.00 0.00 1.54 293.71 764.62
 fillText "AcceptedBallot 103" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 804.62
+setTransform 1.54 0.00 0.00 1.54 293.71 804.62
 fillText "AcceptedValue x" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 844.62
+setTransform 1.54 0.00 0.00 1.54 293.71 844.62
 fillText "Chosen x" 0.00 0.00
 restore

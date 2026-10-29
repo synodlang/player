@@ -16,7 +16,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 2.31 0.00 0.00 2.31 800.00 500.00
+setTransform 2.31 0.00 0.00 2.31 800.00 476.92
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -26,7 +26,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 2.31 0.00 0.00 2.31 800.00 500.00
+setTransform 2.31 0.00 0.00 2.31 800.00 476.92
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
 restore
@@ -47,7 +47,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 2.31 0.00 0.00 2.31 800.00 500.00
+setTransform 2.31 0.00 0.00 2.31 800.00 476.92
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -57,7 +57,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 2.31 0.00 0.00 2.31 800.00 500.00
+setTransform 2.31 0.00 0.00 2.31 800.00 476.92
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
 restore
@@ -78,7 +78,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 2.31 0.00 0.00 2.31 800.00 500.00
+setTransform 2.31 0.00 0.00 2.31 800.00 476.92
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -88,10 +88,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 2.31 0.00 0.00 2.31 800.00 500.00
+setTransform 2.31 0.00 0.00 2.31 800.00 476.92
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 2.31 0.00 0.00 2.31 984.62 500.00
+setTransform 2.31 0.00 0.00 2.31 984.62 476.92
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -101,7 +101,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 2.31 0.00 0.00 2.31 984.62 500.00
+setTransform 2.31 0.00 0.00 2.31 984.62 476.92
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore
@@ -122,7 +122,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 2.31 0.00 0.00 2.31 707.69 500.00
+setTransform 2.31 0.00 0.00 2.31 707.69 476.92
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -132,10 +132,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 2.31 0.00 0.00 2.31 707.69 500.00
+setTransform 2.31 0.00 0.00 2.31 707.69 476.92
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 2.31 0.00 0.00 2.31 984.62 500.00
+setTransform 2.31 0.00 0.00 2.31 984.62 476.92
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -145,7 +145,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 2.31 0.00 0.00 2.31 984.62 500.00
+setTransform 2.31 0.00 0.00 2.31 984.62 476.92
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore
@@ -166,7 +166,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 2.31 0.00 0.00 2.31 615.38 500.00
+setTransform 2.31 0.00 0.00 2.31 615.38 476.92
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -176,10 +176,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 2.31 0.00 0.00 2.31 615.38 500.00
+setTransform 2.31 0.00 0.00 2.31 615.38 476.92
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 2.31 0.00 0.00 2.31 984.62 500.00
+setTransform 2.31 0.00 0.00 2.31 984.62 476.92
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -189,7 +189,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 2.31 0.00 0.00 2.31 984.62 500.00
+setTransform 2.31 0.00 0.00 2.31 984.62 476.92
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore

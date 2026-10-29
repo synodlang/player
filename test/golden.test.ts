@@ -10,10 +10,10 @@ import { FRAMES_DIR, generateGoldens } from "../scripts/update-goldens.ts";
 const ACTUAL_DIR = join(import.meta.dirname, "..", "test-results", "golden");
 const goldens = generateGoldens();
 
-test("golden set covers 37 scenes and the letterbox case", () => {
+test("golden set covers 38 scenes and the letterbox case", () => {
   const files = goldens.map((g) => g.file);
-  // 28 builder, 27 hand-made 0.3 scenes + paxos, ring, tcp, twopc, wal as text; hashes.txt; one letterbox file
-  assert.equal(files.length, 28 + 5 + 27 + 1 + 1);
+  // 29 builder, 27 hand-made 0.3 scenes + paxos, ring, tcp, twopc, wal as text; hashes.txt; one letterbox file
+  assert.equal(files.length, 29 + 5 + 27 + 1 + 1);
   assert.ok(files.includes("hashes.txt"));
   const hashes = goldens.find((g) => g.file === "hashes.txt")?.content ?? "";
   for (const n of ["cassandra", "gossip", "raft", "webapp"]) assert.ok(hashes.includes(`${n} at=`));

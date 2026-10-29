@@ -52,7 +52,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -62,13 +62,13 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Got 0" 0.00 0.00
 restore
 == at=45
@@ -88,7 +88,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -98,13 +98,13 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Got 0" 0.00 0.00
 restore
 == at=60
@@ -124,7 +124,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -134,15 +134,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
+setTransform 1.54 0.00 0.00 1.54 800.00 553.85
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
+setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 1384.62 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -151,13 +151,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 1384.62 484.62
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+setTransform 1.54 0.00 0.00 1.54 1384.62 553.85
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 0" 0.00 0.00
 restore
 == at=75
@@ -177,7 +177,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 801.98 500.00
+setTransform 1.54 0.00 0.00 1.54 797.50 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -187,15 +187,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 801.98 500.00
+setTransform 1.54 0.00 0.00 1.54 797.50 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 801.98 569.23
+setTransform 1.54 0.00 0.00 1.54 797.50 553.85
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 801.98 609.23
+setTransform 1.54 0.00 0.00 1.54 797.50 593.85
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 1384.62 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -204,13 +204,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 1384.62 484.62
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+setTransform 1.54 0.00 0.00 1.54 1384.62 553.85
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 0" 0.00 0.00
 restore
 == at=90
@@ -230,7 +230,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 803.95 500.00
+setTransform 1.54 0.00 0.00 1.54 795.00 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -240,15 +240,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 803.95 500.00
+setTransform 1.54 0.00 0.00 1.54 795.00 484.62
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 803.95 569.23
+setTransform 1.54 0.00 0.00 1.54 795.00 553.85
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 803.95 609.23
+setTransform 1.54 0.00 0.00 1.54 795.00 593.85
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 1384.62 484.62
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -257,15 +257,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 1384.62 484.62
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+setTransform 1.54 0.00 0.00 1.54 1384.62 553.85
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -274,13 +274,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Got 0" 0.00 0.00
 restore
 == at=105
@@ -300,7 +300,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 803.94 499.02
+setTransform 1.54 0.00 0.00 1.54 795.02 483.49
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -310,15 +310,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 803.94 499.02
+setTransform 1.54 0.00 0.00 1.54 795.02 483.49
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 803.94 568.25
+setTransform 1.54 0.00 0.00 1.54 795.02 552.72
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 803.94 608.25
+setTransform 1.54 0.00 0.00 1.54 795.02 592.72
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 342.15 500.49
+setTransform 1.54 0.00 0.00 1.54 1384.28 485.18
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -327,15 +327,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 342.15 500.49
+setTransform 1.54 0.00 0.00 1.54 1384.28 485.18
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 342.15 569.72
+setTransform 1.54 0.00 0.00 1.54 1384.28 554.41
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 342.15 609.72
+setTransform 1.54 0.00 0.00 1.54 1384.28 594.41
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -344,13 +344,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Got 0" 0.00 0.00
 restore
 == at=120
@@ -370,7 +370,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 803.92 498.03
+setTransform 1.54 0.00 0.00 1.54 795.05 482.37
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -380,15 +380,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 803.92 498.03
+setTransform 1.54 0.00 0.00 1.54 795.05 482.37
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 803.92 567.26
+setTransform 1.54 0.00 0.00 1.54 795.05 551.60
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 803.92 607.26
+setTransform 1.54 0.00 0.00 1.54 795.05 591.60
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 345.83 500.98
+setTransform 1.54 0.00 0.00 1.54 1383.94 485.74
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -397,15 +397,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 345.83 500.98
+setTransform 1.54 0.00 0.00 1.54 1383.94 485.74
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 345.83 570.22
+setTransform 1.54 0.00 0.00 1.54 1383.94 554.97
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 345.83 610.22
+setTransform 1.54 0.00 0.00 1.54 1383.94 594.97
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -414,15 +414,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -431,13 +431,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=270
@@ -457,7 +457,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 965.14 417.42
+setTransform 1.54 0.00 0.00 1.54 590.83 391.02
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -467,15 +467,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 965.14 417.42
+setTransform 1.54 0.00 0.00 1.54 590.83 391.02
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 965.14 486.65
+setTransform 1.54 0.00 0.00 1.54 590.83 460.25
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 965.14 526.65
+setTransform 1.54 0.00 0.00 1.54 590.83 500.25
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 736.09 582.08
+setTransform 1.54 0.00 0.00 1.54 1298.66 392.71
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -484,15 +484,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 736.09 582.08
+setTransform 1.54 0.00 0.00 1.54 1298.66 392.71
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 736.09 651.32
+setTransform 1.54 0.00 0.00 1.54 1298.66 461.94
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 736.09 691.32
+setTransform 1.54 0.00 0.00 1.54 1298.66 501.94
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 436.97 639.28
+setTransform 1.54 0.00 0.00 1.54 753.55 642.47
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -501,15 +501,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 436.97 639.28
+setTransform 1.54 0.00 0.00 1.54 753.55 642.47
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 436.97 708.52
+setTransform 1.54 0.00 0.00 1.54 753.55 711.70
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 436.97 748.52
+setTransform 1.54 0.00 0.00 1.54 753.55 751.70
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -518,13 +518,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=420
@@ -544,7 +544,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -554,15 +554,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -571,15 +571,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -588,15 +588,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -605,13 +605,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=570
@@ -631,7 +631,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -641,15 +641,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -658,15 +658,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -675,15 +675,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -692,13 +692,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=720
@@ -718,7 +718,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -728,15 +728,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -745,15 +745,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -762,15 +762,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -779,13 +779,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=870
@@ -805,7 +805,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -815,15 +815,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -833,15 +833,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #babcc5
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -850,15 +850,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -867,13 +867,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=1020
@@ -893,7 +893,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -903,15 +903,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -921,15 +921,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #8a90a8
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -938,15 +938,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -955,13 +955,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=1170
@@ -981,7 +981,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -991,15 +991,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1009,15 +1009,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #8a90a8
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1026,15 +1026,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1043,13 +1043,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=1320
@@ -1069,7 +1069,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1079,15 +1079,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1097,15 +1097,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #8a90a8
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1114,15 +1114,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1131,13 +1131,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=1470
@@ -1157,7 +1157,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1167,15 +1167,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1185,15 +1185,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #babcc5
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1202,15 +1202,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1219,13 +1219,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=1620
@@ -1245,7 +1245,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1255,15 +1255,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1272,15 +1272,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1289,15 +1289,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1306,13 +1306,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=1770
@@ -1332,7 +1332,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1342,15 +1342,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1359,15 +1359,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1376,15 +1376,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1393,13 +1393,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=1920
@@ -1419,7 +1419,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1429,15 +1429,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 299.68
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1446,15 +1446,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 299.68
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 368.91
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 408.91
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1463,15 +1463,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1480,13 +1480,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 386.62 669.55
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 406.05
+setTransform 1.54 0.00 0.00 1.54 386.62 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 446.05
+setTransform 1.54 0.00 0.00 1.54 386.62 778.78
 fillText "Got 0" 0.00 0.00
 restore
 == at=2070
@@ -1506,7 +1506,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 963.18 303.02
+setTransform 1.54 0.00 0.00 1.54 593.31 261.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1516,15 +1516,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 963.18 303.02
+setTransform 1.54 0.00 0.00 1.54 593.31 261.38
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 963.18 372.25
+setTransform 1.54 0.00 0.00 1.54 593.31 330.61
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 963.18 412.25
+setTransform 1.54 0.00 0.00 1.54 593.31 370.61
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1163.03 639.28
+setTransform 1.54 0.00 0.00 1.54 1259.84 457.53
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1533,16 +1533,16 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1163.03 639.28
+setTransform 1.54 0.00 0.00 1.54 1259.84 457.53
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1163.03 708.52
+setTransform 1.54 0.00 0.00 1.54 1259.84 526.76
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1163.03 748.52
+setTransform 1.54 0.00 0.00 1.54 1259.84 566.76
 fillText "Got 0" 0.00 0.00
 globalAlpha = 0.50
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1551,16 +1551,16 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 1213.38 669.55
 fillStyle = #151a2e
 fillText "n3" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 732.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 738.78
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 473.65 772.42
+setTransform 1.54 0.00 0.00 1.54 1213.38 778.78
 fillText "Got 0" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 436.97 476.10
+setTransform 1.54 0.00 0.00 1.54 340.16 642.47
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1569,13 +1569,13 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 436.97 476.10
+setTransform 1.54 0.00 0.00 1.54 340.16 642.47
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 436.97 545.33
+setTransform 1.54 0.00 0.00 1.54 340.16 711.70
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 436.97 585.33
+setTransform 1.54 0.00 0.00 1.54 340.16 751.70
 fillText "Got 0" 0.00 0.00
 restore
 == at=2220
@@ -1595,7 +1595,7 @@ lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1605,15 +1605,15 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 269.23
+setTransform 1.54 0.00 0.00 1.54 800.00 223.08
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 338.46
+setTransform 1.54 0.00 0.00 1.54 800.00 292.31
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 378.46
+setTransform 1.54 0.00 0.00 1.54 800.00 332.31
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1622,15 +1622,15 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 1199.71 615.38
+setTransform 1.54 0.00 0.00 1.54 1306.29 615.38
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 684.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 684.62
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1199.71 724.62
+setTransform 1.54 0.00 0.00 1.54 1306.29 724.62
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -1639,12 +1639,12 @@ arcTo -48.00 28.00 -48.00 -28.00 12.00
 arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 615.38
+setTransform 1.54 0.00 0.00 1.54 293.71 615.38
 fillStyle = #151a2e
 fillText "n4" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 684.62
+setTransform 1.54 0.00 0.00 1.54 293.71 684.62
 fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 400.29 724.62
+setTransform 1.54 0.00 0.00 1.54 293.71 724.62
 fillText "Got 0" 0.00 0.00
 restore
