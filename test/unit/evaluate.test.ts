@@ -33,85 +33,85 @@ function idx(scene: Scene, id: string): number {
 test("group scene: a member's world x follows the group on the smootherstep curve", () => {
   const { scene, c } = compiled("builder", "group");
   const rect1 = idx(scene, "sf51ce27cc857"); // member of the first group, relative (0, 0)
-  // first group: x 800 at 30, 300 at 230; at t = 130 u = 0.5, smootherstep = 0.5 -> 550
+  // first group: x 520 at 30, 300 at 230; at t = 130 u = 0.5, smootherstep = 0.5 -> 410
   let fs = at(c, 130);
   assert.equal(fs.visible[rect1], 1);
-  close(fs.e[rect1] as number, 550);
-  close(fs.f[rect1] as number, 500);
+  close(fs.e[rect1] as number, 410);
+  close(fs.f[rect1] as number, 325);
   // the label member sits 37 above its group
   const label1 = idx(scene, "sf71ce27ccbbd");
-  close(fs.e[label1] as number, 550);
-  close(fs.f[label1] as number, 463);
-  // second group: 800 at 60, 300 at 260; at t = 130 u = 0.35
+  close(fs.e[label1] as number, 410);
+  close(fs.f[label1] as number, 288);
+  // second group: 520 at 60, 300 at 260; at t = 130 u = 0.35
   const rect2 = idx(scene, "sb21cdd449450");
   const s = smootherstep(0.35);
-  close(fs.e[rect2] as number, 800 - 500 * s);
+  close(fs.e[rect2] as number, 520 - 220 * s);
   close(s, 0.235169375, 1e-12);
   // before a group's key and member exist: nothing visible
   fs = at(c, 29.999);
   assert.equal(fs.visible[rect1], 0);
   fs = at(c, 30);
   assert.equal(fs.visible[rect1], 1);
-  close(fs.e[rect1] as number, 800);
+  close(fs.e[rect1] as number, 520);
   // after the last key the group rests at x 300
   fs = at(c, 1000);
   close(fs.e[rect1] as number, 300);
   close(fs.e[rect2] as number, 300);
 });
 
-test("markers scene: text switches at exactly 390", () => {
+test("markers scene: text switches at exactly 660", () => {
   const { scene, c } = compiled("builder", "markers");
   const lbl = idx(scene, "s22dc3aec9119");
   const text = (t: number): string => c.strings[at(c, t).text[lbl] as number] as string;
   assert.equal(text(30), "Peers {nobody}");
-  assert.equal(text(389), "Peers {nobody}");
-  assert.equal(text(389.999), "Peers {nobody}");
-  assert.equal(text(390), "Peers {n2}");
+  assert.equal(text(659), "Peers {nobody}");
+  assert.equal(text(659.999), "Peers {nobody}");
+  assert.equal(text(660), "Peers {n2}");
   assert.equal(text(2000), "Peers {n2}");
-  // the other label steps at 910 and 2000
+  // the other label steps at 1180 and 2270
   const got = idx(scene, "sdedc402592bb");
   const g = (t: number): string => c.strings[at(c, t).text[got] as number] as string;
   assert.deepEqual(
-    [g(60), g(909), g(910), g(1999), g(2000)],
+    [g(60), g(1179), g(1180), g(2269), g(2270)],
     ["Got 0", "Got 0", "Got 1", "Got 1", "Got 2"],
   );
 });
 
 test("markers scene: a flight is invisible at its end, visible before", () => {
   const { scene, c } = compiled("builder", "markers");
-  const circle = idx(scene, "sde581b0c4d66"); // end 880
+  const circle = idx(scene, "sde581b0c4d66"); // end 1150
   const grp = idx(scene, "sdc581b0c4a00");
-  assert.equal(c.end[circle], 880);
-  assert.equal(at(c, 179.999).visible[circle], 0);
-  assert.equal(at(c, 180).visible[circle], 1);
-  assert.equal(at(c, 700).visible[circle], 1);
-  assert.equal(at(c, 880).visible[circle], 0);
-  assert.equal(at(c, 880).visible[grp], 0);
-  assert.equal(at(c, 2000).visible[circle], 0);
-  // while flying it moves 200 -> 800 in y between 180 and 580
-  const fs = at(c, 380);
-  close(fs.e[circle] as number, 800);
-  close(fs.f[circle] as number, 500);
+  assert.equal(c.end[circle], 1150);
+  assert.equal(at(c, 449.999).visible[circle], 0);
+  assert.equal(at(c, 450).visible[circle], 1);
+  assert.equal(at(c, 800).visible[circle], 1);
+  assert.equal(at(c, 1150).visible[circle], 0);
+  assert.equal(at(c, 1150).visible[grp], 0);
+  assert.equal(at(c, 3000).visible[circle], 0);
+  // while flying it moves 820 -> 220 in x between 450 and 850
+  const fs = at(c, 650);
+  close(fs.e[circle] as number, 520);
+  close(fs.f[circle] as number, 325);
 });
 
-test("markers scene: glow is on in [1730, 2330)", () => {
+test("markers scene: glow is on in [2000, 2600)", () => {
   const { scene, c } = compiled("builder", "markers");
   const rect = idx(scene, "s648ffc90f4c6");
   const glow = (t: number): number => at(c, t).glow[rect] as number;
   assert.deepEqual(
-    [glow(0), glow(1729.999), glow(1730), glow(2000), glow(2329.999), glow(2330), glow(2930)],
+    [glow(0), glow(1999.999), glow(2000), glow(2300), glow(2599.999), glow(2600), glow(3200)],
     [0, 0, 1, 1, 1, 0, 0],
   );
-  // stroke only: fill none, stroke Critical; opacity 0 -> 1 between 1730 and 2030
-  let fs = at(c, 2180);
+  // stroke only: fill none, stroke Critical; opacity 0 -> 1 between 2000 and 2300
+  let fs = at(c, 2450);
   assert.equal(fs.fill[rect], -1);
   assert.equal(toHex(fs.stroke[rect] as number), "#e86f5a");
   close(fs.opacity[rect] as number, 1);
-  fs = at(c, 1880);
+  fs = at(c, 2150);
   close(fs.opacity[rect] as number, 0.5);
   assert.equal(fs.visible[rect], 1);
-  assert.equal(at(c, 1730).visible[rect], 0); // opacity 0
-  close(at(c, 2780).opacity[rect] as number, 0.5);
+  assert.equal(at(c, 2000).visible[rect], 0); // opacity 0
+  close(at(c, 3050).opacity[rect] as number, 0.5);
 });
 
 test("time is clamped to [0, duration]", () => {

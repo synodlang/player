@@ -19,7 +19,7 @@ test("golden set covers 37 scenes and the letterbox case", () => {
   for (const n of ["cassandra", "gossip", "raft", "webapp"]) assert.ok(hashes.includes(`${n} at=`));
   const lb = goldens.find((g) => g.file.startsWith("letterbox-"))?.content ?? "";
   assert.ok(lb.includes("# view 1000x1000 dpr 2"));
-  assert.ok(lb.includes("setTransform 1.25 0.00 0.00 1.25 0.00 375.00"));
+  assert.ok(lb.includes("setTransform 1.92 0.00 0.00 1.92 0.00 375.00"));
 });
 
 for (const g of goldens) {

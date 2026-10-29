@@ -7,9 +7,9 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 2000.00 2000.00
-setTransform 1.25 0.00 0.00 1.25 0.00 375.00
+setTransform 1.92 0.00 0.00 1.92 0.00 375.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
@@ -25,16 +25,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 2000.00 2000.00
-setTransform 1.25 0.00 0.00 1.25 0.00 375.00
+setTransform 1.92 0.00 0.00 1.92 0.00 375.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 moveTo -28.00 -20.00
 arcTo 40.00 -20.00 40.00 20.00 12.00
@@ -44,14 +44,14 @@ arcTo -40.00 -20.00 40.00 -20.00 12.00
 closePath
 fillStyle = #5cc8b8
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+setTransform 1.92 0.00 0.00 1.92 576.92 928.85
 fillStyle = #ede9e1
 fillText "node" 0.00 0.00
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 moveTo -28.00 -20.00
 arcTo 40.00 -20.00 40.00 20.00 12.00
@@ -61,11 +61,11 @@ arcTo -40.00 -20.00 40.00 -20.00 12.00
 closePath
 fillStyle = #5cc8b8
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+setTransform 1.92 0.00 0.00 1.92 576.92 928.85
 fillStyle = #ede9e1
 fillText "node" 0.00 0.00
 restore
@@ -77,16 +77,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 2000.00 2000.00
-setTransform 1.25 0.00 0.00 1.25 0.00 375.00
+setTransform 1.92 0.00 0.00 1.92 0.00 375.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 moveTo -28.00 -20.00
 arcTo 40.00 -20.00 40.00 20.00 12.00
@@ -96,14 +96,14 @@ arcTo -40.00 -20.00 40.00 -20.00 12.00
 closePath
 fillStyle = #5cc8b8
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+setTransform 1.92 0.00 0.00 1.92 576.92 928.85
 fillStyle = #ede9e1
 fillText "node" 0.00 0.00
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 moveTo -28.00 -20.00
 arcTo 40.00 -20.00 40.00 20.00 12.00
@@ -113,11 +113,11 @@ arcTo -40.00 -20.00 40.00 -20.00 12.00
 closePath
 fillStyle = #5cc8b8
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+setTransform 1.92 0.00 0.00 1.92 576.92 928.85
 fillStyle = #ede9e1
 fillText "node" 0.00 0.00
 restore
@@ -129,16 +129,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 2000.00 2000.00
-setTransform 1.25 0.00 0.00 1.25 0.00 375.00
+setTransform 1.92 0.00 0.00 1.92 0.00 375.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 moveTo -28.00 -20.00
 arcTo 40.00 -20.00 40.00 20.00 12.00
@@ -148,14 +148,14 @@ arcTo -40.00 -20.00 40.00 -20.00 12.00
 closePath
 fillStyle = #5cc8b8
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+setTransform 1.92 0.00 0.00 1.92 576.92 928.85
 fillStyle = #ede9e1
 fillText "node" 0.00 0.00
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 moveTo -28.00 -20.00
 arcTo 40.00 -20.00 40.00 20.00 12.00
@@ -165,11 +165,11 @@ arcTo -40.00 -20.00 40.00 -20.00 12.00
 closePath
 fillStyle = #5cc8b8
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 1000.00
+setTransform 1.92 0.00 0.00 1.92 576.92 1000.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fill
-setTransform 1.25 0.00 0.00 1.25 375.00 953.75
+setTransform 1.92 0.00 0.00 1.92 576.92 928.85
 fillStyle = #ede9e1
 fillText "node" 0.00 0.00
 restore

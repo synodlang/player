@@ -7,16 +7,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -26,7 +26,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
 restore
@@ -38,16 +38,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -57,7 +57,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
 restore
@@ -69,16 +69,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -88,10 +88,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -101,7 +101,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore
@@ -113,16 +113,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 760.00 500.00
+setTransform 1.54 0.00 0.00 1.54 738.46 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -132,10 +132,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 760.00 500.00
+setTransform 1.54 0.00 0.00 1.54 738.46 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -145,7 +145,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore
@@ -157,16 +157,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -176,10 +176,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -189,7 +189,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore
@@ -201,16 +201,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -220,10 +220,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -233,7 +233,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore
@@ -245,16 +245,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -264,10 +264,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -277,7 +277,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore
@@ -289,16 +289,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -308,10 +308,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -321,7 +321,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #f2c798
 fill
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore
@@ -333,16 +333,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -352,10 +352,10 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #ede9e1
 fill
-setTransform 1.00 0.00 0.00 1.00 720.00 500.00
+setTransform 1.54 0.00 0.00 1.54 676.92 500.00
 fillStyle = #151a2e
 fillText "n1" 0.00 0.00
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 beginPath
 moveTo -36.00 -28.00
 arcTo 48.00 -28.00 48.00 28.00 12.00
@@ -365,7 +365,7 @@ arcTo -48.00 -28.00 48.00 -28.00 12.00
 closePath
 fillStyle = #f4a340
 fill
-setTransform 1.00 0.00 0.00 1.00 880.00 500.00
+setTransform 1.54 0.00 0.00 1.54 923.08 500.00
 fillStyle = #151a2e
 fillText "n2" 0.00 0.00
 restore

@@ -50,7 +50,7 @@ export const P_ROLE = 16;
 export const P_FACE = 17;
 export const PROP_COUNT = 18;
 
-/** Value of a numeric property before its first key (x, y, scale, opacity, rotation). */
+/** Value of a numeric property before its first key (x, y, scale, opacity, rotation); x and y default to the canvas centre, so these two are unused. */
 export const NUM_DEFAULTS: readonly number[] = [800, 500, 1, 1, 0];
 
 /** Effect codes of the effect track. */

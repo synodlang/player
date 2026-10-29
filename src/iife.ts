@@ -19,7 +19,7 @@ export {
 const EMPTY = {
   format: "synod-scene/1",
   duration: 0,
-  canvas: { w: 1600, h: 1000 },
+  canvas: { w: 1040, h: 650 },
   shapes: [],
   markers: [],
   trace: [],

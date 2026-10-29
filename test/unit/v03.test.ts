@@ -358,6 +358,40 @@ test("icons: the set is the 16 icons; a morph is pointwise and unknown names dra
   assert.equal(m.filter((l) => l.startsWith("moveTo")).length, 4);
 });
 
+test("camera home and the default position are the canvas centre, not a fixed 800 by 500", () => {
+  const v = { zoom: 1, tx: 0, ty: 0 };
+  // a 1040 by 650 canvas: home (520, 325); a key at home is the identity, a key at 800, 500 is not
+  const cam = {
+    at: new Float64Array([0]),
+    x: new Float64Array([520]),
+    y: new Float64Array([325]),
+    zoom: new Float64Array([1]),
+  };
+  cameraAt(null, false, 0, 50, v, 520, 325);
+  assert.deepEqual(v, { zoom: 1, tx: 0, ty: 0 });
+  cameraAt(cam, false, 0, 50, v, 520, 325);
+  assert.deepEqual(v, { zoom: 1, tx: 0, ty: 0 });
+  const shape = {
+    id: "a",
+    kind: "circle",
+    props: { r: 10 },
+    keys: [{ at: 1000, opacity: 1, fill: "Ink" }],
+  };
+  const small = build([shape], {
+    canvas: { w: 1040, h: 650 },
+    camera: [{ at: 0, x: 520, y: 325, zoom: 1 }],
+  }).c;
+  const fs = frame(small, 1000);
+  assert.deepEqual(fs.cam, { zoom: 1, tx: 0, ty: 0 });
+  assert.equal(fs.e[0], 520);
+  assert.equal(fs.f[0], 325);
+  const zoomed = build([shape], {
+    canvas: { w: 1040, h: 650 },
+    camera: [{ at: 0, x: 520, y: 325, zoom: 2 }],
+  }).c;
+  assert.deepEqual(frame(zoomed, 1000).cam, { zoom: 2, tx: -520, ty: -325 });
+});
+
 test("camera: eased keys, drift, identity by default, letterbox then camera", () => {
   const cam = {
     at: new Float64Array([100, 1100]),
@@ -366,21 +400,21 @@ test("camera: eased keys, drift, identity by default, letterbox then camera", ()
     zoom: new Float64Array([1, 2]),
   };
   const v = { zoom: 1, tx: 0, ty: 0 };
-  cameraAt(null, false, 0, 50, v);
+  cameraAt(null, false, 0, 50, v, 800, 500);
   assert.deepEqual(v, { zoom: 1, tx: 0, ty: 0 });
-  cameraAt(cam, false, 0, 50, v);
+  cameraAt(cam, false, 0, 50, v, 800, 500);
   assert.deepEqual(v, { zoom: 1, tx: 0, ty: 0 });
-  cameraAt(cam, false, 0, 600, v); // u = 0.5
+  cameraAt(cam, false, 0, 600, v, 800, 500); // u = 0.5
   assert.ok(Math.abs(v.zoom - 1.5) < 1e-12);
   assert.ok(Math.abs(v.tx - (800 - 1.5 * 600)) < 1e-9);
-  cameraAt(cam, false, 0, 5000, v);
+  cameraAt(cam, false, 0, 5000, v, 800, 500);
   assert.deepEqual(v, { zoom: 2, tx: 800 - 2 * 400, ty: 500 - 2 * 300 });
   // drift: cx' = cx + D sin(2 pi t / 19000), cy' = cy + 0.6 D sin(2 pi t / 23000)
-  cameraAt(null, false, 10, 4750, v);
+  cameraAt(null, false, 10, 4750, v, 800, 500);
   assert.ok(Math.abs(v.tx - (800 - (800 + 10))) < 1e-9);
   assert.ok(Math.abs(v.ty - (500 - (500 + 6 * Math.sin((2 * Math.PI * 4750) / 23000)))) < 1e-9);
   // the spring curve applies to the camera
-  cameraAt(cam, true, 0, 600, v);
+  cameraAt(cam, true, 0, 600, v, 800, 500);
   assert.ok(Math.abs(v.zoom - (1 + spring(0.5))) < 1e-12);
 });
 

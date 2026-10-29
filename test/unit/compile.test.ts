@@ -43,12 +43,12 @@ test("every scene compiles; arrays are consistent", () => {
 
 test("kinds, geometry and times of the markers scene", () => {
   const { scene, c } = compiled("builder", "markers");
-  assert.equal(c.width, 1600);
-  assert.equal(c.height, 1000);
-  assert.equal(c.duration, 2930);
+  assert.equal(c.width, 1040);
+  assert.equal(c.height, 650);
+  assert.equal(c.duration, 3200);
   assert.equal(c.kind[0], KIND_RECT);
-  assert.equal(c.geomA[0], 1592);
-  assert.equal(c.geomB[0], 992);
+  assert.equal(c.geomA[0], 1032);
+  assert.equal(c.geomB[0], 642);
   assert.equal(c.geomR[0], 12);
   assert.equal(c.kind[2], KIND_LABEL);
   assert.equal(c.kind[3], KIND_GROUP);
@@ -57,7 +57,7 @@ test("kinds, geometry and times of the markers scene", () => {
   const circle = scene.shapes.findIndex((s) => s.kind === "circle");
   assert.equal(c.kind[circle], KIND_CIRCLE);
   assert.equal(c.geomA[circle], 6);
-  assert.equal(c.end[circle], 880);
+  assert.equal(c.end[circle], 1150);
   // membership: the circle belongs to the next group
   assert.equal(c.parent[circle], circle + 2);
   assert.equal(c.parent[0], -1);

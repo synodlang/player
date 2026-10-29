@@ -31,7 +31,6 @@ import {
   KIND_ICON,
   KIND_LABEL,
   KIND_RECT,
-  NUM_DEFAULTS,
   P_COUNT,
   P_CURVE,
   P_DASH,
@@ -173,8 +172,8 @@ function position(c: Compiled, i: number, t: number): void {
       }
     }
   }
-  MX = numK(tx, i, kx, t, NUM_DEFAULTS[P_X]!, sp);
-  MY = numK(ty, i, ky, t, NUM_DEFAULTS[P_Y]!, sp);
+  MX = numK(tx, i, kx, t, c.width / 2, sp);
+  MY = numK(ty, i, ky, t, c.height / 2, sp);
 }
 
 function clamp01(v: number): number {
@@ -450,7 +449,7 @@ function evalLine(c: Compiled, fs: FrameState, i: number, t: number): void {
 export function evaluate(c: Compiled, at: number, fs: FrameState): void {
   const t = at > 0 ? (at < c.duration ? at : c.duration) : 0;
   fs.at = t;
-  cameraAt(c.camera, c.spring, c.style.drift, t, fs.cam);
+  cameraAt(c.camera, c.spring, c.style.drift, t, fs.cam, c.width / 2, c.height / 2);
   const order = c.order;
   for (let q = 0; q < order.length; q++) evalShape(c, fs, order[q]!, t, false);
   const lines = c.lines;

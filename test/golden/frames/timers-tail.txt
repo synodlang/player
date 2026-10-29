@@ -7,9 +7,9 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
@@ -25,9 +25,9 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
@@ -43,16 +43,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fillStyle = #f4a340
@@ -66,16 +66,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fillStyle = #f4a340
@@ -89,16 +89,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fillStyle = #f4a340
@@ -112,16 +112,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fillStyle = #b7b986
@@ -135,16 +135,16 @@ shadowBlur = 0.00
 shadowColor = rgba(0, 0, 0, 0)
 fillStyle = #151a2e
 fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
 beginPath
-rect 0.00 0.00 1600.00 1000.00
+rect 0.00 0.00 1040.00 650.00
 clip
 lineWidth = 2.00
 lineCap = round
 font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
 textAlign = center
 textBaseline = middle
-setTransform 1.00 0.00 0.00 1.00 800.00 500.00
+setTransform 1.54 0.00 0.00 1.54 800.00 500.00
 beginPath
 arc 0.00 0.00 10.00 0.00 6.28
 fillStyle = #5cc8b8
