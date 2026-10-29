@@ -109,9 +109,11 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 800.00 169.23
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 941.03 391.37
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
@@ -222,32 +224,20 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
-fillStyle = #ede9e1
-fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1117.27 543.99
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1117.27 508.61
-fillStyle = #ede9e1
-fillText "Prepare" 0.00 0.00
 globalAlpha = 0.68
 setTransform 1.54 0.00 0.00 1.54 474.91 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 474.91 515.38
-fillStyle = #ede9e1
-fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 800.00 204.62
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
 setTransform 1.54 0.00 0.00 1.54 800.00 169.23
 fillStyle = #ede9e1
@@ -257,6 +247,7 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.50
 setTransform 1.54 0.00 0.00 1.54 476.21 514.26
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
@@ -354,50 +345,56 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1125.09 515.38
-fillStyle = #ede9e1
-fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 800.00 204.62
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
+globalAlpha = 0.03
 setTransform 1.54 0.00 0.00 1.54 800.00 169.23
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 594.78 446.96
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.41
 setTransform 1.54 0.00 0.00 1.54 594.78 411.57
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 558.83 478.09
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.90
 setTransform 1.54 0.00 0.00 1.54 558.83 442.70
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 908.02 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.97
 setTransform 1.54 0.00 0.00 1.54 908.02 580.00
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 400.29 515.38
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1116.20 543.07
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
@@ -499,22 +496,15 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 669.42 382.31
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 669.42 346.93
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 657.15 392.94
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
+globalAlpha = 0.03
 setTransform 1.54 0.00 0.00 1.54 657.15 357.55
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
@@ -524,6 +514,7 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.11
 setTransform 1.54 0.00 0.00 1.54 1070.48 580.00
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
@@ -533,14 +524,17 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.25
 setTransform 1.54 0.00 0.00 1.54 400.29 515.38
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1046.57 482.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.78
 setTransform 1.54 0.00 0.00 1.54 1046.57 447.38
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
@@ -637,51 +631,45 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
-fillStyle = #ede9e1
-fillText "Prepare" 0.00 0.00
 globalAlpha = 0.52
 setTransform 1.54 0.00 0.00 1.54 920.80 373.85
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 920.80 338.46
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 936.59 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 936.59 580.00
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 670.47 381.40
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
+globalAlpha = 0.68
 setTransform 1.54 0.00 0.00 1.54 670.47 346.02
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 800.00 204.62
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.94
 setTransform 1.54 0.00 0.00 1.54 800.00 169.23
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 944.47 394.34
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.99
 setTransform 1.54 0.00 0.00 1.54 944.47 358.96
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 577.05 462.31
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
@@ -784,48 +772,28 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
-fillStyle = #ede9e1
-fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 538.89 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 538.89 580.00
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 548.54 487.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 548.54 451.61
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 204.62
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
-fillStyle = #ede9e1
-fillText "Accept" 0.00 0.00
 globalAlpha = 0.94
 setTransform 1.54 0.00 0.00 1.54 1125.09 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1125.09 515.38
-fillStyle = #ede9e1
-fillText "Accept" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 481.30 545.23
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
 setTransform 1.54 0.00 0.00 1.54 481.30 509.85
 fillStyle = #ede9e1
@@ -843,6 +811,7 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.91
 setTransform 1.54 0.00 0.00 1.54 400.29 515.38
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
@@ -940,55 +909,44 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 529.52 580.00
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 491.20 536.66
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 491.20 501.28
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 204.62
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
-fillStyle = #ede9e1
-fillText "Accept" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 589.25 451.74
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 589.25 416.36
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 880.70 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
+globalAlpha = 0.00
 setTransform 1.54 0.00 0.00 1.54 880.70 580.00
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.04
 setTransform 1.54 0.00 0.00 1.54 400.29 515.38
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 400.29 515.38
 fillStyle = #ede9e1
 fillText "Promise" 0.00 0.00
@@ -1085,57 +1043,33 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 474.95 515.35
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 204.62
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
-fillStyle = #ede9e1
-fillText "Accept" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 677.68 375.17
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 677.68 339.78
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1064.32 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1064.32 580.00
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 0.97
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 0.41
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
-fillStyle = #ede9e1
-fillText "Promise" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 490.05 537.65
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
 setTransform 1.54 0.00 0.00 1.54 490.05 502.27
 fillStyle = #ede9e1
@@ -1145,14 +1079,17 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.98
 setTransform 1.54 0.00 0.00 1.54 524.80 580.00
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.71
 setTransform 1.54 0.00 0.00 1.54 400.29 515.38
 fillStyle = #ede9e1
 fillText "Accept" 0.00 0.00
@@ -1250,39 +1187,36 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 679.20 338.46
-fillStyle = #ede9e1
-fillText "Accept" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 817.06 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 817.06 580.00
-fillStyle = #ede9e1
-fillText "Accept" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 515.59 515.54
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
+globalAlpha = 0.65
 setTransform 1.54 0.00 0.00 1.54 515.59 480.15
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 658.55 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.81
 setTransform 1.54 0.00 0.00 1.54 658.55 580.00
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.93
 setTransform 1.54 0.00 0.00 1.54 400.29 515.38
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
@@ -1379,39 +1313,24 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1063.07 580.00
-fillStyle = #ede9e1
-fillText "Accept" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 674.71 377.74
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 674.71 342.35
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1064.26 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1064.26 580.00
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 800.00 204.62
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
+globalAlpha = 0.16
 setTransform 1.54 0.00 0.00 1.54 800.00 169.23
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
@@ -1421,14 +1340,17 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.32
 setTransform 1.54 0.00 0.00 1.54 1122.41 513.07
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 644.70 403.72
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.50
 setTransform 1.54 0.00 0.00 1.54 644.70 368.34
 fillStyle = #ede9e1
 fillText "Accepted" 0.00 0.00
@@ -1525,63 +1447,36 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1076.44 580.00
-fillStyle = #ede9e1
-fillText "Accept" 0.00 0.00
 globalAlpha = 0.98
 setTransform 1.54 0.00 0.00 1.54 679.20 373.85
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 679.20 338.46
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 0.45
 setTransform 1.54 0.00 0.00 1.54 1064.32 615.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1064.32 580.00
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 400.29 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 0.27
 setTransform 1.54 0.00 0.00 1.54 800.00 204.62
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 800.00 169.23
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 0.64
 setTransform 1.54 0.00 0.00 1.54 1125.09 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1125.09 515.38
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 592.64 448.81
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 592.64 413.43
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 restore
 == at=5696
 save
@@ -1676,23 +1571,15 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 400.29 515.38
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 0.84
 setTransform 1.54 0.00 0.00 1.54 474.91 550.77
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 474.91 515.38
-fillStyle = #ede9e1
-fillText "Accepted" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1090.67 520.96
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
 setTransform 1.54 0.00 0.00 1.54 1090.67 485.58
 fillStyle = #ede9e1

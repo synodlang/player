@@ -35,42 +35,6 @@ font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetic
 textAlign = center
 textBaseline = middle
 restore
-== at=30
-save
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
-globalAlpha = 1.00
-shadowBlur = 0.00
-shadowColor = rgba(0, 0, 0, 0)
-fillStyle = #151a2e
-fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.54 0.00 0.00 1.54 0.00 0.00
-beginPath
-rect 0.00 0.00 1040.00 650.00
-clip
-lineWidth = 2.00
-lineCap = round
-font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-textAlign = center
-textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fillStyle = #ede9e1
-fill
-setTransform 1.54 0.00 0.00 1.54 800.00 500.00
-fillStyle = #151a2e
-fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 569.23
-fillStyle = #ede9e1
-fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 609.23
-fillText "Got 0" 0.00 0.00
-restore
 == at=45
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
@@ -266,59 +230,6 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
 restore
-== at=390
-save
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
-globalAlpha = 1.00
-shadowBlur = 0.00
-shadowColor = rgba(0, 0, 0, 0)
-fillStyle = #151a2e
-fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.54 0.00 0.00 1.54 0.00 0.00
-beginPath
-rect 0.00 0.00 1040.00 650.00
-clip
-lineWidth = 2.00
-lineCap = round
-font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-textAlign = center
-textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fillStyle = #ede9e1
-fill
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-fillStyle = #151a2e
-fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
-fillStyle = #ede9e1
-fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
-fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fill
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-fillStyle = #151a2e
-fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 569.23
-fillStyle = #ede9e1
-fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 609.23
-fillText "Got 0" 0.00 0.00
-restore
 == at=420
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
@@ -376,9 +287,6 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1156.92 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
 == at=435
 save
@@ -437,6 +345,7 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.02
 setTransform 1.54 0.00 0.00 1.54 1156.57 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
@@ -498,86 +407,16 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.10
 setTransform 1.54 0.00 0.00 1.54 1154.24 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1156.92 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1156.92 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
-restore
-== at=465
-save
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
-globalAlpha = 1.00
-shadowBlur = 0.00
-shadowColor = rgba(0, 0, 0, 0)
-fillStyle = #151a2e
-fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.54 0.00 0.00 1.54 0.00 0.00
-beginPath
-rect 0.00 0.00 1040.00 650.00
-clip
-lineWidth = 2.00
-lineCap = round
-font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-textAlign = center
-textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fillStyle = #ede9e1
-fill
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-fillStyle = #151a2e
-fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
-fillStyle = #ede9e1
-fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
-fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fill
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-fillStyle = #151a2e
-fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 569.23
-fillStyle = #ede9e1
-fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 609.23
-fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1148.40 500.00
-beginPath
-arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
-fill
-setTransform 1.54 0.00 0.00 1.54 1148.40 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1156.64 500.00
-beginPath
-arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
-fill
-setTransform 1.54 0.00 0.00 1.54 1156.64 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
 == at=480
 save
@@ -636,27 +475,28 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.50
 setTransform 1.54 0.00 0.00 1.54 1137.93 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1154.75 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.10
 setTransform 1.54 0.00 0.00 1.54 1154.75 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1156.92 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1156.92 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
-== at=570
+== at=510
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -708,28 +548,664 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 960.47 500.00
+setTransform 1.54 0.00 0.00 1.54 1100.58 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 960.47 464.62
+globalAlpha = 0.90
+setTransform 1.54 0.00 0.00 1.54 1100.58 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1059.47 500.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 1141.36 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1059.47 464.62
+globalAlpha = 0.50
+setTransform 1.54 0.00 0.00 1.54 1141.36 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1144.53 500.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 1156.40 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1144.53 464.62
+globalAlpha = 0.10
+setTransform 1.54 0.00 0.00 1.54 1156.40 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=540
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1040.51 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 1040.51 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1110.30 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.90
+setTransform 1.54 0.00 0.00 1.54 1110.30 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 1152.99 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.50
+setTransform 1.54 0.00 0.00 1.54 1152.99 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=555
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1002.67 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 1002.67 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1087.34 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.98
+setTransform 1.54 0.00 0.00 1.54 1087.34 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 1149.49 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.72
+setTransform 1.54 0.00 0.00 1.54 1149.49 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=585
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 914.75 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 914.75 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1026.99 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 1026.99 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1137.93 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.98
+setTransform 1.54 0.00 0.00 1.54 1137.93 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=600
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 866.48 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 866.48 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 990.34 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 990.34 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1129.57 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 1129.57 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=610
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 833.41 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 833.41 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 963.88 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 963.88 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1122.99 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 1122.99 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=635
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 750.00 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 750.00 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 892.18 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 892.18 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1102.88 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 1102.88 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=650
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 701.11 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.99
+setTransform 1.54 0.00 0.00 1.54 701.11 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 846.54 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 846.54 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1088.30 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 1088.30 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=655
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 685.25 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.99
+setTransform 1.54 0.00 0.00 1.54 685.25 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 831.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 831.08 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 1083.03 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+setTransform 1.54 0.00 0.00 1.54 1083.03 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -790,17 +1266,21 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.98
 setTransform 1.54 0.00 0.00 1.54 669.68 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 815.56 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 815.56 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1077.55 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
@@ -810,7 +1290,7 @@ setTransform 1.54 0.00 0.00 1.54 1077.55 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
-== at=740
+== at=680
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -862,28 +1342,114 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 484.42 500.00
+setTransform 1.54 0.00 0.00 1.54 610.95 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 484.42 464.62
+globalAlpha = 0.94
+setTransform 1.54 0.00 0.00 1.54 610.95 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 584.79 500.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 753.46 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 584.79 464.62
+globalAlpha = 0.99
+setTransform 1.54 0.00 0.00 1.54 753.46 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 964.65 500.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 1053.63 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 964.65 464.62
+setTransform 1.54 0.00 0.00 1.54 1053.63 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=750
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {n2, n2, n2}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 471.99 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.62
+setTransform 1.54 0.00 0.00 1.54 471.99 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 561.70 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.79
+setTransform 1.54 0.00 0.00 1.54 561.70 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 947.72 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.91
+setTransform 1.54 0.00 0.00 1.54 947.72 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -944,22 +1510,27 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.21
 setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 458.64 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.38
 setTransform 1.54 0.00 0.00 1.54 458.64 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 819.11 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.56
 setTransform 1.54 0.00 0.00 1.54 819.11 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
@@ -1022,6 +1593,7 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.14
 setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
@@ -1031,94 +1603,18 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.29
 setTransform 1.54 0.00 0.00 1.54 450.03 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 790.44 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.47
 setTransform 1.54 0.00 0.00 1.54 790.44 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
-restore
-== at=850
-save
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
-globalAlpha = 1.00
-shadowBlur = 0.00
-shadowColor = rgba(0, 0, 0, 0)
-fillStyle = #151a2e
-fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.54 0.00 0.00 1.54 0.00 0.00
-beginPath
-rect 0.00 0.00 1040.00 650.00
-clip
-lineWidth = 2.00
-lineCap = round
-font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-textAlign = center
-textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fillStyle = #ede9e1
-fill
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-fillStyle = #151a2e
-fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
-fillStyle = #ede9e1
-fillText "Peers {n2, n2, n2}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
-fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fill
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-fillStyle = #151a2e
-fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 569.23
-fillStyle = #ede9e1
-fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 609.23
-fillText "Got 0" 0.00 0.00
-globalAlpha = 0.99
-setTransform 1.54 0.00 0.00 1.54 443.08 500.00
-beginPath
-arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
-fill
-setTransform 1.54 0.00 0.00 1.54 443.08 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
-globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 445.25 500.00
-beginPath
-arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
-fill
-setTransform 1.54 0.00 0.00 1.54 445.25 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 761.84 500.00
-beginPath
-arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
-fill
-setTransform 1.54 0.00 0.00 1.54 761.84 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1180,6 +1676,7 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.04
 setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
@@ -1189,14 +1686,17 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.14
 setTransform 1.54 0.00 0.00 1.54 443.36 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 733.52 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.29
 setTransform 1.54 0.00 0.00 1.54 733.52 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
@@ -1259,6 +1759,7 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.02
 setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
@@ -1268,19 +1769,22 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.09
 setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 705.69 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
+globalAlpha = 0.21
 setTransform 1.54 0.00 0.00 1.54 705.69 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
-== at=1000
+== at=900
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
@@ -1332,33 +1836,320 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-globalAlpha = 0.32
+globalAlpha = 0.88
 setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 443.08 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
-globalAlpha = 0.68
-setTransform 1.54 0.00 0.00 1.54 443.08 500.00
-beginPath
-arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
-fill
+globalAlpha = 0.00
 setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 522.45 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 522.45 464.62
+globalAlpha = 0.04
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 669.68 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.12
+setTransform 1.54 0.00 0.00 1.54 669.68 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=935
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {n2, n2, n2}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+globalAlpha = 0.71
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.95
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fill
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 610.95 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fill
+globalAlpha = 0.03
+setTransform 1.54 0.00 0.00 1.54 610.95 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=950
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {n2, n2, n2}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+globalAlpha = 0.62
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.91
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fill
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 587.90 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fill
+globalAlpha = 0.01
+setTransform 1.54 0.00 0.00 1.54 587.90 464.62
+fillStyle = #ede9e1
+fillText "Msg" 0.00 0.00
+restore
+== at=965
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {n2, n2, n2}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+globalAlpha = 0.53
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.86
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fill
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 566.33 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fill
+restore
+== at=980
+save
+setTransform 1.00 0.00 0.00 1.00 0.00 0.00
+globalAlpha = 1.00
+shadowBlur = 0.00
+shadowColor = rgba(0, 0, 0, 0)
+fillStyle = #151a2e
+fillRect 0.00 0.00 1600.00 1000.00
+setTransform 1.54 0.00 0.00 1.54 0.00 0.00
+beginPath
+rect 0.00 0.00 1040.00 650.00
+clip
+lineWidth = 2.00
+lineCap = round
+font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
+textAlign = center
+textBaseline = middle
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fillStyle = #ede9e1
+fill
+setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+fillStyle = #151a2e
+fillText "n1" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
+fillStyle = #ede9e1
+fillText "Peers {n2, n2, n2}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
+fillText "Got 0" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+beginPath
+moveTo -36.00 -28.00
+arcTo 48.00 -28.00 48.00 28.00 12.00
+arcTo 48.00 28.00 -48.00 28.00 12.00
+arcTo -48.00 28.00 -48.00 -28.00 12.00
+arcTo -48.00 -28.00 48.00 -28.00 12.00
+closePath
+fill
+setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+fillStyle = #151a2e
+fillText "n2" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 569.23
+fillStyle = #ede9e1
+fillText "Peers {nobody}" 0.00 0.00
+setTransform 1.54 0.00 0.00 1.54 338.46 609.23
+fillText "Got 0" 0.00 0.00
+globalAlpha = 0.44
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fillStyle = #f4a340
+fill
+globalAlpha = 0.79
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fill
+globalAlpha = 1.00
+setTransform 1.54 0.00 0.00 1.54 546.37 500.00
+beginPath
+arc 0.00 0.00 6.00 0.00 6.28
+fill
 restore
 == at=1120
 save
@@ -1418,18 +2209,11 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 443.08 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 447.01 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 447.01 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
 == at=1135
 save
@@ -1489,18 +2273,11 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 443.08 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 444.80 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 444.80 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
 == at=1150
 save
@@ -1560,79 +2337,11 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 443.08 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 443.60 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 443.60 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
-restore
-== at=1165
-save
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
-globalAlpha = 1.00
-shadowBlur = 0.00
-shadowColor = rgba(0, 0, 0, 0)
-fillStyle = #151a2e
-fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.54 0.00 0.00 1.54 0.00 0.00
-beginPath
-rect 0.00 0.00 1040.00 650.00
-clip
-lineWidth = 2.00
-lineCap = round
-font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-textAlign = center
-textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fillStyle = #ede9e1
-fill
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-fillStyle = #151a2e
-fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
-fillStyle = #ede9e1
-fillText "Peers {n2, n2, n2}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
-fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fill
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-fillStyle = #151a2e
-fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 569.23
-fillStyle = #ede9e1
-fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 609.23
-fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 443.14 500.00
-beginPath
-arc 0.00 0.00 6.00 0.00 6.28
-fillStyle = #f4a340
-fill
-setTransform 1.54 0.00 0.00 1.54 443.14 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
 == at=1180
 save
@@ -1691,9 +2400,6 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 443.08 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
 == at=1315
 save
@@ -1753,9 +2459,6 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 443.08 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
 == at=1450
 save
@@ -1815,64 +2518,8 @@ beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 443.08 464.62
-fillStyle = #ede9e1
-fillText "Msg" 0.00 0.00
 restore
 == at=1465
-save
-setTransform 1.00 0.00 0.00 1.00 0.00 0.00
-globalAlpha = 1.00
-shadowBlur = 0.00
-shadowColor = rgba(0, 0, 0, 0)
-fillStyle = #151a2e
-fillRect 0.00 0.00 1600.00 1000.00
-setTransform 1.54 0.00 0.00 1.54 0.00 0.00
-beginPath
-rect 0.00 0.00 1040.00 650.00
-clip
-lineWidth = 2.00
-lineCap = round
-font = 500 16px "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif
-textAlign = center
-textBaseline = middle
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fillStyle = #ede9e1
-fill
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
-fillStyle = #151a2e
-fillText "n1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 569.23
-fillStyle = #ede9e1
-fillText "Peers {n2, n2, n2}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 609.23
-fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-beginPath
-moveTo -36.00 -28.00
-arcTo 48.00 -28.00 48.00 28.00 12.00
-arcTo 48.00 28.00 -48.00 28.00 12.00
-arcTo -48.00 28.00 -48.00 -28.00 12.00
-arcTo -48.00 -28.00 48.00 -28.00 12.00
-closePath
-fill
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
-fillStyle = #151a2e
-fillText "n2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 569.23
-fillStyle = #ede9e1
-fillText "Peers {nobody}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 609.23
-fillText "Got 2" 0.00 0.00
-restore
-== at=1480
 save
 setTransform 1.00 0.00 0.00 1.00 0.00 0.00
 globalAlpha = 1.00
