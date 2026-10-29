@@ -2,7 +2,7 @@
 
 All notable changes to the Synod player. Every `synodlang` repository shares MAJOR.MINOR with the language version.
 
-## Unreleased
+## v0.3.0 — 2026-10-29
 
 Implements Synod 0.3 (themes, richer drawing).
 
