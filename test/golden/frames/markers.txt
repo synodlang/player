@@ -1113,7 +1113,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore
 == at=1540
@@ -1168,7 +1168,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 320.00 484.62
 beginPath
@@ -1228,7 +1228,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 345.55 484.62
 beginPath
@@ -1292,7 +1292,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 624.74 484.62
 beginPath
@@ -1355,7 +1355,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 484.62
 beginPath
@@ -1418,7 +1418,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1180.63 484.62
 beginPath
@@ -1482,7 +1482,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 globalAlpha = 1.00
 setTransform 1.54 0.00 0.00 1.54 1280.00 484.62
@@ -1547,7 +1547,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 globalAlpha = 0.99
 setTransform 1.54 0.00 0.00 1.54 1280.00 484.62
@@ -1612,7 +1612,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 globalAlpha = 0.97
 setTransform 1.54 0.00 0.00 1.54 1280.00 484.62
@@ -1693,7 +1693,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 globalAlpha = 0.88
 setTransform 1.54 0.00 0.00 1.54 1280.00 484.62
@@ -1774,7 +1774,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 globalAlpha = 0.79
 setTransform 1.54 0.00 0.00 1.54 1280.00 484.62
@@ -1851,7 +1851,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 globalAlpha = 0.21
 setTransform 1.54 0.00 0.00 1.54 1280.00 484.62
@@ -1928,7 +1928,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore
 == at=2270
@@ -1999,7 +1999,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore
 == at=2285
@@ -2070,7 +2070,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore
 == at=2450
@@ -2139,7 +2139,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore
 == at=2600
@@ -2204,7 +2204,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore
 == at=2750
@@ -2269,7 +2269,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore
 == at=3050
@@ -2336,7 +2336,7 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore
 == at=3200
@@ -2391,6 +2391,6 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 1384.62 593.85
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "b now holds two messages." 0.00 0.00
 restore

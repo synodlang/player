@@ -472,7 +472,7 @@ setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 10" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "Writes after the checkpoint come back from the log." 0.00 0.00
 restore
 == at=13386.667
@@ -512,7 +512,7 @@ setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 10" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 6" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "Writes after the checkpoint come back from the log." 0.00 0.00
 restore
 == at=15060
@@ -552,6 +552,6 @@ setTransform 1.54 0.00 0.00 1.54 800.00 593.85
 fillText "Lsn 11" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 800.00 633.85
 fillText "Flushed 10" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 800.00 929.23
+setTransform 1.54 0.00 0.00 1.54 800.00 61.54
 fillText "Writes after the checkpoint come back from the log." 0.00 0.00
 restore

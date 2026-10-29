@@ -22,6 +22,7 @@ Implements Synod 0.3 (themes, richer drawing).
 
 ### Changed
 
+- Example scenes, frame and hit goldens, and the `markers`, `paxos` and `raft` pixel snapshots follow the lesson note in the top band (`y` 40) and `paxos` writing its state to disk.
 - The vendored scenes follow the compiler's wider ring (layout centre (520, 315)) and 24-character state rows; the builder scene `state-rows-long` is new, and the goldens and the WebKit snapshots of the scenes that changed are regenerated.
 - The default sans is Inter (was the system font). Every display-list golden differs only in its `font = ...` line; the WebKit pixel snapshots are regenerated.
 - A counter column rolls only while the column below is on its last digit (an odometer), so a whole number is drawn crisp.
