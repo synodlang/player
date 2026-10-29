@@ -133,10 +133,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sac582572a570",
-      "kind": "circle",
-      "node": null,
-      "msg": 3
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
      }
     },
     {
@@ -260,10 +260,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s1a582ec397ba",
-      "kind": "circle",
-      "node": null,
-      "msg": 5
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
      }
     },
     {
@@ -273,10 +273,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sa15820a22ccd",
-      "kind": "circle",
-      "node": null,
-      "msg": 2
+      "id": "sd1dc31f8a1f6",
+      "kind": "rect",
+      "node": "n3",
+      "msg": null
      }
     },
     {
@@ -286,10 +286,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sac582572a570",
-      "kind": "circle",
-      "node": null,
-      "msg": 3
+      "id": "s94dc36d4dd9d",
+      "kind": "rect",
+      "node": "n4",
+      "msg": null
      }
     }
    ]
@@ -304,10 +304,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s6f582aabb2f7",
-      "kind": "circle",
-      "node": null,
-      "msg": 4
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
      }
     },
     {
@@ -361,10 +361,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s3d5833a07681",
-      "kind": "circle",
-      "node": null,
-      "msg": 6
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
      }
     },
     {

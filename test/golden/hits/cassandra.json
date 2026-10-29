@@ -167,10 +167,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s46d6fba1f0f5",
-      "kind": "circle",
-      "node": null,
-      "msg": 46
+      "id": "s7edc5380b51b",
+      "kind": "rect",
+      "node": "n6",
+      "msg": null
      }
     }
    ]
@@ -224,10 +224,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sd1e8e6d200d6",
-      "kind": "circle",
-      "node": null,
-      "msg": 63
+      "id": "s94dc36d4dd9d",
+      "kind": "rect",
+      "node": "n4",
+      "msg": null
      }
     },
     {
@@ -364,10 +364,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s32f50f909db4",
-      "kind": "circle",
-      "node": null,
-      "msg": 111
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
      }
     },
     {
@@ -499,10 +499,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s5aec2fef436b",
-      "kind": "circle",
-      "node": null,
-      "msg": 125
+      "id": "s7edc5380b51b",
+      "kind": "rect",
+      "node": "n6",
+      "msg": null
      }
     }
    ]
@@ -517,10 +517,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s431eaafcaebd",
-      "kind": "circle",
-      "node": null,
-      "msg": 145
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
      }
     },
     {
@@ -613,10 +613,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s200cbfc11238",
-      "kind": "circle",
-      "node": null,
-      "msg": 166
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
      }
     },
     {
@@ -626,10 +626,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "see0cca276a42",
-      "kind": "circle",
-      "node": null,
-      "msg": 164
+      "id": "sd1dc31f8a1f6",
+      "kind": "rect",
+      "node": "n3",
+      "msg": null
      }
     },
     {

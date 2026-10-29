@@ -94,10 +94,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sde581b0c4d66",
-      "kind": "circle",
-      "node": null,
-      "msg": 1
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
      }
     }
    ]
@@ -143,10 +143,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sa15820a22ccd",
-      "kind": "circle",
-      "node": null,
-      "msg": 2
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
      }
     },
     {
@@ -218,10 +218,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sac582572a570",
-      "kind": "circle",
-      "node": null,
-      "msg": 3
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
      }
     }
    ]

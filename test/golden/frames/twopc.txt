@@ -364,28 +364,28 @@ fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 347.19
+setTransform 1.54 0.00 0.00 1.54 1126.35 446.43
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 311.80
+setTransform 1.54 0.00 0.00 1.54 1126.35 411.04
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1106.78 346.60
+setTransform 1.54 0.00 0.00 1.54 985.30 407.34
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1106.78 311.22
+setTransform 1.54 0.00 0.00 1.54 985.30 371.96
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1125.43 336.82
+setTransform 1.54 0.00 0.00 1.54 996.57 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1125.43 301.43
+setTransform 1.54 0.00 0.00 1.54 996.57 301.43
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 restore
@@ -475,28 +475,28 @@ fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 583.97
+setTransform 1.54 0.00 0.00 1.54 1126.35 560.43
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 548.59
+setTransform 1.54 0.00 0.00 1.54 1126.35 525.05
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 488.32 655.85
+setTransform 1.54 0.00 0.00 1.54 611.74 594.14
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 488.32 620.46
+setTransform 1.54 0.00 0.00 1.54 611.74 558.75
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 782.84 336.82
+setTransform 1.54 0.00 0.00 1.54 789.64 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 782.84 301.43
+setTransform 1.54 0.00 0.00 1.54 789.64 301.43
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 restore
@@ -586,38 +586,38 @@ fillStyle = #ede9e1
 fillText "State idle" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 659.31
+setTransform 1.54 0.00 0.00 1.54 1126.35 596.70
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 623.93
+setTransform 1.54 0.00 0.00 1.54 1126.35 561.32
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 0.86
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 602.88 598.57
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 627.80
+setTransform 1.54 0.00 0.00 1.54 602.88 563.18
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 545.22 336.82
+setTransform 1.54 0.00 0.00 1.54 646.11 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 545.22 301.43
+setTransform 1.54 0.00 0.00 1.54 646.11 301.43
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 474.93 662.54
+setTransform 1.54 0.00 0.00 1.54 585.26 607.38
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 474.93 627.16
+setTransform 1.54 0.00 0.00 1.54 585.26 571.99
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -708,46 +708,46 @@ fillText "State idle" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
 globalAlpha = 0.89
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.18
+setTransform 1.54 0.00 0.00 1.54 1126.35 598.57
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 627.80
+setTransform 1.54 0.00 0.00 1.54 1126.35 563.18
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 0.11
-setTransform 1.54 0.00 0.00 1.54 473.65 663.18
+setTransform 1.54 0.00 0.00 1.54 602.88 598.57
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 627.80
+setTransform 1.54 0.00 0.00 1.54 602.88 563.18
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 473.75 336.82
+setTransform 1.54 0.00 0.00 1.54 602.94 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 473.75 301.43
+setTransform 1.54 0.00 0.00 1.54 602.94 301.43
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 693.48 553.26
+setTransform 1.54 0.00 0.00 1.54 729.64 535.18
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 693.48 517.88
+setTransform 1.54 0.00 0.00 1.54 729.64 499.80
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 663.17
+setTransform 1.54 0.00 0.00 1.54 1126.35 598.56
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 627.79
+setTransform 1.54 0.00 0.00 1.54 1126.35 563.18
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -838,38 +838,38 @@ fillText "State idle" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
 globalAlpha = 0.01
-setTransform 1.54 0.00 0.00 1.54 473.65 336.82
+setTransform 1.54 0.00 0.00 1.54 602.88 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 473.65 301.43
+setTransform 1.54 0.00 0.00 1.54 602.88 301.43
 fillStyle = #ede9e1
 fillText "Prepare" 0.00 0.00
 globalAlpha = 0.97
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 1015.58 392.20
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 301.43
+setTransform 1.54 0.00 0.00 1.54 1015.58 356.82
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 623.99
+setTransform 1.54 0.00 0.00 1.54 1126.35 579.70
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 588.61
+setTransform 1.54 0.00 0.00 1.54 1126.35 544.32
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 816.31 336.82
+setTransform 1.54 0.00 0.00 1.54 810.77 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 816.31 301.43
+setTransform 1.54 0.00 0.00 1.54 810.77 301.43
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -960,30 +960,30 @@ fillText "State prepared" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
 globalAlpha = 0.03
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 1015.58 392.20
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 301.43
+setTransform 1.54 0.00 0.00 1.54 1015.58 356.82
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 550.60
+setTransform 1.54 0.00 0.00 1.54 1126.35 544.36
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 515.21
+setTransform 1.54 0.00 0.00 1.54 1126.35 508.98
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 1015.58 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 301.43
+setTransform 1.54 0.00 0.00 1.54 1015.58 301.43
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -1073,21 +1073,21 @@ fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 531.51
+setTransform 1.54 0.00 0.00 1.54 1126.35 535.17
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 496.13
+setTransform 1.54 0.00 0.00 1.54 1126.35 499.79
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 globalAlpha = 0.89
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 1015.58 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 301.43
+setTransform 1.54 0.00 0.00 1.54 1015.58 301.43
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -1177,21 +1177,21 @@ fillStyle = #ede9e1
 fillText "State prepared" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 529.26
+setTransform 1.54 0.00 0.00 1.54 1126.35 534.09
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 493.88
+setTransform 1.54 0.00 0.00 1.54 1126.35 498.71
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 globalAlpha = 0.85
-setTransform 1.54 0.00 0.00 1.54 1126.35 336.82
+setTransform 1.54 0.00 0.00 1.54 1015.58 336.82
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 301.43
+setTransform 1.54 0.00 0.00 1.54 1015.58 301.43
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore
@@ -1282,12 +1282,12 @@ fillText "State prepared" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 473.65 446.05
 fillText "Participants {}" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1126.35 500.00
+setTransform 1.54 0.00 0.00 1.54 1126.35 520.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1126.35 464.62
+setTransform 1.54 0.00 0.00 1.54 1126.35 484.62
 fillStyle = #ede9e1
 fillText "Vote" 0.00 0.00
 restore

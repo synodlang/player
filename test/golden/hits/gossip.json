@@ -128,10 +128,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s4ac8128a03e3",
-      "kind": "circle",
-      "node": null,
-      "msg": 30
+      "id": "sd1dc31f8a1f6",
+      "kind": "rect",
+      "node": "n3",
+      "msg": null
      }
     },
     {
@@ -268,10 +268,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sd1e8e6d200d6",
-      "kind": "circle",
-      "node": null,
-      "msg": 63
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
      }
     },
     {
@@ -364,10 +364,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sb0f1b85116b2",
-      "kind": "circle",
-      "node": null,
-      "msg": 80
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
      }
     },
     {
@@ -447,10 +447,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s9d7d23f27ca5",
-      "kind": "circle",
-      "node": null,
-      "msg": 93
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
      }
     },
     {
@@ -486,10 +486,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s397d374d9839",
-      "kind": "circle",
-      "node": null,
-      "msg": 97
+      "id": "sdbdc4f5ca094",
+      "kind": "rect",
+      "node": "n5",
+      "msg": null
      }
     },
     {
@@ -517,10 +517,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s32f50f909db4",
-      "kind": "circle",
-      "node": null,
-      "msg": 111
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
      }
     },
     {
@@ -530,10 +530,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s55f515256d3b",
-      "kind": "circle",
-      "node": null,
-      "msg": 112
+      "id": "se2dc40259987",
+      "kind": "rect",
+      "node": "n2",
+      "msg": null
      }
     },
     {
@@ -600,10 +600,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "sadec0e673046",
-      "kind": "circle",
-      "node": null,
-      "msg": 124
+      "id": "s1fdc3aec8c00",
+      "kind": "rect",
+      "node": "n1",
+      "msg": null
      }
     },
     {
@@ -665,10 +665,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "se9ec221e7a9a",
-      "kind": "circle",
-      "node": null,
-      "msg": 128
+      "id": "s7edc5380b51b",
+      "kind": "rect",
+      "node": "n6",
+      "msg": null
      }
     }
    ]

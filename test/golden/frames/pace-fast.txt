@@ -371,12 +371,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+setTransform 1.54 0.00 0.00 1.54 1156.92 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1261.54 464.62
+setTransform 1.54 0.00 0.00 1.54 1156.92 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -432,12 +432,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1111.00 500.00
+setTransform 1.54 0.00 0.00 1.54 1040.51 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1111.00 464.62
+setTransform 1.54 0.00 0.00 1.54 1040.51 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -493,12 +493,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 631.48 500.00
+setTransform 1.54 0.00 0.00 1.54 669.68 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 631.48 464.62
+setTransform 1.54 0.00 0.00 1.54 669.68 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -554,12 +554,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 391.93 500.00
+setTransform 1.54 0.00 0.00 1.54 484.42 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 391.93 464.62
+setTransform 1.54 0.00 0.00 1.54 484.42 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -615,12 +615,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -677,12 +677,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -739,12 +739,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
 globalAlpha = 0.99
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -801,12 +801,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
 globalAlpha = 0.94
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -863,21 +863,21 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
 globalAlpha = 0.83
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+setTransform 1.54 0.00 0.00 1.54 1156.92 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1261.54 464.62
+setTransform 1.54 0.00 0.00 1.54 1156.92 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -934,21 +934,21 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
 globalAlpha = 0.23
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 1155.99 500.00
+setTransform 1.54 0.00 0.00 1.54 1075.30 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1155.99 464.62
+setTransform 1.54 0.00 0.00 1.54 1075.30 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1004,12 +1004,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 765.42 500.00
+setTransform 1.54 0.00 0.00 1.54 773.26 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 765.42 464.62
+setTransform 1.54 0.00 0.00 1.54 773.26 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1065,12 +1065,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 0" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 701.35 500.00
+setTransform 1.54 0.00 0.00 1.54 723.71 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 701.35 464.62
+setTransform 1.54 0.00 0.00 1.54 723.71 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1126,12 +1126,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 639.49 500.00
+setTransform 1.54 0.00 0.00 1.54 675.87 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 639.49 464.62
+setTransform 1.54 0.00 0.00 1.54 675.87 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1187,12 +1187,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 393.72 500.00
+setTransform 1.54 0.00 0.00 1.54 485.81 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 393.72 464.62
+setTransform 1.54 0.00 0.00 1.54 485.81 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1248,12 +1248,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 1" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1310,12 +1310,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 1" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1372,12 +1372,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 1" 0.00 0.00
 globalAlpha = 0.99
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1434,12 +1434,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 1" 0.00 0.00
 globalAlpha = 0.41
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1707,12 +1707,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 1261.54 500.00
+setTransform 1.54 0.00 0.00 1.54 1156.92 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 1261.54 464.62
+setTransform 1.54 0.00 0.00 1.54 1156.92 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1829,12 +1829,12 @@ fillStyle = #ede9e1
 fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 2" 0.00 0.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1891,12 +1891,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 2" 0.00 0.00
 globalAlpha = 1.00
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -1953,12 +1953,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 2" 0.00 0.00
 globalAlpha = 0.99
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
@@ -2015,12 +2015,12 @@ fillText "Peers {nobody}" 0.00 0.00
 setTransform 1.54 0.00 0.00 1.54 338.46 609.23
 fillText "Got 2" 0.00 0.00
 globalAlpha = 0.41
-setTransform 1.54 0.00 0.00 1.54 338.46 500.00
+setTransform 1.54 0.00 0.00 1.54 443.08 500.00
 beginPath
 arc 0.00 0.00 6.00 0.00 6.28
 fillStyle = #f4a340
 fill
-setTransform 1.54 0.00 0.00 1.54 338.46 464.62
+setTransform 1.54 0.00 0.00 1.54 443.08 464.62
 fillStyle = #ede9e1
 fillText "Msg" 0.00 0.00
 restore
