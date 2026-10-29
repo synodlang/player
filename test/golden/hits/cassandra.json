@@ -333,10 +333,10 @@
      "w": 147.692,
      "h": 86.154,
      "hit": {
-      "id": "s9d7d23f27ca5",
-      "kind": "circle",
-      "node": null,
-      "msg": 93
+      "id": "s7edc5380b51b",
+      "kind": "rect",
+      "node": "n6",
+      "msg": null
      }
     }
    ]
